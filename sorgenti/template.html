@@ -1,0 +1,752 @@
+<title>Patto del Convocatore</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral+SC:wght@500;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#E8EBEE; --surface:#F6F7F8; --surface2:#DCE1E6; --line:#C6CDD4;
+  --ink:#1B2028; --muted:#5E6773; --accent:#1F5C8A; --accent-ink:#FFFFFF;
+  --bronze:#8A6A2E; --cond:#B3121B; --good:#2E6B4A; --warn:#9A5B12;
+  --mark:#D8E6F2; --adv:#1E7A1E;
+  --f-display:"Spectral SC", Georgia, "Times New Roman", serif;
+  --f-body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#12161C; --surface:#1B2129; --surface2:#262E38; --line:#35404C;
+    --ink:#E6EAEF; --muted:#9AA5B1; --accent:#7FB6E3; --accent-ink:#0F1A24;
+    --bronze:#D0AE6B; --cond:#FF6B6B; --good:#7CC79B; --warn:#E3A55A;
+    --mark:#22364A; --adv:#5FBF5F; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#12161C; --surface:#1B2129; --surface2:#262E38; --line:#35404C;
+  --ink:#E6EAEF; --muted:#9AA5B1; --accent:#7FB6E3; --accent-ink:#0F1A24;
+  --bronze:#D0AE6B; --cond:#FF6B6B; --good:#7CC79B; --warn:#E3A55A;
+  --mark:#22364A; --adv:#5FBF5F; color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.45;padding:0 16px 80px}
+.wrap{max-width:760px;margin:0 auto}
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:12px 8px;border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+h1{font-family:var(--f-display);font-weight:700;font-size:1.45rem;margin:0;letter-spacing:.02em;text-wrap:balance}
+.pgSel{max-width:60vw;padding:6px 8px;border:1px solid var(--line);border-radius:7px;background:var(--surface);color:var(--ink);font:600 .85rem var(--f-body)}
+.hsub{color:var(--muted);font-size:.8rem;margin-top:4px}
+nav.tabs{display:flex;gap:6px;margin-top:10px}
+nav.tabs button{flex:1;padding:9px 6px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;font:600 .9rem var(--f-body);cursor:pointer}
+nav.tabs button[aria-selected="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+section.panel{display:grid;gap:18px;padding-top:16px}
+h2{font-family:var(--f-display);font-weight:500;font-size:1.15rem;margin:0 0 8px;letter-spacing:.03em;color:var(--bronze)}
+h3{font-size:.95rem;margin:0}
+.label{font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px}
+.grid{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(110px,1fr))}
+.field{display:grid;gap:3px}
+.field input,.field select{width:100%;padding:7px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);font:500 .95rem var(--f-mono)}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.check{display:flex;gap:8px;align-items:flex-start;font-size:.9rem}
+.check input{width:18px;height:18px;accent-color:var(--accent);flex-shrink:0;margin-top:2px}
+.banner{background:var(--mark);border-radius:8px;padding:8px 12px;font-size:.85rem}
+.banner.warn{background:transparent;border:1px solid var(--warn);color:var(--warn)}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px;display:grid;gap:2px}
+.stat b{font:500 1.3rem var(--f-mono);font-variant-numeric:tabular-nums}
+.btn{padding:7px 12px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:7px;font:600 .85rem var(--f-body);cursor:pointer}
+.btn.pri{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.sm{padding:4px 9px;font-size:.8rem}
+.btn.danger{color:var(--cond);border-color:var(--cond)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{padding:5px 10px;border-radius:999px;border:1px solid var(--line);background:var(--surface);font-size:.8rem;cursor:pointer;color:var(--ink);font-family:var(--f-body)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:disabled{opacity:.4;cursor:not-allowed}
+.list{display:grid;gap:6px}
+.item{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 12px;background:var(--surface);border:1px solid var(--line);border-radius:8px;cursor:pointer;text-align:left;width:100%;color:var(--ink);font:inherit}
+.item.locked{opacity:.5}
+.item .meta{color:var(--muted);font-size:.8rem}
+.tag{font:500 .7rem var(--f-mono);padding:2px 6px;border-radius:4px;background:var(--surface2);color:var(--muted);white-space:nowrap}
+.tag.acc{background:var(--accent);color:var(--accent-ink)}
+.tag.cb{background:var(--bronze);color:var(--surface)}
+.catHead{display:flex;justify-content:space-between;align-items:baseline;margin:10px 0 4px;gap:8px}
+.sheet{display:grid;gap:12px}
+.sheetHead{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
+.sheet h2{margin:0;font-size:1.35rem;color:var(--ink)}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(112px,1fr));gap:8px}
+.kv div{background:var(--bg);border-radius:8px;padding:8px 10px}
+.kv b{display:block;font:500 1.1rem var(--f-mono);font-variant-numeric:tabular-nums}
+.kv small{display:block;color:var(--muted);font-size:.72rem}
+.txt{font-size:.9rem}
+.txt p{margin:4px 0}
+.atk{display:grid;gap:4px;font-size:.9rem}
+.atk .l{display:flex;justify-content:space-between;gap:10px;border-bottom:1px dashed var(--line);padding-block:4px}
+.atk .l span:last-child{font-family:var(--f-mono);text-align:right}
+.note{font-size:.82rem;color:var(--muted)}
+.warnT{color:var(--warn)}
+.cond{color:var(--cond);font-weight:600}
+.adv{background:var(--adv);color:#fff;padding:0 3px;border-radius:3px}
+.dis{background:var(--cond);color:#fff;padding:0 3px;border-radius:3px}
+.mod{color:var(--accent);font-weight:600}
+.overlay{position:fixed;inset:0;background:rgba(8,12,18,.55);z-index:20;display:flex;justify-content:center;align-items:flex-end}
+.overlay .card{width:100%;max-width:760px;max-height:88vh;overflow:auto;border-radius:14px 14px 0 0;padding:16px 16px calc(16px + env(safe-area-inset-bottom,0px))}
+.hp{display:flex;align-items:center;gap:6px}
+.hp input{width:64px;padding:5px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);font:500 .95rem var(--f-mono);text-align:center}
+.bar{height:6px;border-radius:3px;background:var(--surface2);overflow:hidden}
+.bar i{display:block;height:100%;background:var(--good)}
+.bar i.low{background:var(--cond)}
+.active{display:grid;gap:8px;padding:10px 12px;background:var(--surface);border:1px solid var(--line);border-radius:8px}
+.search{width:100%;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink);font:inherit}
+details summary{cursor:pointer;font-weight:600}
+.evoRow{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+.evoRow.base{border-style:dashed}
+.evoRow.bad{border-color:var(--warn)}
+.evoRow select{padding:4px 6px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);font:500 .8rem var(--f-body);max-width:100%}
+.pebar{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:10px 12px;border-radius:8px;background:var(--mark)}
+.pebar b{font:600 1.1rem var(--f-mono)}
+.pebar.over{background:transparent;border:1px solid var(--cond);color:var(--cond)}
+@media (prefers-reduced-motion: no-preference){.overlay .card{animation:up .18s ease-out}@keyframes up{from{transform:translateY(20px);opacity:.6}to{transform:none;opacity:1}}}
+</style>
+
+<div class="wrap">
+<header class="top">
+  <div class="brand">
+    <h1>Patto del Convocatore</h1>
+    <span class="row" style="gap:6px"><label class="label" for="pgSel">Personaggio</label><select id="pgSel" class="pgSel"></select></span>
+  </div>
+  <div class="hsub" id="hdrSub"></div>
+  <nav class="tabs" role="tablist">
+    <button role="tab" id="tab-profilo" aria-selected="true" data-tab="profilo">Convocatore</button>
+    <button role="tab" id="tab-eidolon" aria-selected="false" data-tab="eidolon">Eidolon</button>
+    <button role="tab" id="tab-evoca" aria-selected="false" data-tab="evoca">Evocazioni</button>
+  </nav>
+</header>
+<main id="main"></main>
+</div>
+<div id="modal"></div>
+
+<script>
+const C = __CONV__;
+const ESTERNI = __ESTERNI__;
+const ELEMENTALI = __ELEMENTALI__;
+
+/* ---------- utilità ---------- */
+const mod=v=>Math.floor((v-10)/2);
+const sg=n=>(n>=0?'+':'')+n;
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const ROM=['','I','II','III','IV','V','VI','VII','VIII','IX'];
+const CONDIZIONI=['Azzoppat','Colt[oaie] alla sprovvista','Offuscat','Affaticat','Abbagliat','Accecat','Accovacciat','Affascinat','Assordat','Barcollant','Confus','Esaust','Frastornat','Immobilizzat','Impreparat','[Ii]n [Ll]otta','Inabil','Incorpore','Indifes','Inferm','Intralciat','Invisibil','Morent','Nauseat','Paralizzat','Scoss','Spaventat','In Preda al Panico','Pietrificat','Privo di Sensi','Priv[oaie] di sensi','Pron[oaie]','Rott','Sanguinant','Scheggiat','Stabilizzat','Stordit','Sempre pront'];
+const COND_RE=new RegExp('\\b('+CONDIZIONI.join('|')+')([a-z]*)\\b','gi');
+function rich(s){
+  let h=esc(s);
+  h=h.replace(COND_RE,m=>'<span class="cond">'+m+'</span>');
+  h=h.replace(/\bSvantaggio\b/gi,m=>'<span class="dis">'+m+'</span>').replace(/\b(?<!s)[Vv]antaggio\b/g,m=>'<span class="adv">'+m+'</span>');
+  return h;
+}
+const EN_EL={acqua:'freddo',aria:'elettricità',fuoco:'fuoco',terra:'acido'};
+const VU_EL={acqua:'fuoco',aria:'acido',fuoco:'freddo',terra:'elettricità'};
+const ENERGIE=['acido','elettricità','freddo','fuoco'];
+const CAR=['For','Des','Cos','Int','Sag','Car'];
+const CAR_N={For:'Forza',Des:'Destrezza',Cos:'Costituzione',Int:'Intelligenza',Sag:'Saggezza',Car:'Carisma'};
+const EVO=Object.fromEntries(C.evoluzioni.map(e=>[e.id,e]));
+const DOTI=Object.fromEntries(C.doti.map(d=>[d.id,d]));
+const ARCH=Object.fromEntries(C.archetipi.map(a=>[a.id,a]));
+const DADI=['1d2','1d3','1d4','1d6','1d8','1d10','2d6','2d8','3d6','3d8'];
+const stepDado=(d,n)=>{let i=DADI.indexOf(d);if(i<0)return d;return DADI[Math.max(0,Math.min(DADI.length-1,i+n))];};
+
+/* ---------- stato ---------- */
+const DEFAULT={esempio:true,nome:'Esempio — Ilvar',livello:8,car:18,archetipi:[],doti:{evocazioni_potenziate:1,eidolon_guardiano:1,evocazioni_solari:1,punti_evoluzione_extra:1},
+  forma:'bipede',taglia:'Media',fis:{For:16,Des:14,Cos:12},aumenti:['For','Cos','Des','For'],
+  scelta:'artigli',evo:[{id:'morso'},{id:'armatura_naturale_migliorata'},{id:'resistenza',scelta:'fuoco'},{id:'arti_gambe'},{id:'danno_naturale_migliorato',scelta:'Artiglio'},{id:'fiuto'},{id:'aumento_di_caratteristica',scelta:'For'},{id:'scalare'}],
+  trasf:0,rituale:'eidolon',affinita:'fuoco',pfManuali:'',offerta:false,
+  usiEvoca:0,ultimo:null,eidolonInCampo:false,evocati:[],meta:'evocazioni_solari',filtroGrado:0,prediletto:null,vincolo:[],tab:'profilo',
+  eidPF:null,usiArch:0};
+function nuovoPg(n){return JSON.parse(JSON.stringify(Object.assign({},DEFAULT,{esempio:false,nome:n||'Nuovo convocatore',livello:1,doti:{},evo:[],evocati:[],aumenti:['For','For','For','For']})));}
+let G=loadG(), S=G.dati[G.attivo];
+function loadG(){
+  try{const r=localStorage.getItem('patto-convocatore-v1');if(r){const g=JSON.parse(r);if(g&&g.dati&&g.dati[g.attivo])return g;}}catch(e){}
+  const id='p'+Date.now();return {attivo:id,dati:{[id]:JSON.parse(JSON.stringify(DEFAULT))}};
+}
+function save(){G.dati[G.attivo]=S;try{localStorage.setItem('patto-convocatore-v1',JSON.stringify(G));}catch(e){}}
+function fill(s){for(const k in DEFAULT)if(s[k]===undefined)s[k]=JSON.parse(JSON.stringify(DEFAULT[k]));return s;}
+fill(S);
+
+/* ---------- regole di classe ---------- */
+const has=a=>S.archetipi.includes(a);
+const nDote=id=>S.doti[id]||0;
+const lv=()=>Math.max(1,Math.min(20,+S.livello||1));
+const haEidolon=()=>!has('leader_empireo')&&!has('signore_delle_schiere');
+const haEvoca=()=>!['profeta','controevocatore','armonizzatore','cavalca_eidolon'].some(has);
+const gradoMax=()=>Math.min(9,Math.ceil(lv()/2));
+function perdeTrasf(){return ['leader_empireo','profeta','creativo','signore_delle_schiere'].some(has);}
+function trasfMax(){if(perdeTrasf()||!haEidolon())return 0;return lv()>=18?6:lv()>=10?2:0;}
+function trasfRid(t){return lv()>=18?Math.ceil(t/2):t;}
+function usiMax(){
+  if(has('signore_delle_schiere'))return 5+mod(S.car)+nDote('evocazione_extra');
+  return 3+mod(S.car)+nDote('evocazione_extra')+(has('leader_empireo')?2:0);
+}
+function libroEvocazioni(){
+  if(has('elementalista'))return ELEMENTALI;
+  if(has('demonologo'))return ESTERNI.filter(e=>/\bdemone\b/i.test(e.tipo));
+  return ESTERNI;
+}
+function conflitti(id){
+  const t=new Set(ARCH[id].tocca);
+  return S.archetipi.filter(a=>a!==id&&ARCH[a].tocca.some(x=>t.has(x)));
+}
+
+/* ---------- eidolon ---------- */
+function evoCount(ev,id){return ev.filter(e=>e.id===id).length;}
+function baseEvo(){
+  const f=C.forme[S.forma];const out=[];
+  for(const b of f.base){const [id,sc]=b.split(':');out.push({id,scelta:sc?EVO[sc]?.att?.nome||sc:undefined,base:true});}
+  if(f.scelta)out.push({id:S.scelta&&f.scelta.includes(S.scelta)?S.scelta:f.scelta[0],base:true});
+  if(has('cavalca_eidolon'))out.push({id:'cavalcatura',base:true,arch:true});
+  if(has('elementalista'))out.push({id:'immunita_sop',scelta:EN_EL[S.affinita],base:true,arch:true});
+  return out;
+}
+function tagliaEid(ev){
+  const ts=ev.find(e=>e.id==='taglia_superiore');
+  if(ts)return ts.extra?'Enorme':'Grande';
+  return S.taglia==='Piccola'?'Piccola':'Media';
+}
+const TAGLIA={Piccola:{For:-4,Des:2,Cos:-2,ca:1,txc:1,bmc:-2,nat:0,furt:2,dado:-1},Media:{For:0,Des:0,Cos:0,ca:0,txc:0,bmc:0,nat:0,furt:0,dado:0},
+  Grande:{For:4,Des:-2,Cos:2,ca:-1,txc:-1,bmc:2,nat:2,furt:-2,dado:0},Enorme:{For:8,Des:-4,Cos:4,ca:-2,txc:-2,bmc:3,nat:5,furt:-4,dado:0}};
+function costoEvo(e,taglia){
+  const d=EVO[e.id];let c=d.costo;
+  if(e.id==='aumento_di_caratteristica'&&(e.scelta==='For'||e.scelta==='Cos')&&(taglia==='Grande'||taglia==='Enorme'))c=4;
+  if(e.id==='taglia_superiore'&&e.extra)c+=6;
+  if(e.id==='veleno'&&e.extra)c+=1;
+  if(e.id==='soffio'&&e.extra)c+=Math.min(2,+e.extra);
+  return c;
+}
+function maxSel(d,L){
+  const m=d.multi;
+  if(!m)return 1; if(m===true)return 99;
+  if(m==='2@10')return L>=10?2:1; if(m==='2@7')return L>=7?2:1;
+  if(m==='ogni5')return Math.ceil(L/5);
+  return 99;
+}
+function attacchiEvo(ev){
+  const a=[];for(const e of ev){const d=EVO[e.id];if(d&&d.att)for(let i=0;i<1;i++)a.push(Object.assign({},d.att,{src:e}));}
+  return a;
+}
+function calcEid(){
+  const L=lv();const row=C.tabella[L-1];const f=C.forme[S.forma];
+  const base=baseEvo();const scelte=S.evo.filter(e=>EVO[e.id]);
+  const ev=[...base,...scelte];
+  const taglia=tagliaEid(ev);const T=TAGLIA[taglia];
+  const err=[];
+  // punti
+  let pe=row.pe+nDote('punti_evoluzione_extra')+(L>=20&&S.rituale==='eidolon'?4:0);
+  const trasf=Math.min(+S.trasf||0,trasfMax());
+  pe-=trasfRid(trasf);
+  if(has('elementalista'))pe-=1;
+  let spesi=0;
+  const stato=scelte.map(e=>{
+    const d=EVO[e.id];const probs=[];
+    if(d.lv&&L<d.lv)probs.push('richiede convocatore di '+d.lv+'° livello');
+    if(d.id==='taglia_superiore'){if(S.taglia==='Piccola')probs.push('richiede taglia media');if(e.extra&&L<13)probs.push('taglia enorme dal 13° livello');}
+    if(d.forme&&!d.forme.includes(S.forma))probs.push('forma base non ammessa');
+    for(const r of d.req||[])if(!ev.some(x=>x.id===r))probs.push('richiede '+EVO[r].nome);
+    if(d.reqUno&&!d.reqUno.some(r=>ev.some(x=>x.id===r)))probs.push('richiede '+d.reqUno.map(r=>EVO[r].nome).join(' o '));
+    if(d.reqAtt&&!attacchiEvo(ev).length)probs.push('richiede un attacco naturale');
+    const c=costoEvo(e,taglia);spesi+=c;
+    return {e,d,c,probs};
+  });
+  // limiti di selezione
+  const cont={};for(const e of ev)cont[e.id]=(cont[e.id]||0)+1;
+  for(const id in cont){const d=EVO[id];const mx=maxSel(d,L);if(cont[id]>mx)err.push(d.nome+': selezionabile al massimo '+mx+(mx===1?' volta':' volte')+' a questo livello');}
+  const braccia=cont.arti_braccia||0,usiB=(cont.artigli||0)+(cont.schianto||0)+(cont.chele||0);
+  if(usiB>braccia)err.push('Artigli, Schianto e Chele richiedono un paio di Arti [braccia] ciascuno ('+usiB+' su '+braccia+')');
+  const code=cont.coda||0,usiC=(cont.colpo_di_coda||0)+(cont.pungiglione||0);
+  if(usiC>code)err.push('Colpo di coda e Pungiglione richiedono una Coda ciascuno ('+usiC+' su '+code+')');
+  if(f.corpoInforme&&(cont.artigli||cont.schianto||cont.chele)&&!braccia)err.push('Un eidolon amorfo deve prima acquistare Arti [braccia]');
+  if(S.taglia==='Media'&&f.mediaCosta){spesi+=f.mediaCosta;}
+  // caratteristiche
+  const car={For:+S.fis.For,Des:+S.fis.Des,Cos:+S.fis.Cos,Int:10,Sag:10,Car:10};
+  car.For+=row.forDes;car.Des+=row.forDes;
+  const nAum=[5,10,15,20].filter(x=>x<=L).length;
+  for(let i=0;i<nAum;i++){const k=S.aumenti[i]||'For';car[k]+=1;}
+  for(const e of ev)if(e.id==='aumento_di_caratteristica')car[e.scelta||'For']+=2;
+  car.For+=T.For;car.Des+=T.Des;car.Cos+=T.Cos;
+  const M=Object.fromEntries(CAR.map(k=>[k,mod(car[k])]));
+  // difese
+  let natEvo=0;for(const e of ev)if(EVO[e.id]?.eff?.caNat)natEvo+=EVO[e.id].eff.caNat;
+  let nat=row.arm+natEvo+T.nat;let defl=0;
+  if(cont.barriera_arcana){defl=Math.floor(nat/2);nat-=defl;}
+  const ca=10+M.Des+nat+defl+T.ca, contatto=10+M.Des+defl+T.ca, impreparato=10+nat+defl+T.ca+Math.min(0,M.Des);
+  const dv=row.dv;
+  let pf=10+6*(dv-1)+M.Cos*dv;
+  if(S.pfManuali!==''&&S.pfManuali!=null&&!isNaN(+S.pfManuali))pf=+S.pfManuali;
+  const tsB=f.tsBuoni;const tsm=(cont.tiri_salvezza_migliorati||0);
+  const ts={t:(tsB.includes('t')?row.tsB:row.tsS)+M.Cos+tsm,r:(tsB.includes('r')?row.tsB:row.tsS)+M.Des+tsm,v:(tsB.includes('v')?row.tsB:row.tsS)+M.Sag+tsm};
+  const ba=row.ba;
+  const bmc=ba+M.For+T.bmc, dmc=10+ba+M.For+M.Des+T.bmc;
+  // attacchi
+  const atks=attacchiEvo(ev);
+  const nTot=atks.reduce((s,a)=>s+a.n,0);
+  const multi=L>=9;
+  const energ=ev.filter(e=>e.id==='attacchi_energetici_sop').map(e=>e.scelta||'energia');
+  const dnm=ev.filter(e=>e.id==='danno_naturale_migliorato').map(e=>e.scelta);
+  const portata=ev.filter(e=>e.id==='portata').map(e=>e.scelta);
+  const sang=ev.filter(e=>e.id==='sanguinamento').map(e=>e.scelta);
+  const aff=ev.filter(e=>e.id==='afferrare').map(e=>e.scelta);
+  const soloUno=nTot===1;
+  const righe=atks.map(a=>{
+    const prim=a.tipo==='p'||(soloUno);
+    let txc=ba+M.For+T.txc+(prim?0:(multi&&nTot>=3?-2:-5));
+    let fm=prim?(a.forza||(soloUno?1.5:1)):0.5;
+    let dado=stepDado(a.dado,T.dado+(dnm.filter(x=>x===a.nome).length));
+    const dmgB=Math.floor(M.For*fm);
+    const extra=[];
+    if(has('elementalista'))extra.push('danni da '+EN_EL[S.affinita]);
+    energ.forEach(x=>extra.push('+1d6 '+x));
+    if(sang.includes(a.nome))extra.push('[sanguinamento 1d6]');
+    if(aff.includes(a.nome))extra.push('più Afferrare');
+    if(portata.includes(a.nome))extra.push('portata +1,5 m');
+    if(L>=18&&has('profeta'))extra.push('supera qualsiasi RD');
+    return {nome:a.n>1?a.n+' '+({Artiglio:'Artigli',Chela:'Chele'}[a.nome]||a.nome):a.nome,plur:a.n>1,txc,dado,dmgB,prim,extra};
+  });
+  if(multi&&nTot>0&&nTot<3){const p=righe.find(r=>r.prim);if(p)righe.push(Object.assign({},p,{nome:(p.plur?({Artigli:'Artiglio',Chele:'Chela'}[p.nome.replace(/^\d+ /,'')]||p.nome.replace(/^\d+ /,'')):p.nome)+' (Multiattacco)',txc:p.txc-5,plur:false}));}
+  if(nTot>row.att)err.push('Attacchi naturali: '+nTot+' su un massimo di '+row.att+' a questo livello');
+  // movimento e sensi
+  const gambeExtra=Math.max(0,(cont.arti_gambe||0)-base.filter(b=>b.id==='arti_gambe').length);
+  const vel=f.vel+3*gambeExtra;
+  const mov=['Velocità '+vel+' m'];
+  if(cont.apparato_natatorio)mov.push('Nuotare '+6*cont.apparato_natatorio+' m');
+  if(cont.scalare)mov.push('Scalare '+Math.floor(vel/2*10)/10+' m');
+  if(cont.scavare)mov.push('Scavare '+Math.floor(vel/2*10)/10+' m');
+  if(cont.levitazione)mov.push('Volare 9 m (buona)'+(L<17?', altezza massima 1 m':''));
+  const sensi=['Scurovisione 18 m'];for(const e of ev){const d=EVO[e.id];if(d?.sensi&&!sensi.includes(d.sensi))sensi.push(d.sensi);}
+  if(cont.vista_cieca)sensi.push('Vista cieca 9 m');
+  // difese speciali
+  const dif=[];
+  const rd=Math.floor(L/2);if(rd)dif.push('RD '+rd+'/–');
+  const re=5+5*[6,9,12,15,18].filter(x=>x<=L).length;
+  ev.filter(e=>e.id==='resistenza').forEach(e=>dif.push('RE '+re+' ('+(e.scelta||'?')+')'));
+  if(has('armonizzatore'))dif.push('RE '+re+' (suono)');
+  const imm=[...ev.filter(e=>e.id==='immunita_sop'||e.id==='immunita_a_unenergia').map(e=>e.scelta||'?')];
+  if(imm.length)dif.push('Immunità: '+[...new Set(imm)].join(', '));
+  if(has('elementalista')){dif.push('Vulnerabilità: '+VU_EL[S.affinita]);if(L>=2)dif.push('Immune agli effetti di [SANGUINAMENTO], [PARALISI], [SONNO], [STORDIMENTO] e [VELENO]');}
+  if(cont.amorfo)dif.push('Immune a colpi critici e danni da precisione');
+  else if(cont.fortificazione)dif.push('Fortificazione '+(cont.fortificazione>1?50:25)+'%');
+  if(cont.resistenza_agli_incantesimi)dif.push('RI '+(10+L));
+  if(L>=3)dif.push(L>=13?'Eludere migliorato':'Eludere');
+  if(L>=7)dif.push('Devozione: +4 ai TS contro [AMMALIAMENTO: CHARME E COMPULSIONE]');
+  ev.filter(e=>e.id==='bonus_ai_tiri_salvezza').forEach(e=>dif.push('+3 ai TS contro '+(e.scelta||'…')));
+  // CD
+  const cd=k=>10+Math.floor(dv/2)+M[k];
+  const capac=[];
+  for(const e of ev){const d=EVO[e.id];if(!d)continue;
+    if(d.id==='soffio'){const n=1+Math.min(2,+(e.extra||0));capac.push('Soffio ('+(e.scelta||'energia')+'): '+dv+'d6, cono 9 m o linea 18 m, Riflessi CD '+cd('Cos')+' dimezza, '+n+'/giorno');}
+    else if(d.id==='veleno')capac.push('Veleno ('+(e.scelta||'attacco')+'): Tempra CD '+(cd('Cos')+(e.extra?2:0))+' o rallentato per 3 round');
+    else if(d.cd)capac.push(d.nome+': CD '+cd(d.cd==='car'?'Car':d.cd==='cos'?'Cos':'For'));
+  }
+  if(cont.travolgere)capac.push('Travolgere: 1d6'+sg(Math.floor(M.For*1.5))+' danni');
+  // punti fatica (Cavalca eidolon)
+  const fat=has('cavalca_eidolon')?{fatica:Math.ceil(pf/2),ferita:Math.floor(pf/2)}:null;
+  return {L,row,f,taglia,T,ev,base,stato,cont,err,pe,spesi,trasf,car,M,nat,defl,ca,contatto,impreparato,dv,pf,fat,ts,ba,bmc,dmc,righe,nTot,mov,sensi,dif,capac,cd};
+}
+
+/* ---------- evocazioni ---------- */
+function potenziateBonus(){
+  let t=0,d=0;const L=lv();
+  if(nDote('evocazioni_potenziate')||has('leader_empireo')||has('demonologo')){
+    if(has('demonologo')&&S.offerta){t+=2;d+=2;}
+    else{t+=1;d+=2;if(has('leader_empireo')){const x=Math.floor((L-1)/4);t+=x;d+=x;}}
+  }
+  return {t,d};
+}
+function modificatori(cr,grado){
+  const L=lv();const m={txc:0,dmg:0,pfDv:0,ca:0,tempra:0,bmc:0,vel:0,note:[],extraDmg:[]};
+  const pb=potenziateBonus();m.txc+=pb.t;m.dmg+=pb.d;
+  if(pb.t||pb.d)m.note.push(has('demonologo')&&S.offerta?'Offerta di sangue: +3 m velocità, +2 per colpire, +2 danni (il demonologo subisce 1d6 danni)':'Evocazioni potenziate: '+sg(pb.t)+' per colpire, '+sg(pb.d)+' danni');
+  if(has('demonologo')&&S.offerta)m.vel+=3;
+  if(nDote('evocazioni_coriacee')||(has('leader_empireo')&&L>=2)){m.ca+=2;m.note.push('Evocazioni coriacee: +2 CA naturale');}
+  if(has('signore_delle_schiere')&&L>=2){m.txc+=2;m.dmg+=2;m.pfDv+=2;m.tempra+=2;m.bmc+=2;m.note.push('Aumentare Evocazione: +4 For e +4 Cos (applicati: +2 per colpire e danni, +2 PF per DV, +2 Tempra, +2 BMC/DMC)');}
+  if(has('leader_empireo')&&L>=14){m.pfDv+=2;m.note.push('Evocazioni vitali: +2 PF per DV');}
+  if(has('signore_delle_schiere')&&L>=20){m.pfDv+=2;m.note.push('Apoteosi delle schiere: +2 PF per DV e RD 5/—');}
+  if(has('leader_empireo')&&L>=20){m.extraDmg.push('+2d6');m.note.push('Leader supremo: +2d6 danni');}
+  const meta=S.meta&&nDote(S.meta)?DOTI[S.meta]:null;
+  if(meta){
+    const en={evocazioni_caustiche:'acido',evocazioni_elettrostatiche:'elettricità',evocazioni_lunari:'freddo',evocazioni_solari:'fuoco'}[meta.id];
+    if(en){m.extraDmg.push('+'+grado+' '+en);}
+    m.note.push(meta.nome+': '+meta.testo);
+  }
+  return m;
+}
+function ritocca(att,m){
+  // somma i bonus ai tiri per colpire (+5 o +10/+5) e ai danni (1d6+3) nella stringa degli attacchi
+  if(!m.txc&&!m.dmg&&!m.extraDmg.length)return rich(att);
+  const out=att.replace(/([+−-]\d+(?:\/[+−-]\d+)*)(\s*\()(\d+d\d+)([+−-]\d+)?/g,(all,hit,par,dado,db)=>{
+    const h=hit.split('/').map(x=>sg(parseInt(x.replace('−','-'))+m.txc)).join('/');
+    const b=(db?parseInt(db.replace('−','-')):0)+m.dmg;
+    return h+par+dado+(b?sg(b):'')+(m.extraDmg.length?' '+m.extraDmg.join(' '):'');
+  });
+  return '<span class="mod">'+rich(out)+'</span>';
+}
+function schedaCreatura(cr,grado,conMod){
+  const m=conMod?modificatori(cr,grado):{txc:0,dmg:0,pfDv:0,ca:0,tempra:0,bmc:0,vel:0,note:[],extraDmg:[]};
+  const c=cr.campi;const pf=cr.pf+m.pfDv*cr.dv;
+  const durata=durataEvoc();
+  let h='<div class="sheet"><div class="sheetHead"><div><h2>'+esc(cr.nome)+'</h2><div class="note">'+esc(cr.tipo)+' · grado '+ROM[cr.grado]+(cr.gruppo?' · '+esc(cr.gruppo):'')+'</div></div><span class="tag cb">'+esc(cr.taglia)+'</span></div>';
+  h+='<div class="txt"><em>'+esc(cr.descr)+'</em></div>';
+  h+='<div class="kv"><div><small>PF</small><b>'+pf+'</b><small>'+cr.dv+' DV'+(m.pfDv?' · base '+cr.pf:'')+'</small></div><div><small>CA</small><b>'+(cr.ca+m.ca)+'</b></div>'+
+     '<div><small>Tempra</small><b>'+sg(cr.ts.Tempra+m.tempra)+'</b></div><div><small>Riflessi</small><b>'+sg(cr.ts.Riflessi)+'</b></div><div><small>Volontà</small><b>'+sg(cr.ts['Volontà'])+'</b></div>'+
+     '<div><small>Durata</small><b>'+durata+'</b></div></div>';
+  h+='<div class="atk"><div class="l"><span>Attacchi</span><span>'+ritocca(c.Attacchi||'',m)+'</span></div>';
+  for(const k of ['Statistiche','Sensi','Caratteristiche','Abilità','Talenti','CA','Immunità','Resistenze','RD','RI','Debolezze']){
+    if(!c[k])continue;let v=k==='CA'?esc(c[k]):rich(c[k]);
+    if(k==='CA'&&m.ca)v+=' <span class="mod">(+'+m.ca+' coriacee)</span>';
+    if(k==='Statistiche'){v=v.replace(/Volare ([\d,]+) m \(([^)]+)\)(?! a un)/g,(a)=>a+(lv()<17?' <span class="note">(altezza max 1 m)</span>':''));if(m.vel)v+=' <span class="mod">(+'+m.vel+' m)</span>';}
+    h+='<div class="l"><span>'+k+'</span><span>'+v+'</span></div>';
+  }
+  h+='<div class="l"><span>BMC / DMC</span><span>'+rich(c.BMC)+(m.bmc?' <span class="mod">'+sg(m.bmc)+'</span>':'')+' / '+rich(c.DMC)+(m.bmc?' <span class="mod">'+sg(m.bmc)+'</span>':'')+'</span></div></div>';
+  if(cr.magiche.length)h+='<div><div class="label">Capacità magiche</div><div class="txt">'+cr.magiche.map(x=>'<p>'+rich(x)+'</p>').join('')+'</div></div>';
+  if(cr.speciali.length)h+='<div><div class="label">Capacità e attacchi speciali</div><div class="txt">'+cr.speciali.map(x=>'<p>'+rich(x)+'</p>').join('')+'</div></div>';
+  if(m.note.length)h+='<div class="banner">'+m.note.map(esc).join('<br>')+'</div>';
+  return h+'</div>';
+}
+function durataEvoc(){
+  const L=lv();
+  if(S.meta==='evocazioni_esplosive'&&nDote('evocazioni_esplosive'))return '1 round';
+  if(has('creativo'))return '3 round';
+  if(nDote('evocazioni_durature'))return L+' min';
+  return '1 min';
+}
+function roundsEvoc(){const d=durataEvoc();const n=parseInt(d);return d.includes('round')?n:n*10;}
+
+/* ---------- render ---------- */
+const main=document.getElementById('main');
+function header(){
+  const sel=document.getElementById('pgSel');
+  sel.innerHTML=Object.entries(G.dati).map(([k,v])=>'<option value="'+k+'"'+(k===G.attivo?' selected':'')+'>'+esc(v.nome||'Senza nome')+'</option>').join('')+'<option value="__nuovo">+ Nuovo personaggio</option>';
+  const arch=S.archetipi.map(a=>ARCH[a].nome).join(', ')||'nessun archetipo';
+  document.getElementById('hdrSub').textContent='Convocatore di '+lv()+'° livello · '+arch+(S.esempio?' · dati di esempio':'');
+  document.querySelectorAll('nav.tabs button').forEach(b=>b.setAttribute('aria-selected',b.dataset.tab===S.tab));
+  document.getElementById('tab-eidolon').textContent=has('signore_delle_schiere')?'Prediletto':'Eidolon';
+}
+function render(){header();({profilo:rProfilo,eidolon:rEidolon,evoca:rEvoca})[S.tab]();save();}
+document.querySelector('nav.tabs').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;S.tab=b.dataset.tab;render();window.scrollTo(0,0);});
+document.getElementById('pgSel').addEventListener('change',e=>{
+  if(e.target.value==='__nuovo'){const id='p'+Date.now();G.dati[id]=nuovoPg();G.attivo=id;}else G.attivo=e.target.value;
+  S=fill(G.dati[G.attivo]);render();
+});
+
+/* --- tab Convocatore --- */
+function rProfilo(){
+  const L=lv();
+  let h='<section class="panel">';
+  if(S.esempio)h+='<div class="banner">Questo è un personaggio di esempio per vedere come funziona l\'app. Modificalo liberamente o creane uno nuovo dal menu in alto.</div>';
+  h+='<div class="card"><h2>Convocatore</h2><div class="grid">'+
+    '<div class="field" style="grid-column:1/-1"><label class="label" for="f-nome">Nome</label><input id="f-nome" value="'+esc(S.nome)+'"></div>'+
+    '<div class="field"><label class="label" for="f-liv">Livello</label><input id="f-liv" type="number" min="1" max="20" value="'+L+'"></div>'+
+    '<div class="field"><label class="label" for="f-car">Carisma</label><input id="f-car" type="number" min="1" max="40" value="'+S.car+'"></div>'+
+    '</div><div class="row" style="margin-top:10px"><button class="btn sm" id="dup">Duplica</button><button class="btn sm danger" id="del">Elimina</button></div></div>';
+  // archetipi
+  h+='<div class="card"><h2>Archetipi</h2><div class="note" style="margin-bottom:8px">Due archetipi che modificano o sostituiscono lo stesso privilegio non si possono combinare.</div><div class="list">';
+  for(const a of C.archetipi){
+    const on=has(a.id);const cf=on?[]:conflitti(a.id);
+    h+='<label class="check"><input type="checkbox" data-arch="'+a.id+'"'+(on?' checked':'')+(cf.length?' disabled':'')+'><span><b>'+esc(a.nome)+'</b>'+(cf.length?' <span class="note">— incompatibile con '+cf.map(x=>ARCH[x].nome).join(', ')+'</span>':'')+'<br><span class="note">'+esc(a.descr)+'</span></span></label>';
+  }
+  h+='</div></div>';
+  // pannelli di archetipo
+  h+=pannelliArchetipo();
+  // doti
+  const nDoti=1+Math.floor((L-1)/2);
+  const tot=Object.values(S.doti).reduce((s,x)=>s+x,0);
+  h+='<div class="card"><h2>Doti da convocatore</h2><div class="note" style="margin-bottom:8px">Scelte: '+tot+' · dal privilegio: '+nDoti+' (più quelle prese al posto dei talenti).</div><div class="list">';
+  for(const d of C.doti){
+    const n=nDote(d.id);const lvr=+(d.requisiti.match(/(\d+)° livello/)||[0,0])[1];
+    let blocco='';
+    if(lvr>L)blocco='dal '+lvr+'° livello';
+    if(d.id==='evocazioni_coriacee'&&!nDote('evocazioni_potenziate'))blocco='richiede Evocazioni potenziate';
+    if(d.id==='evocazioni_durature'&&has('creativo'))blocco='vietata al creativo';
+    if(!haEidolon()&&/^eidolon_/.test(d.id))blocco='richiede un eidolon';
+    const multi=d.id==='punti_evoluzione_extra'?1+[5,9,13].filter(x=>x<=L).length:1;
+    h+='<div class="evoRow'+(blocco&&n?' bad':'')+'"><div><b>'+esc(d.nome)+'</b>'+(d.meta?' <span class="tag">metaevocazione</span>':'')+(blocco?' <span class="note warnT">'+blocco+'</span>':'')+'<div class="note">'+rich(d.testo)+'</div></div>'+
+       '<div class="row">'+(multi>1?'<button class="btn sm" data-dote="'+d.id+'" data-d="-1"'+(n?'':' disabled')+'>−</button><b style="font-family:var(--f-mono)">'+n+'</b><button class="btn sm" data-dote="'+d.id+'" data-d="1"'+(n>=multi||blocco?' disabled':'')+'>+</button>':
+       '<input type="checkbox" class="dchk" data-dote="'+d.id+'" aria-label="'+esc(d.nome)+'"'+(n?' checked':'')+(blocco&&!n?' disabled':'')+' style="width:20px;height:20px;accent-color:var(--accent)">')+'</div></div>';
+  }
+  h+='</div></div>';
+  // trasferimento / rituale
+  if(haEidolon()){
+    h+='<div class="card"><h2>Privilegi legati all\'eidolon</h2><div class="grid">';
+    const tm=trasfMax();
+    if(tm)h+='<div class="field"><label class="label" for="f-trasf">Trasferimento evoluzionistico</label><input id="f-trasf" type="number" min="0" max="'+tm+'" value="'+Math.min(+S.trasf||0,tm)+'"></div>';
+    if(L>=20&&!['leader_empireo','profeta','cavalca_eidolon','signore_delle_schiere'].some(has))h+='<div class="field"><label class="label" for="f-rit">Rituale di potere assoluto</label><select id="f-rit"><option value="eidolon"'+(S.rituale==='eidolon'?' selected':'')+'>Protagonista l\'eidolon (+4 PE)</option><option value="convocatore"'+(S.rituale==='convocatore'?' selected':'')+'>Protagonista il convocatore</option></select></div>';
+    h+='</div>'+(tm?'<div class="note" style="margin-top:6px">Punti che il convocatore prende per sé: '+(L>=18?'ogni 2 riducono di 1 quelli dell\'eidolon.':'riducono di pari quantità quelli dell\'eidolon.')+'</div>':'<div class="note">Il trasferimento evoluzionistico arriva al 10° livello.</div>')+'</div>';
+  }
+  h+='</section>';
+  main.innerHTML=h;
+  const on=(id,ev,fn)=>{const el=document.getElementById(id);if(el)el.addEventListener(ev,fn);};
+  on('f-nome','change',e=>{S.nome=e.target.value;S.esempio=false;render();});
+  on('f-liv','change',e=>{S.livello=Math.max(1,Math.min(20,+e.target.value||1));S.esempio=false;render();});
+  on('f-car','change',e=>{S.car=+e.target.value||10;render();});
+  on('f-trasf','change',e=>{S.trasf=Math.max(0,Math.min(trasfMax(),+e.target.value||0));render();});
+  on('f-rit','change',e=>{S.rituale=e.target.value;render();});
+  on('f-aff','change',e=>{S.affinita=e.target.value;render();});
+  on('f-off','change',e=>{S.offerta=e.target.checked;render();});
+  on('dup','click',()=>{const id='p'+Date.now();G.dati[id]=JSON.parse(JSON.stringify(S));G.dati[id].nome=S.nome+' (copia)';G.attivo=id;S=G.dati[id];render();});
+  on('del','click',()=>conferma('Eliminare "'+S.nome+'"? Non si può annullare.','Elimina',()=>{delete G.dati[G.attivo];const ks=Object.keys(G.dati);if(!ks.length){const id='p'+Date.now();G.dati[id]=nuovoPg();ks.push(id);}G.attivo=ks[0];S=fill(G.dati[G.attivo]);render();}));
+  main.querySelectorAll('[data-arch]').forEach(c=>c.addEventListener('change',e=>{const id=e.target.dataset.arch;if(e.target.checked)S.archetipi.push(id);else S.archetipi=S.archetipi.filter(x=>x!==id);
+    if(has('cavalca_eidolon')&&!['aberrante','quadrupede','serpentiforme'].includes(S.forma))S.forma='quadrupede';
+    if(has('creativo'))S.forma='bipede';
+    render();}));
+  main.querySelectorAll('button[data-dote]').forEach(b=>b.addEventListener('click',()=>{const id=b.dataset.dote;S.doti[id]=Math.max(0,nDote(id)+ +b.dataset.d);if(!S.doti[id])delete S.doti[id];render();}));
+  main.querySelectorAll('.dchk').forEach(c=>c.addEventListener('change',()=>{const id=c.dataset.dote;if(c.checked)S.doti[id]=1;else{delete S.doti[id];if(S.meta===id)S.meta=null;}render();}));
+  main.querySelectorAll('[data-usa]').forEach(b=>b.addEventListener('click',()=>{S.usiArch=Math.max(0,(S.usiArch||0)+ +b.dataset.usa);render();}));
+}
+function pannelliArchetipo(){
+  const L=lv();let h='';const car=mod(S.car);
+  const cont=(tit,body)=>'<div class="card"><h2>'+tit+'</h2>'+body+'</div>';
+  const usi=(max,cosa)=>'<div class="row" style="margin-top:8px"><span class="label">'+cosa+'</span><b style="font-family:var(--f-mono)">'+Math.max(0,max-(S.usiArch||0))+' / '+max+'</b><button class="btn sm" data-usa="1"'+((S.usiArch||0)>=max?' disabled':'')+'>Usa</button><button class="btn sm" data-usa="-999">Riposo</button></div>';
+  if(has('elementalista'))h+=cont('Elementalista','<div class="field"><label class="label" for="f-aff">Affinità a un elemento</label><select id="f-aff">'+['acqua','aria','fuoco','terra'].map(x=>'<option'+(S.affinita===x?' selected':'')+'>'+x+'</option>').join('')+'</select></div><div class="txt" style="margin-top:8px"><p>Danni degli attacchi: <b>'+EN_EL[S.affinita]+'</b> · Immunità: <b>'+EN_EL[S.affinita]+'</b> · Vulnerabilità: <b>'+VU_EL[S.affinita]+'</b></p>'+(L>=4?'<p>Potere elementale: +1 danno per dado agli incantesimi di freddo, elettricità, fuoco o acido entro 4,5 m dall\'eidolon'+(L>=12?'; si ripetono gli 1 sui dadi di danno':'')+'.</p>':'')+(L>=6?'<p>Detonazione elementale: '+C.tabella[L-1].dv+'d8 ('+EN_EL[S.affinita]+'), raggio 4,5 m'+(L>=8?' o cono 9 m':'')+', Riflessi CD '+(10+Math.floor(L/2)+car)+' dimezza; d6 se l\'eidolon è sotto metà PF.</p>':'')+'</div>');
+  if(has('demonologo'))h+=cont('Demonologo','<label class="check"><input type="checkbox" id="f-off"'+(S.offerta?' checked':'')+'><span>Offerta di sangue attiva (ti infliggi 1d6 danni a ogni evocazione)</span></label>'+(L>=4?'<p class="txt">Adorazione continua: l\'eidolon entro 9 m ha +'+(L>=12?2:1)+' ai tiri per colpire, alla CA e ai TS.</p>':'')+(L>=8?'<p class="txt">Teletrasporto funesto: '+C.tabella[L-1].dv+'d6, Tempra CD '+(10+Math.floor(L/2)+car)+' dimezza.</p>':'')+(L>=14?'<p class="txt">Possessione: Volontà CD '+(10+Math.floor(L/2)+car)+'.</p>':''));
+  if(has('leader_empireo')){const d=1+Math.floor((L-1)/2);h+=cont('Leader empireo','<p class="txt">Cura empirea: <b>'+d+'d6</b> a una creatura evocata entro 9 m.</p>'+usi(3+car,'Usi oggi')+(L>=6?'<p class="txt">Martiri gloriosi: 1d6 danni da forza ogni 2 DV della creatura, Riflessi CD '+(10+Math.floor(L/2)+car)+' dimezza.</p>':'')+(L>=10?'<p class="txt">Velocità empirea: '+(L>=18?2:1)+'/giorno.</p>':''));}
+  if(has('armonizzatore')){const d=1+Math.floor((L-1)/2);h+=cont('Armonizzatore','<p class="txt">Detonazioni acustiche: <b>'+d+'d6</b> danni sonori entro 30 m, Riflessi CD <b>'+(10+Math.floor(L/2)+car+(L>=8?0:0))+'</b> dimezza.</p>'+(L>=4?'<p class="txt">Condotto acustico: CD '+(10+Math.floor(L/2)+car+(L>=8?2:0))+'.</p>':''));}
+  if(has('controevocatore')){const p=L>10?Math.min(90,50+5*(L-10)):50;h+=cont('Controevocatore','<p class="txt">Aura di controevocazione (15 m): <b>'+p+'%</b> di fallimento per evocazioni nemiche.</p>'+(L>=10?'<p class="txt">Indebolire evocazioni: Volontà CD <b>'+(10+Math.floor(L/2)+car)+'</b>'+(L>=15?', tutte le creature evocate entro 15 m':'')+'.</p>':''));}
+  if(has('cavalca_eidolon')){const d=Math.max(1,Math.floor(L/2));h+=cont('Cavalca eidolon','<p class="txt">Cura dell\'eidolon: <b>'+d+'d6</b>.</p>'+usi(1+Math.floor(L/2),'Usi oggi')+'<p class="note">BAB pieno e Tempra buona: si applicano alla scheda del personaggio.</p>');}
+  if(has('profeta'))h+=cont('Profeta','<p class="txt">Incanta come un sacerdote (lista del sacerdote).</p>'+(L>=10?'<p class="txt">Consapevolezza divina: Chiaroudienza a volontà.</p>':'')+(L>=20?'<p class="txt">Presenza soverchiante dell\'eidolon: CD '+(20+mod(calcEid().car.Car))+', 3/giorno.</p>':''));
+  if(has('creativo'))h+=cont('Creativo','<p class="txt">La musa è sempre bipede. Le creature evocate restano 3 round e si possono evocare con la musa in campo.'+(L>=10?' La musa può usare evoca esterno al posto del creativo.':'')+'</p>');
+  return h;
+}
+
+/* --- tab Eidolon --- */
+function rEidolon(){
+  if(has('signore_delle_schiere'))return rPrediletto();
+  if(!haEidolon()){main.innerHTML='<section class="panel"><div class="card"><h2>Nessun eidolon</h2><p class="txt">Il leader empireo non ha un eidolon: al suo posto ottiene Evocatore talentuoso e Cura empirea.</p></div></section>';return;}
+  const E=calcEid();const L=E.L;
+  let h='<section class="panel">';
+  const rest=E.pe-E.spesi;
+  h+='<div class="pebar'+(rest<0?' over':'')+'"><span>Punti evoluzione</span><b>'+E.spesi+' / '+E.pe+'</b><span>'+(rest<0?'sforati di '+(-rest):'restano '+rest)+'</span></div>';
+  if(E.err.length)h+='<div class="banner warn">'+E.err.map(esc).join('<br>')+'</div>';
+  // forma
+  const formeOk=has('cavalca_eidolon')?['aberrante','quadrupede','serpentiforme']:has('creativo')?['bipede']:Object.keys(C.forme);
+  h+='<div class="card"><h2>Forma base</h2><div class="chips">'+Object.entries(C.forme).map(([k,f])=>'<button class="chip" data-forma="'+k+'" aria-pressed="'+(S.forma===k)+'"'+(formeOk.includes(k)?'':' disabled')+'>'+f.nome+'</button>').join('')+'</div>';
+  const f=E.f;
+  h+='<p class="note" style="margin:8px 0 4px">'+f.vel+' m · TS buoni: '+f.tsBuoni.map(x=>({t:'Tempra',r:'Riflessi',v:'Volontà'})[x]).join(', ')+' · Evoluzioni base: '+esc(f.testoBase)+'</p>';
+  h+='<div class="grid" style="margin-top:8px"><div class="field"><label class="label" for="f-tg">Taglia</label><select id="f-tg"><option'+(S.taglia==='Piccola'?' selected':'')+'>Piccola</option><option'+(S.taglia==='Media'?' selected':'')+'>Media</option></select>'+(f.mediaCosta?'<span class="note">Media costa '+f.mediaCosta+' PE</span>':'')+'</div>';
+  if(f.scelta)h+='<div class="field"><label class="label" for="f-sc">Arti [braccia] →</label><select id="f-sc">'+f.scelta.map(x=>'<option value="'+x+'"'+((S.scelta||f.scelta[0])===x?' selected':'')+'>'+EVO[x].nome+'</option>').join('')+'</select></div>';
+  h+='</div>';
+  if(f.corpoInforme)h+='<p class="note">'+esc(C.corpoInforme)+'</p>';
+  h+='</div>';
+  // caratteristiche
+  const opts=[16,14,12];
+  h+='<div class="card"><h2>Caratteristiche fisiche</h2><div class="note" style="margin-bottom:8px">Al 1° livello si assegnano 16, 14 e 12. Le mentali sono sempre 10.</div><div class="grid">';
+  for(const k of ['For','Des','Cos'])h+='<div class="field"><label class="label" for="f-'+k+'">'+CAR_N[k]+'</label><select id="f-'+k+'" data-fis="'+k+'">'+opts.map(v=>'<option'+(+S.fis[k]===v?' selected':'')+'>'+v+'</option>').join('')+'</select></div>';
+  h+='</div>';
+  const nAum=[5,10,15,20].filter(x=>x<=L).length;
+  if(nAum){h+='<div class="grid" style="margin-top:10px">';for(let i=0;i<nAum;i++)h+='<div class="field"><label class="label" for="f-au'+i+'">Aumento al '+[5,10,15,20][i]+'°</label><select id="f-au'+i+'" data-aum="'+i+'">'+CAR.map(k=>'<option'+((S.aumenti[i]||'For')===k?' selected':'')+'>'+k+'</option>').join('')+'</select></div>';h+='</div>';}
+  const dup=new Set();const vals=['For','Des','Cos'].map(k=>+S.fis[k]);if(new Set(vals).size<3)h+='<p class="warnT note">16, 14 e 12 vanno assegnati una volta ciascuno.</p>';
+  h+='</div>';
+  // scheda
+  h+=schedaEid(E);
+  // evoluzioni
+  h+='<div class="card"><h2>Evoluzioni</h2><div class="list" id="evoList">';
+  for(const b of E.base){const d=EVO[b.id];h+='<div class="evoRow base"><div><b>'+esc(d.nome)+(b.scelta?' ('+esc(b.scelta)+')':'')+'</b> <span class="tag">'+(b.arch?'archetipo':'forma base')+'</span></div><span class="tag">0</span></div>';}
+  E.stato.forEach((s,i)=>{h+=rigaEvo(s,i,E);});
+  h+='</div><button class="btn pri" id="addEvo" style="margin-top:10px">Aggiungi evoluzione</button></div>';
+  h+='<div class="card"><h2>Tabella dell\'eidolon, '+L+'° livello</h2><div class="kv"><div><small>DV</small><b>'+E.row.dv+'</b></div><div><small>Attacchi max</small><b>'+E.row.att+'</b></div><div><small>BA armi</small><b>'+E.row.baArmi+'</b></div><div><small>Punti abilità</small><b>'+E.row.pab+'</b><small>4 + Int per DV</small></div><div><small>Talenti</small><b>'+E.row.tal+'</b></div><div><small>Arm. nat.</small><b>'+sg(E.row.arm)+'</b></div><div><small>For/Des</small><b>'+sg(E.row.forDes)+'</b></div><div><small>Punti evol.</small><b>'+E.row.pe+'</b></div></div></div>';
+  h+='</section>';
+  main.innerHTML=h;
+  main.querySelectorAll('[data-forma]').forEach(b=>b.addEventListener('click',()=>{S.forma=b.dataset.forma;S.scelta=null;render();}));
+  const tg=document.getElementById('f-tg');tg&&tg.addEventListener('change',e=>{S.taglia=e.target.value;render();});
+  const sc=document.getElementById('f-sc');sc&&sc.addEventListener('change',e=>{S.scelta=e.target.value;render();});
+  main.querySelectorAll('[data-fis]').forEach(s=>s.addEventListener('change',e=>{
+    const k=e.target.dataset.fis,v=+e.target.value;const other=Object.keys(S.fis).find(x=>x!==k&&+S.fis[x]===v);if(other)S.fis[other]=S.fis[k];S.fis[k]=v;render();}));
+  main.querySelectorAll('[data-aum]').forEach(s=>s.addEventListener('change',e=>{S.aumenti[+e.target.dataset.aum]=e.target.value;render();}));
+  main.querySelectorAll('[data-rm]').forEach(b=>b.addEventListener('click',()=>{S.evo.splice(+b.dataset.rm,1);render();}));
+  main.querySelectorAll('[data-sc]').forEach(s=>s.addEventListener('change',e=>{S.evo[+e.target.dataset.sc].scelta=e.target.value;render();}));
+  main.querySelectorAll('[data-ex]').forEach(s=>s.addEventListener('change',e=>{const v=e.target.type==='checkbox'?e.target.checked:+e.target.value;S.evo[+e.target.dataset.ex].extra=v;render();}));
+  document.getElementById('addEvo').addEventListener('click',()=>scegliEvo(E));
+  const pm=document.getElementById('f-pfm');pm&&pm.addEventListener('change',e=>{S.pfManuali=e.target.value;render();});
+  const ep=document.getElementById('f-epf');ep&&ep.addEventListener('change',e=>{S.eidPF=e.target.value===''?null:+e.target.value;render();});
+}
+function opzioniScelta(d,E){
+  if(d.scelta==='energia')return ENERGIE;
+  if(d.scelta==='caratteristica')return CAR;
+  if(d.scelta==='attacco')return [...new Set(attacchiEvo(E.ev).map(a=>a.nome))];
+  return null;
+}
+function rigaEvo(s,i,E){
+  const {e,d,c,probs}=s;const opts=opzioniScelta(d,E);
+  let h='<div class="evoRow'+(probs.length?' bad':'')+'"><div><b>'+esc(d.nome)+'</b>';
+  if(opts)h+='<div><select data-sc="'+i+'" aria-label="Scelta per '+esc(d.nome)+'"><option value="">— scegli —</option>'+opts.map(o=>'<option'+(e.scelta===o?' selected':'')+'>'+esc(o)+'</option>').join('')+'</select></div>';
+  else if(d.scelta==='abilita'||d.scelta==='effetto')h+='<div><select data-sc="'+i+'" aria-label="Scelta"><option value="">— scegli —</option>'+(d.scelta==='abilita'?['Acrobazia','Artista della fuga','Furtività','Intimidire','Intuizione','Nuotare','Percezione','Scalare','Sopravvivenza','Volare']:['[PAURA]','[VELENO]','[INFLUENZA MENTALE]','[MALATTIA]','[MORTE]','[ELETTRICITÀ]']).map(o=>'<option'+(e.scelta===o?' selected':'')+'>'+o+'</option>').join('')+'</select></div>';
+  if(d.id==='taglia_superiore')h+='<label class="check"><input type="checkbox" data-ex="'+i+'"'+(e.extra?' checked':'')+'><span>Taglia enorme (+6 PE, dal 13°)</span></label>';
+  if(d.id==='veleno')h+='<label class="check"><input type="checkbox" data-ex="'+i+'"'+(e.extra?' checked':'')+'><span>CD +2 (+1 PE)</span></label>';
+  if(d.id==='soffio')h+='<label class="check"><span>Soffi aggiuntivi</span><select data-ex="'+i+'">'+[0,1,2].map(n=>'<option value="'+n+'"'+(+e.extra===n?' selected':'')+'>'+n+'</option>').join('')+'</select></label>';
+  if(probs.length)h+='<div class="note warnT">'+probs.map(esc).join(' · ')+'</div>';
+  h+='</div><div class="row"><span class="tag acc">'+c+'</span><button class="btn sm" data-rm="'+i+'" aria-label="Rimuovi '+esc(d.nome)+'">✕</button></div></div>';
+  return h;
+}
+function schedaEid(E){
+  const nome=has('creativo')?'Musa':'Eidolon';
+  let h='<div class="card sheet"><div class="sheetHead"><div><h2>'+nome+'</h2><div class="note">Esterno'+(has('elementalista')?' (elementale, '+S.affinita+')':'')+' · '+E.f.nome+' · '+E.taglia+'</div></div>'+(E.pe-E.spesi<0||E.err.length?'<span class="tag" style="color:var(--warn)">da sistemare</span>':'<span class="tag cb">valido</span>')+'</div>';
+  const pfA=S.eidPF==null?E.pf:S.eidPF;
+  h+='<div class="kv"><div><small>PF</small><b>'+E.pf+'</b><small>'+E.dv+' DV (d10)'+(E.fat?' · Fatica '+E.fat.fatica+' / Ferita '+E.fat.ferita:'')+'</small></div>'+
+    '<div><small>CA</small><b>'+E.ca+'</b><small>contatto '+E.contatto+' · impr. '+E.impreparato+'</small></div>'+
+    '<div><small>Tempra</small><b>'+sg(E.ts.t)+'</b></div><div><small>Riflessi</small><b>'+sg(E.ts.r)+'</b></div><div><small>Volontà</small><b>'+sg(E.ts.v)+'</b></div>'+
+    '<div><small>BA</small><b>'+sg(E.ba)+'</b></div><div><small>BMC</small><b>'+sg(E.bmc)+'</b></div><div><small>DMC</small><b>'+E.dmc+'</b></div></div>';
+  h+='<div class="row"><div class="hp"><label class="label" for="f-epf">PF attuali</label><input id="f-epf" type="number" value="'+pfA+'"></div><div class="hp"><label class="label" for="f-pfm">PF tirati</label><input id="f-pfm" type="number" placeholder="auto" value="'+esc(S.pfManuali??'')+'"></div></div>';
+  h+='<div class="bar"><i class="'+(pfA<E.pf/2?'low':'')+'" style="width:'+Math.max(0,Math.min(100,pfA/E.pf*100))+'%"></i></div>';
+  h+='<div class="kv">'+CAR.map(k=>'<div><small>'+CAR_N[k]+'</small><b>'+E.car[k]+'</b><small>'+sg(E.M[k])+'</small></div>').join('')+'</div>';
+  h+='<div class="atk">';
+  if(!E.righe.length)h+='<div class="l"><span>Attacchi</span><span class="note">nessun attacco naturale</span></div>';
+  for(const r of E.righe)h+='<div class="l"><span>'+esc(r.nome)+' <span class="note">'+(r.prim?'primario':'secondario')+'</span></span><span>'+sg(r.txc)+' ('+r.dado+(r.dmgB?sg(r.dmgB):'')+(r.extra.length?', '+rich(r.extra.join(', ')):'')+')</span></div>';
+  if(E.cont.competenza_nelle_armi_semplici)h+='<div class="l"><span>Con armi</span><span>'+E.row.baArmi+' + For '+sg(E.M.For)+'</span></div>';
+  h+='<div class="l"><span>Movimento</span><span>'+E.mov.join(', ')+'</span></div><div class="l"><span>Sensi</span><span>'+E.sensi.join(', ')+'</span></div>';
+  h+='</div>';
+  if(E.dif.length)h+='<div><div class="label">Difese</div><div class="txt">'+E.dif.map(x=>'<p>'+rich(x)+'</p>').join('')+'</div></div>';
+  if(E.capac.length)h+='<div><div class="label">Capacità</div><div class="txt">'+E.capac.map(x=>'<p>'+rich(x)+'</p>').join('')+'</div></div>';
+  const note=[];if(E.L>=9)note.push('Multiattacco: '+(E.nTot>=3?'secondari a −2':'attacco extra con il primario a −5'));
+  note.push('Guarigione limitata: '+(has('cavalca_eidolon')?'con il cavalca eidolon ha Punti Fatica e guarigione naturale':'solo Punti Ferita, niente guarigione naturale'));
+  h+='<div class="note">'+note.map(esc).join(' · ')+'</div></div>';
+  return h;
+}
+function scegliEvo(E){
+  const L=E.L;const f=S.forma;
+  let h='<div class="card"><div class="sheetHead"><h2>Aggiungi evoluzione</h2><button class="btn sm" data-close>Chiudi</button></div><input class="search" id="evoQ" placeholder="Cerca…" style="margin:10px 0"><div id="evoRes"></div></div>';
+  modal(h);
+  const draw=q=>{
+    let o='';
+    for(const c of [1,2,3,4]){
+      const l=C.evoluzioni.filter(d=>d.costo===c&&(!q||d.nome.toLowerCase().includes(q)||d.testo.toLowerCase().includes(q)));
+      if(!l.length)continue;
+      o+='<div class="catHead"><h3>Da '+c+' punt'+(c===1?'o':'i')+'</h3></div><div class="list">';
+      for(const d of l){
+        const n=E.ev.filter(e=>e.id===d.id).length;const mx=maxSel(d,L);
+        let why='';if(d.lv&&L<d.lv)why='dal '+d.lv+'°';else if(d.forme&&!d.forme.includes(f))why='forma';else if(n>=mx)why=n?'già presa':'';
+        o+='<button class="item'+(why?' locked':'')+'" data-add="'+d.id+'"><span><b>'+esc(d.nome)+'</b>'+(d.requisiti?'<br><span class="meta">Requisiti: '+esc(d.requisiti)+'</span>':'')+'<br><span class="meta">'+rich(d.testo.slice(0,170))+(d.testo.length>170?'…':'')+'</span></span><span class="row">'+(why?'<span class="tag">'+why+'</span>':'')+'<span class="tag acc">'+c+'</span></span></button>';
+      }
+      o+='</div>';
+    }
+    document.getElementById('evoRes').innerHTML=o||'<p class="note">Nessuna evoluzione trovata.</p>';
+    document.querySelectorAll('[data-add]').forEach(b=>b.addEventListener('click',()=>{S.evo.push({id:b.dataset.add});closeModal();render();}));
+  };
+  draw('');
+  document.getElementById('evoQ').addEventListener('input',e=>draw(e.target.value.toLowerCase().trim()));
+}
+
+/* --- prediletto (Signore delle Schiere) --- */
+function rPrediletto(){
+  const L=lv();const g=gradoMax();
+  const pool=ESTERNI.filter(e=>e.grado===g);
+  const cr=ESTERNI.find(e=>e.id===S.prediletto);
+  let h='<section class="panel"><div class="card"><h2>Esterno prediletto</h2><p class="txt">All\'alba scegli un esterno di grado '+ROM[g]+'. Segue le regole dell\'eidolon: si evoca con un rituale di 5 minuti e resta finché non viene congedato o esiliato.'+(L>=16?' Con Schiere congiunte puoi usare evoca esterno anche mentre è in campo.':'')+'</p>';
+  h+='<div class="field"><label class="label" for="f-pred">Prediletto di oggi</label><select id="f-pred"><option value="">— scegli —</option>'+pool.map(e=>'<option value="'+e.id+'"'+(S.prediletto===e.id?' selected':'')+'>'+esc(e.nome)+'</option>').join('')+'</select></div>';
+  if(cr&&cr.grado!==g)h+='<p class="warnT note">Il prediletto salvato è di grado '+ROM[cr.grado]+': al tuo livello il grado massimo è '+ROM[g]+'.</p>';
+  h+='</div>';
+  if(L>=10){
+    const pv=L>=18?4:2;const sp=S.vincolo.reduce((s,id)=>s+(EVO[id]?.costo||0),0);
+    h+='<div class="card"><h2>Vincolo prediletto</h2><div class="pebar'+(sp>pv?' over':'')+'" style="position:static"><span>Punti evoluzione</span><b>'+sp+' / '+pv+'</b></div><div class="list" style="margin-top:8px">'+
+      S.vincolo.map((id,i)=>'<div class="evoRow"><div><b>'+esc(EVO[id].nome)+'</b><div class="note">'+rich(EVO[id].testo.slice(0,140))+'</div></div><div class="row"><span class="tag acc">'+EVO[id].costo+'</span><button class="btn sm" data-vrm="'+i+'">✕</button></div></div>').join('')+
+      '</div><div class="field" style="margin-top:8px"><label class="label" for="f-vadd">Aggiungi</label><select id="f-vadd"><option value="">—</option>'+C.evoluzioni.filter(d=>d.costo<=pv&&!(d.lv>L)).map(d=>'<option value="'+d.id+'">'+esc(d.nome)+' ('+d.costo+')</option>').join('')+'</select></div><p class="note">Nella scheda sono applicati Armatura naturale migliorata, Aumento di caratteristica (For/Cos) e Tiri Salvezza migliorati; le altre evoluzioni sono riportate come testo.</p></div>';
+  }
+  if(cr){
+    let x=JSON.parse(JSON.stringify(cr));
+    const ext={ca:0,ts:0};S.vincolo.forEach(id=>{if(id==='armatura_naturale_migliorata')ext.ca+=2;if(id==='tiri_salvezza_migliorati')ext.ts+=1;});
+    x.ca+=ext.ca;for(const k in x.ts)x.ts[k]+=ext.ts;
+    if(S.vincolo.length)x.speciali=[...x.speciali,'Evoluzioni (Vincolo prediletto): '+S.vincolo.map(id=>EVO[id].nome).join(', ')];
+    h+='<div class="card">'+schedaCreatura(x,x.grado,true).replace(/<b>1 min<\/b>/,'<b>fino a congedo</b>')+'</div>';
+  }
+  h+='</section>';main.innerHTML=h;
+  document.getElementById('f-pred').addEventListener('change',e=>{S.prediletto=e.target.value||null;render();});
+  const va=document.getElementById('f-vadd');va&&va.addEventListener('change',e=>{if(e.target.value)S.vincolo.push(e.target.value);render();});
+  main.querySelectorAll('[data-vrm]').forEach(b=>b.addEventListener('click',()=>{S.vincolo.splice(+b.dataset.vrm,1);render();}));
+}
+
+/* --- tab Evocazioni --- */
+function rEvoca(){
+  const L=lv();
+  if(!haEvoca()){
+    const alt={profeta:'Il profeta rinuncia a evoca esterno in cambio degli incantesimi da sacerdote.',controevocatore:'Il controevocatore sostituisce evoca esterno con l\'aura di controevocazione: la trovi nella scheda Convocatore.',armonizzatore:'L\'armonizzatore sostituisce evoca esterno con le detonazioni acustiche: le trovi nella scheda Convocatore.',cavalca_eidolon:'Il cavalca eidolon sostituisce evoca esterno con l\'ordine cavalleresco.'};
+    main.innerHTML='<section class="panel"><div class="card"><h2>Niente evocazioni</h2><p class="txt">'+S.archetipi.map(a=>alt[a]).filter(Boolean).join(' ')+'</p></div></section>';return;
+  }
+  const g=gradoMax();const um=usiMax();const rest=Math.max(0,um-(S.usiEvoca||0));
+  const libro=libroEvocazioni();
+  const nomeLibro=has('elementalista')?'Libro degli Elementali':has('demonologo')?'Libro delle Evocazioni (solo demoni)':'Libro delle Evocazioni';
+  const bloccoEid=!has('creativo')&&!(has('signore_delle_schiere')&&L>=16)&&S.eidolonInCampo;
+  let h='<section class="panel"><div class="stats"><div class="stat"><span class="label">Usi oggi</span><b>'+rest+' / '+um+'</b></div><div class="stat"><span class="label">Grado max</span><b>'+ROM[g]+'</b></div><div class="stat"><span class="label">Durata</span><b>'+durataEvoc()+'</b></div></div>';
+  h+='<div class="row"><button class="btn" id="riposo">Nuovo giorno</button>'+(haEidolon()||has('signore_delle_schiere')?'<label class="check"><input type="checkbox" id="eidIn"'+(S.eidolonInCampo?' checked':'')+'><span>'+(has('signore_delle_schiere')?'Prediletto':has('creativo')?'Musa':'Eidolon')+' in campo</span></label>':'')+'</div>';
+  if(bloccoEid)h+='<div class="banner warn">Non puoi usare evoca esterno mentre l\'eidolon è evocato.</div>';
+  // metaevocazioni
+  const metas=C.doti.filter(d=>d.meta&&nDote(d.id));
+  if(metas.length)h+='<div class="card"><h2>Metaevocazione</h2><div class="note" style="margin-bottom:6px">Una sola alla volta.</div><div class="chips"><button class="chip" data-meta="" aria-pressed="'+!S.meta+'">Nessuna</button>'+metas.map(d=>'<button class="chip" data-meta="'+d.id+'" aria-pressed="'+(S.meta===d.id)+'">'+esc(d.nome.replace('Evocazioni ',''))+'</button>').join('')+'</div></div>';
+  // attive
+  h+='<div class="card"><h2>In campo</h2>';
+  if(!S.evocati.length)h+='<p class="note">Nessuna creatura evocata.</p>';
+  S.evocati.forEach((a,i)=>{const cr=[...ESTERNI,...ELEMENTALI].find(x=>x.id===a.id&&x.libro===a.libro);if(!cr)return;const m=modificatori(cr,a.grado);const max=cr.pf+m.pfDv*cr.dv;
+    h+='<div class="active"><div class="row" style="justify-content:space-between"><button class="btn sm" data-apri="'+i+'"><b>'+esc(cr.nome)+'</b></button><span class="tag">'+a.round+' round</span></div>'+
+      '<div class="row"><div class="hp"><button class="btn sm" data-pf="'+i+'" data-d="-5">−5</button><button class="btn sm" data-pf="'+i+'" data-d="-1">−1</button><input type="number" aria-label="PF di '+esc(cr.nome)+'" data-pfi="'+i+'" value="'+a.pf+'"><span class="note">/ '+max+'</span><button class="btn sm" data-pf="'+i+'" data-d="1">+1</button></div></div>'+
+      '<div class="bar"><i class="'+(a.pf<max/2?'low':'')+'" style="width:'+Math.max(0,Math.min(100,a.pf/max*100))+'%"></i></div>'+
+      '<div class="row"><button class="btn sm" data-rd="'+i+'">Fine round</button><button class="btn sm danger" data-cong="'+i+'">Congeda</button></div></div>';});
+  if(S.evocati.length)h+='<div class="row" style="margin-top:8px"><button class="btn sm" id="roundAll">Fine round per tutti</button></div>';
+  h+='</div>';
+  // elenco
+  h+='<div class="card"><h2>'+nomeLibro+'</h2><div class="chips" style="margin-bottom:8px"><button class="chip" data-gr="0" aria-pressed="'+(!S.filtroGrado)+'">Tutti</button>'+[...Array(g)].map((_,i)=>'<button class="chip" data-gr="'+(i+1)+'" aria-pressed="'+(S.filtroGrado===i+1)+'">'+ROM[i+1]+'</button>').join('')+'</div>';
+  h+='<input class="search" id="evQ" placeholder="Cerca per nome o tipo…">';
+  h+='<div id="evList"></div></div>';
+  if(has('signore_delle_schiere')&&L>=4)h+='<div class="card"><h2>Evocazione multipla</h2><p class="txt">'+(L>=8?'Superiore: 1d4+1 esterni identici di grado '+ROM[Math.max(1,g-2)]+' · ':'')+'1d3 esterni identici di grado '+ROM[Math.max(1,g-1)]+(L>=20?' (sempre il massimo)':'')+'. Tocca un esterno del grado giusto e scegli "Evoca in gruppo".</p></div>';
+  h+='</section>';
+  main.innerHTML=h;
+  const drawList=q=>{
+    const gr=S.filtroGrado;let o='';
+    for(let x=g;x>=1;x--){
+      if(gr&&gr!==x)continue;
+      const l=libro.filter(e=>e.grado===x&&(!q||(e.nome+' '+e.tipo).toLowerCase().includes(q)));
+      if(!l.length)continue;
+      o+='<div class="catHead"><h3>Grado '+ROM[x]+'</h3><span class="note">'+l.length+'</span></div><div class="list">';
+      for(const e of l){const last=S.ultimo&&S.ultimo.id===e.id&&S.ultimo.libro===e.libro;
+        o+='<button class="item'+(last?' locked':'')+'" data-cr="'+e.id+'" data-lb="'+e.libro+'"><span><b>'+esc(e.nome)+'</b><br><span class="meta">'+esc(e.tipo)+' · '+esc(e.taglia)+' · '+e.dv+' DV</span></span><span class="row">'+(last?'<span class="tag">appena evocato</span>':'')+'<span class="tag">PF '+e.pf+'</span><span class="tag">CA '+e.ca+'</span></span></button>';}
+      o+='</div>';
+    }
+    document.getElementById('evList').innerHTML=o||'<p class="note">Nessuna creatura trovata.</p>';
+    document.querySelectorAll('[data-cr]').forEach(b=>b.addEventListener('click',()=>apriCreatura(b.dataset.cr,b.dataset.lb)));
+  };
+  drawList('');
+  document.getElementById('evQ').addEventListener('input',e=>drawList(e.target.value.toLowerCase().trim()));
+  const on=(id,fn)=>{const el=document.getElementById(id);el&&el.addEventListener('click',fn);};
+  on('riposo',()=>{S.usiEvoca=0;S.ultimo=null;S.usiArch=0;render();});
+  const ei=document.getElementById('eidIn');ei&&ei.addEventListener('change',e=>{S.eidolonInCampo=e.target.checked;if(e.target.checked&&!has('creativo')&&!(has('signore_delle_schiere')&&lv()>=16))S.evocati=[];render();});
+  on('roundAll',()=>{S.evocati.forEach(a=>a.round--);S.evocati=S.evocati.filter(a=>a.round>0);render();});
+  main.querySelectorAll('[data-meta]').forEach(b=>b.addEventListener('click',()=>{S.meta=b.dataset.meta||null;render();}));
+  main.querySelectorAll('[data-gr]').forEach(b=>b.addEventListener('click',()=>{S.filtroGrado=+b.dataset.gr;render();}));
+  main.querySelectorAll('[data-pf]').forEach(b=>b.addEventListener('click',()=>{S.evocati[+b.dataset.pf].pf+= +b.dataset.d;render();}));
+  main.querySelectorAll('[data-pfi]').forEach(b=>b.addEventListener('change',()=>{S.evocati[+b.dataset.pfi].pf=+b.value;render();}));
+  main.querySelectorAll('[data-rd]').forEach(b=>b.addEventListener('click',()=>{const a=S.evocati[+b.dataset.rd];a.round--;if(a.round<=0)S.evocati.splice(+b.dataset.rd,1);render();}));
+  main.querySelectorAll('[data-cong]').forEach(b=>b.addEventListener('click',()=>{S.evocati.splice(+b.dataset.cong,1);render();}));
+  main.querySelectorAll('[data-apri]').forEach(b=>b.addEventListener('click',()=>{const a=S.evocati[+b.dataset.apri];const cr=[...ESTERNI,...ELEMENTALI].find(x=>x.id===a.id&&x.libro===a.libro);modal('<div class="card"><div class="sheetHead"><span></span><button class="btn sm" data-close>Chiudi</button></div>'+schedaCreatura(cr,a.grado,true)+'</div>');}));
+}
+function apriCreatura(id,lb){
+  const cr=[...ESTERNI,...ELEMENTALI].find(x=>x.id===id&&x.libro===lb);const L=lv();
+  const um=usiMax(),rest=um-(S.usiEvoca||0);
+  const bloccoEid=!has('creativo')&&!(has('signore_delle_schiere')&&L>=16)&&S.eidolonInCampo;
+  const last=S.ultimo&&S.ultimo.id===id&&S.ultimo.libro===lb;
+  let motivo=rest<=0?'Usi giornalieri esauriti':bloccoEid?'L\'eidolon è in campo':last?'Non puoi evocare lo stesso esterno due volte di fila':'';
+  const g=gradoMax();
+  const gruppo=has('signore_delle_schiere')&&L>=4&&(cr.grado===g-1||(L>=8&&cr.grado===g-2));
+  let h='<div class="card"><div class="sheetHead"><span></span><button class="btn sm" data-close>Chiudi</button></div>'+schedaCreatura(cr,cr.grado,true)+
+    '<div class="row" style="margin-top:12px"><button class="btn pri" id="evoca"'+(motivo?' disabled':'')+'>Evoca</button>'+(gruppo?'<button class="btn" id="evocaG"'+(motivo?' disabled':'')+'>Evoca in gruppo</button>':'')+(motivo?'<span class="note warnT">'+motivo+'</span>':'')+'</div></div>';
+  modal(h);
+  const go=n=>{const m=modificatori(cr,cr.grado);const pf=cr.pf+m.pfDv*cr.dv;S.usiEvoca=(S.usiEvoca||0)+1;
+    S.evocati=[];
+    for(let i=0;i<n;i++)S.evocati.push({id:cr.id,libro:cr.libro,grado:cr.grado,pf,round:roundsEvoc()});
+    S.ultimo={id:cr.id,libro:cr.libro};closeModal();render();};
+  document.getElementById('evoca').addEventListener('click',()=>go(1));
+  const eg=document.getElementById('evocaG');
+  eg&&eg.addEventListener('click',()=>{const sup=cr.grado===g-2;let n=sup?(L>=20?5:Math.floor(Math.random()*4)+2):(L>=20?3:Math.floor(Math.random()*3)+1);go(n);});
+}
+
+/* ---------- modale ---------- */
+const M=document.getElementById('modal');
+function modal(h){M.innerHTML='<div class="overlay" role="dialog" aria-modal="true">'+h+'</div>';M.querySelector('.overlay').addEventListener('click',e=>{if(e.target.classList.contains('overlay')||e.target.hasAttribute('data-close'))closeModal();});}
+function closeModal(){M.innerHTML='';}
+function conferma(testo,ok,fn){modal('<div class="card"><p>'+esc(testo)+'</p><div class="row"><button class="btn danger" id="okC">'+ok+'</button><button class="btn" data-close>Annulla</button></div></div>');document.getElementById('okC').addEventListener('click',()=>{closeModal();fn();});}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
+
+render();
+</script>

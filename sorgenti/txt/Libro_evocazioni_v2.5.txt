@@ -1,0 +1,2002 @@
+Libro delle Evocazioni
+Esterni evocabili dal Convocatore
+Edizione completa v2.5 — Evoca Esterno I–IX
+
+Evoca esterno I
+Annegatore
+Questo orrore acquatico ha un'ottima vista e una bocca piena di denti acuminati.
+Tipo di esterno: demone acquatico
+Sensi: Visione crepuscolare, Vista cieca 36 m (in acqua)
+Statistiche: Taglia media; Nuotare 24 m
+Caratteristiche: Forza 14, Destrezza 16, Costituzione 13, Intelligenza 2, Saggezza 13, Carisma 6
+Abilità: Nuotare +13, Percezione +9
+Talenti: Arma focalizzata (morso)
+CA: 16, contatto 13, impreparato 13 (+3 CA naturale)
+PF: 11 (2 DV)
+Tiri Salvezza: Tempra +4, Riflessi +5, Volontà +1
+Attacchi: Morso +5 (1d6+3)
+BMC: +3     DMC: 15
+Aracnodemone
+Questo demone aracnoideo è in grado di aggredire le proprie prede frontalmente e dall'alto. Una volta morsa una vittima la dissangua, cercando nel frattempo di spezzarle le ossa.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m, Fiuto
+Statistiche: Taglia media; Velocità 9 m, Scalare 3 m
+Caratteristiche: Forza 10, Destrezza 16, Costituzione 10, Intelligenza 3, Saggezza 13, Carisma 11
+Abilità: Artista della fuga +8, Furtività +8, Percezione +6, Scalare +8
+Talenti: Arma accurata, Riflessi fulminei
+CA: 16, contatto 13, impreparato 13 (+3 CA naturale)
+PF: 9 (2 DV)
+Tiri Salvezza: Tempra +3, Riflessi +5, Volontà +1
+Attacchi: Artigli +4 (1d6 più Afferrare e Stritolare)
+BMC: +2     DMC: 14 (18 contro Sbilanciare)
+Capacità magiche: LI 1°; Concentrazione +2
+2 per evocazione – Colpo di ragnatela (CD 12)
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Risucchio di sangue: alla fine del proprio turno, l'esterno infligge 1 danno temporaneo a Costituzione a un avversario vivente con cui è in lotta.
+* Stritolare: quando l'esterno effettua con successo una manovra di lottare con l'attacco indicato, infligge all'avversario un numero di danni contundenti extra pari al danno dell'attacco stesso (infliggendoli quindi due volte, una per la lotta e una per questa capacità).
+Capro dei boschi
+Questo agile demone caprino avanza veloce scagliando a terra i nemici con le sue potenti corna.
+Tipo di esterno: demone
+Sensi: Visione crepuscolare, Fiuto
+Statistiche: Taglia media; Velocità 12 m
+Caratteristiche: Forza 14, Destrezza 16, Costituzione 15, Intelligenza 2, Saggezza 11, Carisma 7
+Abilità: Furtività +8 (+12 ambienti boschivi), Percezione +4
+Talenti: Volontà di ferro
+CA: 16, contatto 13, impreparato 13 (+3 CA naturale)
+PF: 13 (2 DV)
+Tiri Salvezza: Tempra +4, Riflessi +5, Volontà +2
+Attacchi: Corna +4 (1d6+3 più Sbilanciare)
+BMC: +2     DMC: 14
+Capacità e attacchi speciali
+* Carica possente: durante le cariche, l'attacco di Corna dell'esterno infligge due volte il dado di danno (es. 1dx → 2dx).
+* Sbilanciare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Sbilanciare che non provoca attacchi di opportunità contro un avversario al massimo di una categoria superiore alla propria. Se la manovra fallisce, l'esterno non può essere sbilanciato a sua volta.
+Demone dell'erba alta
+Questo demone predilige cespugli e vegetazione in cui può nascondersi e mordere le gambe delle vittime, annebbiandole con il proprio veleno.
+Tipo di esterno: demone
+Sensi: Visione crepuscolare, Fiuto
+Statistiche: Taglia media; Velocità 12 m
+Caratteristiche: Forza 14, Destrezza 16, Costituzione 14, Intelligenza 2, Saggezza 11, Carisma 5
+Abilità: Furtività +8, Percezione +4
+Talenti: Arma focalizzata (morso)
+CA: 16, contatto 13, impreparato 13 (+3 CA naturale)
+PF: 13 (2 DV)
+Tiri Salvezza: Tempra +4, Riflessi +4, Volontà +0
+Attacchi: Morso +5 (1d6+3 più Veleno)
+BMC: +0     DMC: 9
+Capacità e attacchi speciali
+* Veleno: se l'attacco colpisce, la vittima deve superare un Tiro Salvezza su Tempra con CD 13 o diventare inferma per 4 round. Questo è un effetto di [VELENO].
+Rapitore invisibile
+Questo demone ributtante è un incrocio da un camaleonte e un ragno.
+Tipo di esterno: demone
+Sensi: Percezione tellurica 18 m, Scurovisione 18 m
+Statistiche: Taglia piccola; Velocità 9 m, Scalare 3 m
+Caratteristiche: Forza 12, Destrezza 16, Costituzione 12, Intelligenza -, Saggezza 10, Carisma 2
+Abilità: Acrobazia +10, Furtività +10 (+20 quando immobile), Percezione +4, Scalare +16
+Talenti: Arma accurata, Volontà di ferro
+CA: 16, contatto 14, impreparato 13 (+1 taglia, +2 CA naturale)
+PF: 11 (2 DV)
+Tiri Salvezza: Tempra +4, Riflessi +2, Volontà +2
+Immunità: Effetti di [influenza mentale: charme, compulsione, finzione, trama e morale].
+Attacchi: Morso +6 (1d4+1 più Veleno)
+BMC: +0     DMC: 12 (18 contro Sbilanciare)
+Capacità e attacchi speciali
+* Mimetismo: l'esterno non ha bisogno di copertura per effettuare le prove di Furtività (nascondersi).
+* Veleno: se l'attacco colpisce, la vittima deve superare un Tiro Salvezza su Tempra con CD 12 o diventare inferma per 4 round. Questo è un effetto di [VELENO].
+Brisk
+Con un sorriso pieno di denti, questa minuscola e graziosa creatura avanza emanando un'aura in cui tutto va storto in modo comico e stravagante.
+Tipo di esterno: angelo
+Sensi: Scurovisione 36 m
+Statistiche: Taglia minuscola; Velocità 6 m
+Caratteristiche: Forza 4, Destrezza 16, Costituzione 10, Intelligenza 10, Saggezza 14, Carisma 6
+Abilità: Disattivare congegni +2, Furtività +7, Percezione +6, Raggirare +2
+Talenti: Arma focalizzata (arco corto), Robustezza, Tiro preciso
+CA: 16, contatto 16, impreparato 13 (+2 taglia, +1 deviazione)
+PF: 8 (1 DV)
+Tiri Salvezza: Tempra +0, Riflessi +4, Volontà +4
+RD: 2/ferro freddo
+RI: 10
+Attacchi: Pugnale -1 (1d2-4) o Arco corto +7 (1d3)
+BMC: -1     DMC: 5
+Capacità magiche: LI 1°; Concentrazione +3
+2 per evocazione – Frastornare (CD 12)
+1 per evocazione – Cura ferite leggere (CD 13)
+Capacità e attacchi speciali
+* Aura di sfortuna (Sop): le creature entro 3 m dall'esterno subiscono Svantaggio nei tiri per colpire, Tiri Salvezza e prove di abilità. Animali, folletti, gnoll e creature che beneficiano di un bonus di fortuna sono immuni a questa capacità. Questo è un effetto di [MALEDIZIONE].
+Bruco arcobaleno
+Questo lungo millepiedi si muove leggero, agitando le sue setole in cerca di nemici.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m
+Statistiche: Taglia media; Velocità 12 m, Scalare 3 m
+Caratteristiche: Forza 10, Destrezza 16, Costituzione 12, Intelligenza -, Saggezza 10, Carisma 2
+Abilità: Furtività +10, Percezione +4, Scalare +10
+Talenti: Arma accurata
+CA: 16, contatto 13, impreparato 12 (+2 CA naturale)
+PF: 11 (2 DV)
+Tiri Salvezza: Tempra +3, Riflessi +2, Volontà +0
+Immunità: Effetti di [influenza mentale: charme, compulsione, finzione, trama e morale].
+Attacchi: Schianto +4 (1d6 più Veleno)
+BMC: -1     DMC: 11
+Capacità e attacchi speciali
+* Stabilità assoluta: l'esterno non può essere sbilanciato.
+* Veleno: se l'attacco colpisce, la vittima deve superare un Tiro Salvezza su Tempra con CD 12 o diventare inferma per 4 round. Questo è un effetto di [VELENO].
+Chèrub
+I chèrub hanno l'aspetto di bambini, con ali ronzanti e la parte inferiore del corpo di coleottero. Questi angeli minori sono soliti registrare i peccati dei mortali e ricordarglieli senza troppi sè e troppi ma.
+Tipo di esterno: angelo
+Sensi: Visione crepuscolare
+Statistiche: Taglia piccola; Velocità 6 m, Volare 9 m (buona) a un'altezza massima di 1 m
+Caratteristiche: Forza 8, Destrezza 16, Costituzione 12, Intelligenza 13, Saggezza 12, Carisma 15
+Abilità: Conoscenze +5 (arcane; natura; proibite; religioni), Intimidire +6, Intuizione +6
+Talenti: Arma accurata, Incantare in combattimento
+CA: 15, contatto 14, impreparato 12 (+1 taglia, +1 CA naturale)
+PF: 11 (2 DV)
+Tiri Salvezza: Tempra +1, Riflessi +5, Volontà +4
+Attacchi: Schianto +5 (1d4-1)
+BMC: -1     DMC: 11
+Capacità magiche: LI 1°; Concentrazione +7
+3 per evocazione – Comando (CD 13), Conoscere il nemico, Infliggi ferite leggere (CD 13)
+Capacità e attacchi speciali
+* Giudice severo: l'esterno non subisce le consuete penalità nelle prove di Intimidire per l'essere di taglia inferiore al bersaglio.
+* Giustizia divina (Sop): ogni volta che un attacco non causa danni all'esterno (perché l'attacco manca, a causa della percentuale di essere mancati, a causa di una RD), l'esterno può ridirigere l'attacco contro un qualsiasi bersaglio entro la portata dell'attacco stesso, ma non contro l'attaccante originale. L'attaccante deve effettuare un nuovo tiro per colpire contro il nuovo bersaglio, beneficiando per tale attacco del talento Critico migliorato.
+* Sfasatura angelica (Sop): l'esterno ottiene una probabilità di essere mancato del 75% nei confronti degli attacchi a distanza.
+Scavafosse ascetico
+Questo piccolo ma fiero essere simile a una talpa ha potenti arti che sono in grado di scavare nella terra.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Percezione cieca 9 m
+Statistiche: Taglia piccola; Velocità 9 m, Scavare 3 m
+Caratteristiche: Forza 14, Destrezza 10, Costituzione 12, Intelligenza 10, Saggezza 14, Carisma 9
+Abilità: Percezione +4, Scalare +5
+Talenti: Arma focalizzata (artigli), Schivare
+CA: 16, contatto 14, impreparato 15 (+1 taglia, +2 CA naturale, +1 schivare)
+PF: 11 (2 DV)
+Tiri Salvezza: Tempra +1, Riflessi +2, Volontà +2
+Resistenze: Sonoro 10
+Attacchi: 2 Artigli +6 (1d4+2)
+BMC: +1     DMC: 11 (15 contro Sbilanciare)
+Capacità e attacchi speciali
+* Agguato dal basso: quando l'esterno esce da sottoterra dopo aver scavato, per quel turno ottiene Vantaggio nei tiri per colpire effettuati contro i nemici adiacenti al punto di uscita.
+* Marzialista angelico: l'esterno aggiunge il bonus di Saggezza alla CA e mantiene tale bonus anche quando è impreparato.
+Stella del vespro
+Questa stella marina dorata emana una luce tenue e pulsante, simile a una lanterna sommersa.
+Tipo di esterno: angelo acquatico
+Sensi: Vista cieca 9 m
+Statistiche: Taglia piccola; Velocità 3 m, Nuotare 12 m
+Caratteristiche: Forza 6, Destrezza 14, Costituzione 12, Intelligenza 4, Saggezza 14, Carisma 13
+Abilità: Nuotare +10, Percezione +6
+Talenti: Robustezza
+CA: 15, contatto 13, impreparato 13 (+1 taglia, +2 CA naturale)
+PF: 10 (1 DV)
+Tiri Salvezza: Tempra +3, Riflessi +2, Volontà +2
+Attacchi: Schianto +2 (1d3-1)
+BMC: -1     DMC: 11 (15 contro Sbilanciare)
+Capacità magiche: LI 1°; Concentrazione +2
+1 per evocazione – Benedizione
+Capacità e attacchi speciali
+* Anfibio: l'esterno può respirare sia sott'acqua che sulla terraferma.
+* Luce del vespro (Sop): come azione standard, l'esterno pulsa di luce benedetta: un alleato entro 9 m ottiene Vantaggio nel prossimo Tiro Salvezza effettuato entro la fine del suo prossimo turno.
+Testa d'angelo
+Questo elmo con le ali fluttua a mezzaria senza quasi emettere il minimo rumore.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m
+Statistiche: Taglia minuscola; Volare 12 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 8, Destrezza 16, Costituzione 12, Intelligenza 6, Saggezza 11, Carisma 14
+Abilità: Furtività +14, Percezione +4, Volare +10
+Talenti: Arma accurata, Riflessi fulminei, Robustezza, Schivare
+CA: 17, contatto 17, impreparato 13 (+2 taglia, +1 deviazione, +1 schivare)
+PF: 9 (1 DV)
+Tiri Salvezza: Tempra +3, Riflessi +4, Volontà +2
+Attacchi: 2 Ali +1 (1d3-1)
+BMC: +0     DMC: 9 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Coro angelico (Sop): come azione standard l'esterno può emettere il boato terrificante di mille voci celestiali. Tutti i nemici entro 6 m devono superare un Tiro Salvezza su Volontà con CD 12 o diventare infermi per 1d4 round. Il Tiro Salvezza è basato su Carisma. Questo è un effetto [UDITIVO] e di [INFLUENZA MENTALE].
+* Guizzante: l'esterno non provoca attacchi di opportunità dovuti al movimento.
+Inevitabile, falcomastino
+Questo agile cane dal corpo metallico è dotato di un becco che utilizza con forza.
+Tipo di esterno: semi-costrutto
+Sensi: Visione crepuscolare
+Statistiche: Taglia piccola; Velocità 9 m
+Caratteristiche: Forza 14, Destrezza 16, Costituzione 13, Intelligenza 2, Saggezza 13, Carisma 7
+Abilità: Percezione +8
+Talenti: Arma focalizzata (morso), Robustezza
+CA: 15, contatto 14, impreparato 12 (+1 taglia, +1 CA naturale)
+PF: 11 (2 DV)
+Tiri Salvezza: Tempra +4, Riflessi +4, Volontà +1
+Attacchi: Morso +6 (1d4+3 / critico 19-20)
+BMC: +2     DMC: 14 (18 contro Sbilanciare)
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+Inevitabile, guizzante
+Una moltitudine di ingranaggi scattanti ricopre il corpo lucido di questo pesce.
+Tipo di esterno: semi-costrutto acquatico
+Sensi: Visione crepuscolare, Percezione cieca 9 m (in acqua)
+Statistiche: Taglia media; Nuotare 12 m
+Caratteristiche: Forza 12, Destrezza 14, Costituzione 15, Intelligenza 1, Saggezza 13, Carisma 2
+Abilità: Nuotare +8, Percezione +8
+Talenti: Arma focalizzata (morso), Riflessi fulminei
+CA: 15, contatto 12, impreparato 13 (+3 CA naturale)
+PF: 13 (2 DV)
+Tiri Salvezza: Tempra +5, Riflessi +4, Volontà +1
+Attacchi: Morso +4 (1d6+1)
+BMC: +2     DMC: 13
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare, sebbene possa farlo sott'acqua.
+Inevitabile, scarabeo
+Questo tozzo coleottero di bronzo avanza inesorabile, ripiegandosi in una sfera corazzata quando minacciato.
+Tipo di esterno: semi-costrutto
+Sensi: Visione crepuscolare
+Statistiche: Taglia piccola; Velocità 9 m, Scavare 3 m
+Caratteristiche: Forza 14, Destrezza 10, Costituzione 14, Intelligenza 2, Saggezza 11, Carisma 1
+Abilità: Percezione +4
+Talenti: Robustezza
+CA: 17, contatto 11, impreparato 17 (+1 taglia, +6 CA naturale)
+PF: 13 (2 DV)
+Tiri Salvezza: Tempra +5, Riflessi +0, Volontà +0
+Attacchi: Morso +4 (1d4+2)
+BMC: +2     DMC: 13 (17 contro Sbilanciare)
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Guscio serrato: come azione di movimento l'esterno può richiudersi su sé stesso, ottenendo +4 alla CA naturale. Finché è chiuso non può muoversi né attaccare; può riaprirsi come azione di movimento.
+Evoca esterno II
+Aguzzino
+Questo piccolo demone punzecchia i propri nemici, trasformandoli lentamente in statue che solitamente hanno pose e sguardi di orrore e sgomento.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m, Fiuto
+Statistiche: Taglia piccola; Velocità 9 m, Scalare 3 m
+Caratteristiche: Forza 8, Destrezza 16, Costituzione 12, Intelligenza 5, Saggezza 11, Carisma 6
+Abilità: Acrobazia +6, Furtività +14, Percezione +4
+Talenti: Arma accurata, Volontà di ferro
+CA: 16, contatto 14, impreparato 13 (+1 taglia, +2 CA naturale)
+PF: 17 (3 DV)
+Tiri Salvezza: Tempra +4, Riflessi +5, Volontà +2
+Attacchi: Lancia (+1) +7 (2d4 più Morte pietrificante)
+BMC: +0     DMC: 12
+Capacità e attacchi speciali
+* Morte pietrificante (Sop): se l'attacco colpisce una creatura vivente, questa diventa inferma per 1 round. Le creature viventi uccise dall'attacco di Lancia +1 si trasformano immediatamente in pietra.
+Becco ronzante
+Questo sgraziato demone simile a una mosca dotata di becco ha ali incapaci di sollevarlo a più di un metro da terra.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m
+Statistiche: Taglia piccola; Velocità 6 m, Volare 15 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 12, Destrezza 16, Costituzione 13, Intelligenza 2, Saggezza 12, Carisma 7
+Abilità: Furtività +10, Percezione +5, Volare +8
+Talenti: Arma accurata, Schivare
+CA: 16, contatto 14, impreparato 12 (+1 taglia, +1 CA naturale, +1 schivare)
+PF: 17 (3 DV)
+Tiri Salvezza: Tempra +5, Riflessi +5, Volontà +1
+Attacchi: Morso +6 (1d4+1 / critico x3), Artigli +5 (1d3+1 più Afferrare)
+BMC: +1 (+5 per iniziare una lotta, +9 per continuare una lotta)     DMC: 13
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+Carnimmondo
+I carnimmondi hanno un aspetto variabile, ma sono sempre contraddistinti da due zampe mostruose, bocca irta di denti aguzzi e lingua sbavante.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m, Fiuto
+Statistiche: Taglia piccola; Velocità 9 m
+Caratteristiche: Forza 12, Destrezza 14, Costituzione 12, Intelligenza 6, Saggezza 11, Carisma 12
+Abilità: Acrobazia +5, Artista della fuga +5, Furtività +9, Percezione +4
+Talenti: Riflessi fulminei
+CA: 16, contatto 13, impreparato 14 (+1 taglia, +3 CA naturale)
+PF: 17 (3 DV)
+Tiri Salvezza: Tempra +2, Riflessi +3, Volontà +3
+RI: 12
+Immunità: Effetti di [influenza mentale: charme, compulsione, finzione, trama e morale].
+Attacchi: Morso +5 (1d4+1 più Influenza peccaminosa)
+BMC: +1     DMC: 12
+Capacità e attacchi speciali
+* Influenza peccaminosa (Sop): quando evoca l'esterno, il convocatore deve scegliere un peccato che determina l'effetto aggiuntivo dell'attacco di Morso. L'eventuale CD del Tiro Salvezza è 12.
+*  Accidia:* la vittima deve superare un Tiro Salvezza su Riflessi o diventare inferma per 4 round.
+*  Avarizia:* la vittima deve superare un Tiro Salvezza su Tempra o diventare azzoppata per 4 round.
+*  Gola:* la vittima deve superare un Tiro Salvezza su Tempra o diventare affaticata. Questa capacità non cumula gli stati di fatica.
+*  Invidia:* la vittima subisce gli effetti dell'incantesimo Dissolvi Magie lanciato da un incantatore di 3° livello.
+*  Ira:* la vittima subisce 1d4 danni da energia negativa.
+*  Lussuria:* la vittima deve superare un Tiro Salvezza su Volontà o diventare confusa per 1 round.
+*  Superbia:* la vittima deve superare un Tiro Salvezza su Volontà o diventare accecata per 1 round.
+Lampreda abissale
+Questo verme anguilliforme è tutto bocca: un imbuto di denti concentrici che cerca carne a cui aggrapparsi.
+Tipo di esterno: demone acquatico
+Sensi: Scurovisione 18 m, Vista cieca 9 m (in acqua)
+Statistiche: Taglia piccola; Nuotare 15 m
+Caratteristiche: Forza 12, Destrezza 17, Costituzione 13, Intelligenza 2, Saggezza 12, Carisma 5
+Abilità: Furtività +9, Nuotare +9, Percezione +5
+Talenti: Arma accurata
+CA: 16, contatto 14, impreparato 13 (+1 taglia, +2 CA naturale)
+PF: 17 (3 DV)
+Tiri Salvezza: Tempra +4, Riflessi +6, Volontà +2
+Attacchi: Morso +6 (1d4+1 più Aggrapparsi e [Sanguinamento 1d3])
+BMC: +1 (+5 per continuare una lotta)     DMC: 14
+Capacità e attacchi speciali
+* Aggrapparsi: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per attaccarsi a un avversario di qualsiasi taglia. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta; l'esterno non è considerato in lotta a sua volta.
+* Risucchio di sangue: alla fine del proprio turno, l'esterno infligge 1 danno temporaneo a Costituzione a un avversario vivente a cui è aggrappato.
+Pestifero
+Questo infante deforme ha ali da insetto ed è ricoperto di piaghe. Impugna una lancia nera in una mano e una tromba grondante di malattie nell'altra.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m
+Statistiche: Taglia piccola; Velocità 6 m, Volare 9 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 10, Destrezza 16, Costituzione 10, Intelligenza 10, Saggezza 14, Carisma 10
+Abilità: Furtività +11, Intuizione +3, Percezione +7, Volare +18
+Talenti: Arma accurata, Tempra possente
+CA: 16, contatto 16, impreparato 13 (+1 taglia, +2 deviazione)
+PF: 14 (3 DV)
+Tiri Salvezza: Tempra +2, Riflessi +3, Volontà +5
+Attacchi: Lancia +7 (1d4 più Ferite dolorose)
+BMC: +0     DMC: 13
+Capacità e attacchi speciali
+* Bubboni acidi: le creature che iniziano il proprio turno in lotta con l'esterno o che lo hanno inghiottito subiscono 1d6 danni da acido.
+* Ferite dolorose: se l'attacco colpisce, infligge 1d4 danni extra e altri 1d4 danni all'inizio del turno successivo della vittima. Questi danni sono considerati un effetto di [DOLORE].
+* Tromba dell'infezione: ogni 1d3 round, come azione standard l'esterno può emettere una linea di fumo nauseabondo lunga 6 m. Le creature nell'area devono superare un Tiro Salvezza su Tempra con CD 13 o diventare inferme per 5 round. In alternativa, l'esterno può concentrare la tromba su un singolo nemico entro 6 m, il quale deve superare un Tiro Salvezza su Tempra con CD 13 o diventare barcollante per 1 round.
+Angelo delle candele
+Questo essere bendato si libra a pochi passi dal terreno, la testa incorniciata da un palco di legno sormontato da lucenti candele.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m
+Statistiche: Taglia media; Volare 9 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 13, Destrezza 14, Costituzione 13, Intelligenza 10, Saggezza 11, Carisma 2
+Talenti: Tiro preciso, Volontà di ferro
+CA: 15, contatto 13, impreparato 13 (+1 CA naturale, +2 deviazione)
+PF: 17 (3 DV)
+Tiri Salvezza: Tempra +4, Riflessi +2, Volontà +3
+Immunità: Effetti di [influenza mentale: charme, compulsione, finzione, trama e morale].
+Attacchi: Schianto +4 (1d6+1), Candele ustionanti +5 (attacco di contatto a distanza entro 9 m, 1d8+1 danni da fuoco)
+BMC: +3     DMC: 14 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Candele ardenti: i nemici che attaccano l'esterno con un attacco naturale o un'arma da mischia senza portata subiscono 1d4 danni da fuoco dopo aver risolto ciascun attacco. All'inizio del proprio turno, le creature in lotta con l'esterno subiscono 2d4 danni da fuoco.
+* Getto di cera: tre volte per evocazione, l'esterno può lanciare un getto di cera contro un bersaglio di taglia media o inferiore entro 9 m. Il bersaglio deve superare un Tiro Salvezza su Riflessi con CD 12 o diventare intralciato. Una vittima così intralciata può liberarsi superando una prova di Artista della fuga con CD 16 o una prova di Forza con CD 16.
+Custode dei fondali
+Questo esterno simile a una nautilus nuota silenzioso nell'acqua per ghermire le proprie vittime e paralizzarle con il suo veleno ultraterreno.
+Tipo di esterno: angelo acquatico
+Sensi: Vista cieca 9 m
+Statistiche: Taglia media; Nuotare 6 m
+Caratteristiche: Forza 10, Destrezza 14, Costituzione 13, Intelligenza -, Saggezza 11, Carisma 2
+Abilità: Nuotare +16
+Talenti: Arma accurata, Volontà di ferro
+CA: 16, contatto 12, impreparato 14 (+4 CA naturale)
+PF: 17 (3 DV)
+Tiri Salvezza: Tempra +4, Riflessi +3, Volontà +3
+Attacchi: Massa tentacolare +0 (2d8 più Veleno)
+BMC: +2     DMC: 14
+Capacità e attacchi speciali
+* Amorfo: l'esterno è immune ai colpi critici e ai danni da precisione.
+* Ancorarsi: come azione di movimento l'esterno può avvolgere i tentacoli attorno a un oggetto fermo. Se ciò accade, ottiene bonus +4 alla DMC e Vantaggio nelle prove e nei Tiri Salvezza contro effetti atti a spostarlo.
+* Senza vista: l'esterno è immune agli effetti [VISIVI].
+* Veleno: se l'attacco colpisce, la vittima deve superare un Tiro Salvezza su Tempra con CD 12 o diventare barcollante per 1 round. Questo è un effetto di [VELENO].
+Liturgico
+Questi angeli hanno il corpo tumefatto dal martirio. Indossano larghe cappe monacali, portano reliquie e cantano continuamente funeste celebrazioni di morte.
+Tipo di esterno: angelo
+Sensi: Vista cieca 9 m
+Statistiche: Taglia media; Velocità 9 m
+Caratteristiche: Forza 12, Destrezza 12, Costituzione 12, Intelligenza 8, Saggezza 10, Carisma 14
+Abilità: Intuizione +8, Percezione +8
+Talenti: Arma accurata, Volontà di ferro
+CA: 15, contatto 13, impreparato 14 (+2 CA naturale, +2 deviazione)
+PF: 17 (3 DV)
+Tiri Salvezza: Tempra +2, Riflessi +7, Volontà +2
+RD: 2/-
+Attacchi: Schianto +5 (1d6+1 più Sacro comandamento)
+BMC: +0     DMC: 14
+Capacità e attacchi speciali
+* Esibizioni bardiche (Sop): l'esterno può usare le esibizioni bardiche Distrazione e Ispirare Coraggio come un bardo di 2° livello e per un totale di 7 round per evocazione.
+* Sacro comandamento (Mag): se l'attacco colpisce una creatura malvagia, questa deve superare un Tiro Salvezza su Volontà con CD 13 o essere vittima dell'incantesimo Comando.
+* Senza vista: l'esterno è immune agli effetti [VISIVI].
+* Spasmo del martire (Sop): quando l'esterno muore, il suo corpo si consuma in un lampo di intensa luce bianca e tutte le creature entro 3 m devono superare un Tiro Salvezza su Tempra con CD 13 o diventare barcollanti per 1d3 round.
+Mano fluttuante
+Questo angelo è una mano spettrale che fluttua, pronta a schiacciare i nemici.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Vista cieca 27 m
+Statistiche: Taglia piccola; Volare 9 m (buona) a un'altezza massima di 1 m
+Caratteristiche: Forza 14, Destrezza 15, Costituzione 12, Intelligenza 2, Saggezza 11, Carisma 10
+Abilità: Furtività +10, Percezione +4, Volare +5
+Talenti: Mobilità, Schivare
+CA: 16, contatto 16, impreparato 13 (+1 taglia, +2 deviazione, +1 schivare)
+PF: 17 (3 DV)
+Tiri Salvezza: Tempra +5, Riflessi +3, Volontà +0
+Attacchi: Schianto +6 (1d4+3 più Afferrare e Stritolare)
+BMC: +1 (+5 Lottare)     DMC: 13 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Amorfo: l'esterno è immune ai colpi critici e ai danni da precisione.
+* Stritolare: quando l'esterno effettua con successo una manovra di lottare con l'attacco indicato, infligge all'avversario un numero di danni contundenti extra pari al danno dell'attacco stesso (infliggendoli quindi due volte, una per la lotta e una per questa capacità).
+Inevitabile, bislacco
+Questo robot dall'aspetto ridicolo, se sottovalutato, può rappresentare la fine anche per i più valorosi combattenti.
+Tipo di esterno: semi-costrutto
+Sensi: Visione crepuscolare
+Statistiche: Taglia minuscola; Velocità 9 m
+Caratteristiche: Forza 7, Destrezza 15, Costituzione 12, Intelligenza 14, Saggezza 15, Carisma 17
+Abilità: Acrobazia +8, Artista della fuga +8, Furtività +8, Intuizione +6, Percezione +8, Raggirare +7
+Talenti: Mobilità, Schivare, Tempra possente
+CA: 16, contatto 15, impreparato 13 (+2 taglia, +1 CA naturale, +1 schivare)
+PF: 11 (2 DV)
+Tiri Salvezza: Tempra +3, Riflessi +6, Volontà +4
+Attacchi: Schianto +1 (1d3-2)
+BMC: +2     DMC: 11
+Capacità magiche: LI 3°; Concentrazione +6
+A volontà – Lampo (CD 13), Fiotto Acido
+5 per evocazione – Canto del Gallo, Confusione Inferiore (CD 14), Dardo Incantato
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Vista veritiera: l'esterno ottiene Vantaggio nei Tiri Salvezza contro gli effetti di [ILLUSIONE: allucinazione, finzione, mascheramento, ombra e trama].
+Inevitabile, granchio
+Questo granchio di ottone avanza di lato con passo cadenzato, le chele che scattano come tenaglie da officina.
+Tipo di esterno: semi-costrutto acquatico
+Sensi: Visione crepuscolare
+Statistiche: Taglia piccola; Velocità 6 m, Nuotare 9 m
+Caratteristiche: Forza 14, Destrezza 12, Costituzione 14, Intelligenza 1, Saggezza 11, Carisma 2
+Abilità: Nuotare +10, Percezione +4
+Talenti: Robustezza, Tempra possente
+CA: 17, contatto 12, impreparato 16 (+1 taglia, +5 CA naturale)
+PF: 20 (3 DV)
+Tiri Salvezza: Tempra +7, Riflessi +2, Volontà +1
+Attacchi: 2 Chele +5 (1d3+2 più Afferrare)
+BMC: +2 (+6 Lottare)     DMC: 14 (18 contro Sbilanciare)
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare, sebbene possa farlo sott'acqua.
+Inevitabile, soldato
+Questo esterno è armato di una lancia acuminata e di una minacciosa arma da fuoco.
+Tipo di esterno: semi-costrutto
+Sensi: Visione crepuscolare
+Statistiche: Taglia piccola; Velocità 12 m
+Caratteristiche: Forza 9, Destrezza 17, Costituzione 10, Intelligenza 13, Saggezza 14, Carisma 9
+Abilità: Acrobazia +6, Intuizione +8, Percezione +8
+Talenti: Ricarica rapida (revolver), Tiro preciso
+CA: 15, contatto 14, impreparato 12 (+1 taglia, +1 CA naturale)
+PF: 14 (3 DV)
+Tiri Salvezza: Tempra +1, Riflessi +6, Volontà +5
+Attacchi: Lancia corta +3 (1d4-1) o Spingarda +8 (conta come un revolver)
+BMC: -1     DMC: 11
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+Evoca esterno III
+Assassino uncinato
+Un singolo occhio scruta da dietro le piastre e le lame di una corazza esterna sferica, simile a una gabbia levitante.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m
+Statistiche: Taglia piccola; Volare 15 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 10, Destrezza 18, Costituzione 14, Intelligenza 13, Saggezza 14, Carisma 11
+Abilità: Artista della fuga +9, Furtività +17, Intimidire +4, Intuizione +7, Percezione +7, Raggirare +4, Volare +11
+Talenti: Arma accurata, Riflessi fulminei
+CA: 19, contatto 15, impreparato 15 (+1 taglia, +4 CA naturale)
+PF: 33 (5 DV)
+Tiri Salvezza: Tempra +2, Riflessi +8, Volontà +5
+Immunità: Freddo
+Attacchi: 2 Catene uncinate +8 (1d6 taglienti e perforanti più [Sanguinamento 1d3])
+BMC: +4     DMC: 3 (non può essere sbilanciato)
+Capacità magiche: LI 5°; Concentrazione +7
+3 per evocazione – Infliggi Ferite Moderate (CD 14)
+Capacità e attacchi speciali
+* Rigenerazione combattiva: durante un combattimento, l'esterno si cura di 2 danni per round. Se l'esterno subisce danni da argento o bene, questa capacità viene soppressa per 1 minuto.
+* Sguardo snervante: l'esterno può ridirigere il proprio sguardo contro una creatura entro 9 m. La vittima deve superare un Tiro Salvezza su Volontà con CD 14 o diventare scossa per 1 round.
+Dretch
+Questo demone dalla pelle spessissima si muove con incredibile rapidità, nonostante la sua stazza.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m, Fiuto
+Statistiche: Taglia piccola; Velocità 12 m
+Caratteristiche: Forza 14, Destrezza 12, Costituzione 14, Intelligenza 5, Saggezza 11, Carisma 12
+Abilità: Artista della fuga +5, Furtività +9, Percezione +5
+Talenti: Schivare
+CA: 19, contatto 13, impreparato 17 (+1 taglia, +6 CA naturale, +1 schivare)
+PF: 33 (5 DV)
+Tiri Salvezza: Tempra +5, Riflessi +1, Volontà +3
+RD: 5/bene e ferro freddo
+Immunità: Elettricità, Veleno
+Resistenze: Acido 10, Freddo 10, Fuoco 10
+Attacchi: Morso +5 (1d4+3), 2 Artigli +5 (1d4+2)
+BMC: +2     DMC: 12
+Capacità magiche: LI 6°; Concentrazione +7
+1 per evocazione – Incuti Paura (CD 12), Nube Maleodorante (CD 14)
+Fossa del terrore
+Questo demone è in realtà una fossa profonda e ruvida, i cui bordi si dimenano e si contraggono da soli.
+Tipo di esterno: demone
+Sensi: Vista cieca 18 m
+Statistiche: Taglia media; Velocità 6 m
+Spazio: 1,5 m     Portata: 3 m
+Caratteristiche: Forza 16, Destrezza 16, Costituzione 18, Intelligenza 2, Saggezza 5, Carisma 1
+Abilità: Furtività +15, Percezione +2
+CA: 17, contatto 13, impreparato 14 (+4 CA naturale)
+PF: 38 (5 DV)
+Tiri Salvezza: Tempra +5, Riflessi +4, Volontà -2
+Immunità: Acido
+Attacchi: 2 Schianti +6 (1d4+2 più Trascinare)
+BMC: +5     DMC: 18 (non può essere sbilanciato)
+Capacità e attacchi speciali
+* Fossa (Sop): come azione standard l'esterno può far aprire sulla sua superficie uno spazio extradimensionale profondo 3 m. Le creature di taglia media o inferiore che vi entrano devono superare un Tiro Salvezza su Riflessi con CD 15 o cadervi dentro subendo 1d6 danni da caduta. La fossa può contenere una creatura di taglia media, due di taglia piccola e così via. Come azione di round completo l'esterno può intrappolare attivamente spostandosi sopra i nemici: le vittime possono effettuare contro l'esterno un attacco di opportunità con -4 oppure un Tiro Salvezza su Riflessi con CD 15 per evitare di cadere. Una creatura all'interno può arrampicarsi fuori con una prova di Scalare CD 15. Come azione di movimento l'esterno può chiudere lo spazio, intrappolando una creatura. All'inizio del proprio turno, una creatura intrappolata subisce 1d3 danni da acido e può attaccare le pareti (CA 10, Durezza 8). Se l'esterno viene ucciso, la fossa collassa ed espelle il contenuto.
+* Trascinare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trascinare verso di sé un avversario di taglia pari o inferiore alla propria. Le creature trascinate non provocano attacchi di opportunità.
+* Trasparente: l'esterno non subisce penalità alle prove di Furtività quando si muove a piena velocità.
+* Senza corpo: l'esterno non può essere fiancheggiato ed è immune ai colpi critici e ai danni da precisione e agli effetti di [SONNO], [METAMORFOSI], [PARALISI], [STORDIMENTO] e [VELENO].
+Saltatore d'acqua
+Questo demone ha ali palmate, una bocca piena di denti aguzzi e una lunga coda che termina con un pungiglione.
+Tipo di esterno: demone acquatico
+Sensi: Scurovisione 18 m
+Statistiche: Taglia piccola; Volare 12 m (maldestra) a un'altezza massima di 1 m, Nuotare 9 m
+Caratteristiche: Forza 14, Destrezza 18, Costituzione 10, Intelligenza 7, Saggezza 14, Carisma 13
+Abilità: Acrobazia +11 (+15 saltare), Furtività +11, Nuotare +9, Percezione +6, Volare +3
+Talenti: Attacco in volo, Robustezza, Schivare, Volontà di ferro
+CA: 19, contatto 16, impreparato 14 (+1 taglia, +3 CA naturale, +1 schivare)
+PF: 28 (5 DV)
+Tiri Salvezza: Tempra +5, Riflessi +6, Volontà +5
+Attacchi: Morso +7 (1d4+2), Pungiglione +7 (1d4+2 più [Sanguinamento 1d3])
+BMC: +4     DMC: 17
+Capacità e attacchi speciali
+* Anfibio: l'esterno può respirare sia sott'acqua che sulla terraferma.
+* Attacco in volo migliorato: quando usa il talento Attacco in volo, l'esterno può effettuare sia 1 attacco di Morso che 1 di Pungiglione.
+Draghetto farfalla
+Questa minuscola creatura angelica scivola nell'aria cavalcando correnti invisibili.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Fiuto
+Statistiche: Taglia minuscola; Velocità 6 m, Volare 18 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 6, Destrezza 18, Costituzione 12, Intelligenza 12, Saggezza 9, Carisma 14
+Abilità: Acrobazia +9, Furtività +16, Percezione +3, Volare +13
+Talenti: Tiro preciso, Tiro ravvicinato, Volontà di ferro
+CA: 18, contatto 18, impreparato 14 (+2 taglia, +2 deviazione)
+PF: 23 (4 DV)
+Tiri Salvezza: Tempra +4, Riflessi +6, Volontà +2
+Attacchi: Morso +2 (1d3-2) o Ondata d'aria +8 (attacco a distanza entro 12 m, 2d6+3 danni contundenti)
+BMC: +4     DMC: 12 (16 contro sbilanciare)
+Capacità magiche: LI 5°; Concentrazione +7
+3 per evocazione – Folata di Vento (CD 14)
+Capacità e attacchi speciali
+* Benedetto dal vento (Sop): l'esterno viene considerato come una creatura di tre taglie superiori ai fini degli effetti basati sul vento.
+* Forma del vento (Sop): tre volte per evocazione, come azione immediata l'esterno può diventare semi-inconsistente per 1 round, ottenendo RD 10/magia e immunità agli effetti di [VELENO], ai colpi critici e ai danni da precisione. Di contro, mentre è in questa forma non può attaccare o usare le sue capacità magiche.
+Ovinnik
+Coperti da un delicato pelo marrone, questi angeli guardiani dai tratti felini tengono una fiamma accesa nella mano artigliata.
+Tipo di esterno: angelo
+Sensi: Fiuto, Scurovisione 18 m
+Statistiche: Taglia piccola; Velocità 9 m, Scalare 3 m
+Caratteristiche: Forza 12, Destrezza 18, Costituzione 11, Intelligenza 9, Saggezza 14, Carisma 16
+Abilità: Acrobazia +8, Artista della fuga +10, Conoscenze (generali, natura) +4, Furtività +18, Percezione +9, Scalare +11
+Talenti: Tempra possente, Schivare, Tiro preciso
+CA: 17, contatto 16, impreparato 13 (+1 taglia, +2 CA naturale, +1 schivare)
+PF: 23 (5 DV)
+Tiri Salvezza: Tempra +5, Riflessi +7, Volontà +6
+RD: 2/ferro freddo
+Resistenze: Fuoco 5
+Attacchi: Artigli +4 (1d4+1) o Fiamma sacra +7 (attacco di contatto a distanza entro 9 m, 2d4 danni da fuoco)
+BMC: +3     DMC: 14
+Capacità magiche: LI 5°; Concentrazione +8
+A volontà – Frastornare (CD 13), Produrre Fiamma
+1 per evocazione – Divinazione
+Capacità e attacchi speciali
+* Attacco furtivo: l'esterno ottiene attacco furtivo (vedi privilegi di classe del ladro) con un danno pari a 1d6.
+* Evocazione inosservata: quando viene evocato, l'esterno può effettuare una prova gratuita di Furtività (nascondersi) per non essere visto.
+* Fuoco della sorte (Sop): una volta per round, come parte di un attacco riuscito di Fiamma sacra o tramite il tocco, l'esterno può cambiare la sorte di una creatura, la quale ottiene Vantaggio o Svantaggio (a scelta dell'esterno) nel prossimo tiro di d20 effettuato entro la fine del prossimo round. La vittima può superare un Tiro Salvezza su Volontà con CD 14 per negare l'effetto.
+Ippocampo benedetto
+Questo destriero dalle scaglie madreperlacee ha la coda di un pesce e una criniera che luccica come schiuma al sole.
+Tipo di esterno: angelo acquatico
+Sensi: Visione crepuscolare, Vista cieca 9 m (in acqua)
+Statistiche: Taglia grande; Velocità 3 m, Nuotare 18 m
+Spazio: 3 m     Portata: 1,5 m
+Caratteristiche: Forza 16, Destrezza 15, Costituzione 14, Intelligenza 6, Saggezza 13, Carisma 12
+Abilità: Nuotare +14, Percezione +6
+Talenti: Resistenza fisica, Robustezza
+CA: 17, contatto 11, impreparato 15 (-1 taglia, +2 Destrezza, +6 CA naturale)
+PF: 34 (4 DV)
+Tiri Salvezza: Tempra +6, Riflessi +6, Volontà +2
+Attacchi: Schianto +6 (1d6+4)
+BMC: +7     DMC: 19
+Capacità magiche: LI 3°; Concentrazione +4
+1 per evocazione – Benedizione, Nebbia Occultante
+Capacità e attacchi speciali
+* Anfibio: l'esterno può respirare sia sott'acqua che sulla terraferma.
+* Bolla benedetta (Sop): le creature in contatto fisico con l'esterno (ad esempio chi lo cavalca) possono respirare sott'acqua e non subiscono le penalità al movimento e all'attacco dovute all'acqua.
+* Cavalcatura fidata: l'esterno può trasportare fino a 2 creature di taglia media (o 4 di taglia piccola) senza penalità alla velocità di Nuotare.
+Slurk
+Nonostante il suo aspetto, questo essere è una creatura angelica che assomiglia a un rospo ricoperto di muco, ma con due zanne da tricheco.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m
+Statistiche: Taglia media; Velocità 9 m
+Caratteristiche: Forza 16, Destrezza 14, Costituzione 17, Intelligenza 3, Saggezza 10, Carisma 10
+Abilità: Acrobazia +16, Artista della fuga +6
+Talenti: Oltrepassare migliorato, Spingere migliorato
+CA: 19, contatto 13, impreparato 16 (+5 CA naturale, +1 deviazione)
+PF: 38 (5 DV)
+Tiri Salvezza: Tempra +6, Riflessi +5, Volontà +0
+Attacchi: Zanne +8 (2d6+3)
+BMC: +4     DMC: 16 (20 contro Lottare, Oltrepassare, Sbilanciare e Spingere)
+Capacità e attacchi speciali
+* Muco: una volta ogni 1d3 round, come azione standard l'esterno può spruzzare uno schizzo di muco da uno dei suoi noduli tramite un attacco di contatto a distanza con +7 entro 9 m. Se l'attacco colpisce, la vittima diventa intralciata. Chiunque venga spinto od oltrepassato dall'esterno viene automaticamente intralciato a causa del muco. Una vittima così intralciata può liberarsi come azione di round completo superando una prova di Forza con CD 15.
+Inevitabile, arbiter
+Una sfera di rame e bronzo con un occhio, questa creatura possiede due mani artigliate, una delle quali impugna un coltello.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m
+Statistiche: Taglia piccola; Volare 15 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 11, Destrezza 16, Costituzione 12, Intelligenza 11, Saggezza 11, Carisma 14
+Abilità: Furtività +16, Intuizione +5, Percezione +5, Volare +12
+Talenti: Arma accurata, Attacco in volo
+CA: 18, contatto 15, impreparato 14 (+1 taglia, +2 CA naturale)
+PF: 28 (5 DV)
+Tiri Salvezza: Tempra +5, Riflessi +3, Volontà +3
+RI: 13
+Attacchi: Spada corta (+1, Folgorante) +9 (1d4+1)
+BMC: +3     DMC: 13
+Capacità magiche: LI 5°; Concentrazione +7
+Permanente – Individuazione del Caos
+3 per evocazione – Comando (CD 13), Protezione dal Caos
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Esplosione elettrica: ogni 1d3 round, l'esterno può rilasciare un'esplosione di raggio 3 m centrata su di sé che infligge 3d6 danni da elettricità. Le creature colpite possono superare un Tiro Salvezza su Riflessi CD 13 per dimezzare i danni.
+* Rigenerazione combattiva: durante un combattimento, l'esterno si cura di 2 danni per round. Se l'esterno subisce danni da caos, questa capacità viene soppressa per 1 minuto.
+Inevitabile, murena
+Questa lunga anguilla meccanica serpeggia nell'acqua, con archi voltaici che le percorrono le piastre dorsali.
+Tipo di esterno: semi-costrutto acquatico
+Sensi: Scurovisione 18 m, Percezione cieca 9 m (in acqua)
+Statistiche: Taglia media; Nuotare 15 m
+Caratteristiche: Forza 15, Destrezza 16, Costituzione 14, Intelligenza 1, Saggezza 12, Carisma 2
+Abilità: Furtività +8, Nuotare +10, Percezione +5
+Talenti: Arma focalizzata (morso), Riflessi fulminei
+CA: 17, contatto 13, impreparato 14 (+3 Destrezza, +4 CA naturale)
+PF: 30 (4 DV)
+Tiri Salvezza: Tempra +6, Riflessi +6, Volontà +2
+Attacchi: Morso +7 (1d6+3 più 1d4 danni da elettricità)
+BMC: +5     DMC: 18
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare, sebbene possa farlo sott'acqua.
+* Guizzante: l'esterno non provoca attacchi di opportunità dovuti al movimento.
+* Scarica improvvisa: ogni 1d3 round, come azione standard l'esterno può rilasciare un'esplosione di raggio 3 m centrata su di sé che infligge 2d6 danni da elettricità (raggio 4,5 m se in acqua). Le creature colpite possono superare un Tiro Salvezza su Riflessi con CD 14 per dimezzare i danni.
+Inevitabile, planetario
+Questo planetario meccanico sfreccia nell'aria, con sottili lame affilate che baluginano periodicamente al suo interno.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m
+Statistiche: Taglia piccola; Volare 15 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 10, Destrezza 16, Costituzione 11, Intelligenza 10, Saggezza 13, Carisma 12
+Abilità: Intuizione +7, Percezione +7, Volare +20
+Talenti: Arma accurata, Schivare
+CA: 19, contatto 15, impreparato 15 (+1 taglia, +3 CA naturale, +1 deviazione, +1 schivare)
+PF: 23 (5 DV)
+Tiri Salvezza: Tempra +1, Riflessi +5, Volontà +4
+RD: 5/male
+Immunità: Elettricità, Effetti di [PIETRIFICAZIONE]
+Attacchi: 3 Lame magiche +7 (1d4 / critico 19-20, allineate Bene)
+BMC: +3     DMC: 12
+Capacità magiche: LI 5°; Concentrazione +6
+Permanenti – Individuazione del Male
+3 per evocazione – Cura Ferite Moderate (CD 13), Protezione dal Male
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Furia esplosiva (Sop): una volta al minuto, l'esterno può emanare un'esplosione di energia che infligge 5d6 danni da forza ai nemici adiacenti. Le creature colpite possono superare un Tiro Salvezza su Riflessi con CD 13 per dimezzare i danni.
+Inevitabile, servitore
+Questo tozzo semi-costrutto è circondato da un campo respingente ed è capace di riparare i danni subiti.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m
+Statistiche: Taglia media; Velocità 9 m
+Caratteristiche: Forza 19, Destrezza 10, Costituzione 12, Intelligenza -, Saggezza 11, Carisma 1
+Talenti: Arma focalizzata (schianto), Riflessi fulminei, Robustezza, Tempra possente
+CA: 17, contatto 13, impreparato 17 (+4 CA naturale, +3 deviazione)
+PF: 33 (5 DV)
+Tiri Salvezza: Tempra +2, Riflessi +2, Volontà +0
+Debolezze: Vulnerabilità all'elettricità
+Attacchi: Schianto +9 (2d4+6)
+BMC: +6     DMC: 20
+Capacità e attacchi speciali
+* Auto-riparazione: una volta ogni 1d4 round, come azione di movimento che non provoca attacchi di opportunità l'esterno può curarsi di 1d10 danni.
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+Evoca esterno IV
+Lumaca infernale
+Questa enorme lumaca ha un guscio dai colori luminosi e quattro tentacoli sulla testa, con le estremità simili a mazze.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m, Fiuto, Percezione cieca 9 m, Percezione tellurica 18 m
+Statistiche: Taglia grande; Velocità 6 m, Scalare 3 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 18, Destrezza 8, Costituzione 14, Intelligenza 5, Saggezza 12, Carisma 8
+Abilità: Percezione +5, Scalare +15
+Talenti: Attacco poderoso
+CA: 19, contatto 8, impreparato 20 (-1 taglia, +11 CA naturale)
+PF: 46 (7 DV)
+Tiri Salvezza: Tempra +6, Riflessi +3, Volontà +2
+Immunità: Effetti di [VELENO]
+Resistenze: Fuoco 10
+Attacchi: 4 Schianti +8 (1d4+4)
+BMC: +8     DMC: 17 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Bava: come azione gratuita, l'esterno può secernere una scia di muco che copre il suo spazio per 10 minuti. Il muco può essere viscido (le creature che attraversano l'area devono superare un Tiro Salvezza su Riflessi con CD 14 o cadere prone) o appiccicoso (trasforma le caselle in terreno difficile). Una casella di muco esposta a una fonte di fuoco torna normale.
+* Magia deformata (Sop): ogni volta che un incantesimo prende come bersaglio l'esterno, c'è una probabilità dell'80% che produca un effetto casuale invece di influenzarlo. Solo gli incantesimi a bersaglio diretto vengono deformati, non quelli ad area. Se un incantesimo viene deformato, si tira 1d10: 1-3 l'incantesimo manca l'esterno e per 1d4 round l'incantatore deve superare una prova di Concentrazione con CD 15 per lanciare incantesimi; 4-6 l'incantesimo manca l'esterno e la creatura più vicina ne diventa il nuovo bersaglio; 7-9 l'incantesimo manca l'esterno; 10 l'incantatore stesso diventa il nuovo bersaglio, come per Riflettere Incantesimo.
+* Muco adesivo: l'esterno non può essere sbilanciato, spinto o trascinato.
+* Retrazione: come azione veloce l'esterno può ritrarre le parti morbide all'interno del guscio, aumentando di +6 il proprio bonus di CA naturale. Finché è ritratto non può muoversi né attaccare; può tornare normale come azione veloce.
+Madash
+Avvolto in abiti laceri e curvo su zampe da capra, questo demone ha un volto privo di lineamenti, tranne un grosso occhio orlato di zanne.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m, Vedere al buio
+Statistiche: Taglia media; Velocità 9 m, Scalare 3 m
+Caratteristiche: Forza 14, Destrezza 15, Costituzione 13, Intelligenza 13, Saggezza 13, Carisma 18
+Abilità: Conoscenze (arcane, proibite) +7, Furtività +10, Intimidire +10, Intuizione +9, Percezione +11, Raggirare +10
+Talenti: Allerta, Arma focalizzata (artigli), Volontà di ferro
+CA: 19, contatto 13, impreparato 17 (+6 CA naturale, +1 deviazione)
+PF: 39 (7 DV)
+Tiri Salvezza: Tempra +4, Riflessi +6, Volontà +7
+RD: 5/bene o ferro freddo
+RI: 15
+Immunità: Fuoco, Veleno
+Resistenze: Acido 10, Elettricità 10
+Attacchi: 2 Artigli +8 (1d6+2)
+BMC: +7     DMC: 19
+Capacità magiche: LI 6°; Concentrazione +10
+A volontà – Individuazione del Magico, Immagine Minore (CD 15), Scagliare Maledizione (CD 16)
+1 per evocazione – Suggestione (CD 16)
+Capacità e attacchi speciali
+* Sguardo maledetto (Sop): l'esterno può ridirigere il proprio sguardo contro una creatura entro 9 m. La vittima deve superare un Tiro Salvezza su Volontà con CD 16 o, a scelta dell'esterno, diventare per 1 round confusa, scossa o frastornata oppure subire 1d4 danni. Le creature sotto gli effetti di Protezione dal Male sono immuni a questa capacità.
+* Tempesta di nebbia (Sop): una volta per evocazione, come azione di round completo, l'esterno può creare una tempesta di nebbia di raggio 30 m centrata su di sé. Le creature all'interno hanno visibilità ridotta a 1d10×1,5 m e subiscono Svantaggio nelle prove di Percezione.
+* Vedere al buio (Sop): l'esterno può vedere perfettamente nel buio di qualsiasi tipo, compreso quello magico.
+Squartatore delle paludi
+Questo predatore squamoso resta immobile sotto il pelo dell'acqua per ore, solo due occhi gialli a tradirne la presenza.
+Tipo di esterno: demone acquatico
+Sensi: Scurovisione 18 m, Fiuto
+Statistiche: Taglia media; Velocità 9 m, Nuotare 12 m
+Caratteristiche: Forza 19, Destrezza 16, Costituzione 16, Intelligenza 5, Saggezza 12, Carisma 7
+Abilità: Furtività +12 (+20 in acqua o paludi), Nuotare +12, Percezione +8
+Talenti: Attacco poderoso, Iniziativa migliorata
+CA: 19, contatto 13, impreparato 16 (+3 Destrezza, +6 CA naturale)
+PF: 45 (6 DV)
+Tiri Salvezza: Tempra +8, Riflessi +8, Volontà +3
+Attacchi: Morso +10 (1d8+4), 2 Artigli +10 (1d6+4)
+BMC: +10     DMC: 23
+Capacità e attacchi speciali
+* Anfibio: l'esterno può respirare sia sott'acqua che sulla terraferma.
+* Balzo dagli abissi: durante il round di sorpresa o contro nemici che non l'hanno ancora individuato, l'esterno ottiene vantaggio nei tiri per colpire e i suoi attacchi infliggono 2d6 danni extra.
+Trollandan
+Questo grande demone è estremamente agile per la sua stazza e può fracassare un guerriero in pochi colpi.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m
+Statistiche: Taglia grande; Velocità 9 m, Scalare 3 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 19, Destrezza 18, Costituzione 16, Intelligenza 9, Saggezza 10, Carisma 7
+Abilità: Intimidire +7, Percezione +9, Sopravvivenza +4
+Talenti: Riflessi fulminei
+CA: 19, contatto 13, impreparato 15 (-1 taglia, +6 CA naturale)
+PF: 53 (7 DV)
+Tiri Salvezza: Tempra +8, Riflessi +8, Volontà +2
+Immunità: Freddo
+Debolezze: Vulnerabilità al fuoco
+Attacchi: Grande mazzuolo (+1) +7 (2d6+5), Morso +2 (1d6+2), Artiglio +2 (1d4+2) o Morso +7 (1d6+4), 2 Artigli +7 (1d4+4)
+BMC: +9     DMC: 23
+Capacità e attacchi speciali
+* Rigenerazione combattiva: durante un combattimento, l'esterno si cura di 5 danni per round. Se l'esterno subisce danni da acido o fuoco, questa capacità viene soppressa per 1 minuto.
+* Squartare: se l'esterno colpisce un nemico con due o più attacchi di Artigli nel medesimo turno, gli infligge nuovamente il danno di Artigli + una volta e mezzo il bonus di Forza.
+Arian
+Questa alta creatura dall'aspetto pacifico è in grado di rendere deformi i nemici toccandoli con il suo chakram.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Fiuto
+Statistiche: Taglia media; Velocità 9 m
+Caratteristiche: Forza 19, Destrezza 17, Costituzione 14, Intelligenza 12, Saggezza 14, Carisma 19
+Abilità: Artista della fuga +13, Camuffare +16, Conoscenze (natura) +11, Furtività +13, Percezione +12, Raggirare +16
+Talenti: Arma focalizzata (chakram), Arma focalizzata (pugnale), Mobilità, Schivare, Tempra possente
+CA: 21, contatto 17, impreparato 17 (+4 CA naturale, +3 deviazione, +1 schivare)
+PF: 46 (7 DV)
+Tiri Salvezza: Tempra +6, Riflessi +8, Volontà +7
+Immunità: Effetti di [ammaliamento: charme e compulsione]
+Resistenze: Freddo 10
+Attacchi: Pugnale (+1) +11 (1d6+5), Chakram (+1) +11 (1d8+5 danni taglienti più Deformazione)
+BMC: +7     DMC: 21
+Capacità magiche: LI 4°; Concentrazione +8
+3 per evocazione – Charme su Persone (CD 15), Frastornare Mostri (CD 16)
+1 per evocazione – Sonno Profondo (CD 17)
+Capacità e attacchi speciali
+* Deformazione (Sop): se l'attacco colpisce, la vittima subisce 1d4 danni temporanei a Carisma. La vittima può superare un Tiro Salvezza su Tempra con CD 15 per negare questi danni.
+* Manipolare la sorte (Sop): una volta per evocazione, l'esterno può manipolare la sorte di un'altra creatura per 3 round usando un'azione di round completo, durante la quale deve rimanere in contatto fisico con il bersaglio. Deve scegliere se infondere fortuna o sfortuna. Una creatura a cui viene concessa fortuna ottiene bonus di fortuna +2 ai tiri per colpire, +2 ai Tiri Salvezza e +2 alle prove di abilità, mentre una creatura afflitta dalla sfortuna subisce Svantaggio nei tiri per colpire, nei Tiri Salvezza e nelle prove di abilità. La vittima può superare un Tiro Salvezza su Volontà con CD 17 per negare l'effetto.
+* Rigenerazione combattiva: durante un combattimento, l'esterno si cura di 3 danni per round. Se l'esterno subisce danni da acido o fuoco, questa capacità viene soppressa per 1 minuto.
+Crevalyn
+Questo minuscolo esserino sfreccia qua e là su coloratissime ali di farfalla, tempestando i nemici con frecce magiche.
+Tipo di esterno: angelo
+Sensi: Visione crepuscolare
+Statistiche: Taglia minuscola; Velocità 6 m, Volare 18 m (buona) a un'altezza massima di 1 m
+Caratteristiche: Forza 7, Destrezza 20, Costituzione 12, Intelligenza 16, Saggezza 15, Carisma 16
+Abilità: Acrobazia +12, Artista della fuga +12, Furtività +16, Intuizione +9, Percezione +9, Raggirare +10, Volare +18
+Talenti: Arma accurata, Schivare, Tempra possente, Tiro preciso
+CA: 19, contatto 18, impreparato 15 (+2 taglia, +1 armatura, +1 schivare)
+PF: 33 (6 DV)
+Tiri Salvezza: Tempra +4, Riflessi +9, Volontà +6
+RD: 10/ferro freddo
+RI: 15
+Attacchi: Spada corta +13 (1d3-2) o Arco lungo (+1) +14 (1d4+3)
+BMC: -1     DMC: 15
+Capacità magiche: LI 8°; Concentrazione +11
+Permanenti – Individuazione del Bene/Male/Legge/Caos
+1 per evocazione – Armatura Magica, Cura Ferite Gravi (CD 16), Individuazione dei Pensieri (CD 15)
+Capacità e attacchi speciali
+* Frecce speciali (Sop): 16 volte per evocazione, come azione gratuita l'esterno può cambiare le proprietà del proprio arco. L'arco così modificato non infligge danni, ma l'attacco provoca gli effetti di un incantesimo a scelta tra Charme sui Mostri (durata 10 minuti), Confusione (durata 1 round), Dissolvi Magie, Intralciare (solo sul bersaglio), Polvere Luccicante, Sonno Profondo (solo sul bersaglio). La CD del Tiro Salvezza è 15 e il livello di incantatore è 8.
+Raigar
+Questo possente angelo è alto due metri e mezzo, è equipaggiato con una imponente ascia e ha lunghi capelli bianchi e una folta barba.
+Tipo di esterno: angelo
+Sensi: Visione crepuscolare
+Statistiche: Taglia grande; Velocità 12 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 20, Destrezza 13, Costituzione 14, Intelligenza 15, Saggezza 13, Carisma 14
+Abilità: Conoscenze (natura) +6, Furtività +1, Intuizione +5, Percezione +8, Scalare +12
+Talenti: Deviare frecce, Riflessi fulminei
+CA: 21, contatto 10, impreparato 20 (-1 taglia, +3 armatura, +8 CA naturale)
+PF: 46 (7 DV)
+Tiri Salvezza: Tempra +4, Riflessi +5, Volontà +6
+Attacchi: Ascia (+1) +13 (3d8+8 / critico x3)
+BMC: +10     DMC: 21
+Capacità magiche: LI 6°; Concentrazione +8
+A volontà – Ridurre Persone (CD 13)
+1 per evocazione – Alterare sé Stesso, Confusione (CD 16), Individuazione del Magico
+Capacità e attacchi speciali
+* Scagliare rocce: come azione standard l'esterno può scagliare una roccia fino a due taglie inferiori alla propria. L'esterno ottiene +10 ai tiri per colpire lanciando rocce. Una roccia ha gittata 15 m (x5) e infligge 2d6+10 danni contundenti.
+Sirena della bonaccia
+Questa creatura dal busto di donna e la coda argentea canta melodie che fermano il vento, le onde e i cuori.
+Tipo di esterno: angelo acquatico
+Sensi: Scurovisione 18 m
+Statistiche: Taglia media; Velocità 6 m, Nuotare 12 m
+Caratteristiche: Forza 12, Destrezza 17, Costituzione 12, Intelligenza 12, Saggezza 13, Carisma 19
+Abilità: Intrattenere (canto) +12, Intuizione +8, Nuotare +9, Percezione +8, Raggirare +10
+Talenti: Incantare in combattimento, Volontà di ferro
+CA: 18, contatto 14, impreparato 15 (+3 Destrezza, +1 deviazione, +4 CA naturale)
+PF: 33 (6 DV)
+Tiri Salvezza: Tempra +3, Riflessi +8, Volontà +8
+Immunità: Effetti di [influenza mentale: charme, compulsione, finzione, trama e morale].
+Attacchi: Artigli +7 (1d4+1)
+BMC: +5     DMC: 18
+Capacità magiche: LI 6°; Concentrazione +10
+3 per evocazione – Charme su Persone (CD 15)
+1 per evocazione – Sonno Profondo (CD 17)
+Capacità e attacchi speciali
+* Anfibio: l'esterno può respirare sia sott'acqua che sulla terraferma.
+* Canto della bonaccia (Sop): come azione standard l'esterno intona un canto ipnotico: i nemici entro 9 m devono superare un Tiro Salvezza su Volontà con CD 17 o diventare affascinati per 1d4 round. Una creatura affascinata che viene attaccata o minacciata si libera immediatamente dall'effetto. Una creatura che supera il Tiro Salvezza è immune al canto per 24 ore. Questo è un effetto [UDITIVO] e di [INFLUENZA MENTALE: CHARME].
+Zefiro
+Questo unicorno celestiale si innalza nell'aria, campione di grazia e possanza.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Fiuto
+Statistiche: Taglia grande; Velocità 18 m, Volare 36 m (buona) a un'altezza massima di 1 m
+Spazio: 3 m     Portata: 1,5 m
+Caratteristiche: Forza 22, Destrezza 19, Costituzione 18, Intelligenza 13, Saggezza 25, Carisma 26
+Abilità: Acrobazia +11, Furtività +11, Intuizione +14, Percezione +14, Sopravvivenza +14, Volare +13
+CA: 18, contatto 14, impreparato 15 (-1 taglia, +6 CA naturale)
+PF: 53 (7 DV)
+Tiri Salvezza: Tempra +9, Riflessi +8, Volontà +8
+RD: 5/magia
+RI: 15
+Immunità: Effetti di [ammaliamento: charme e compulsione], Effetti di [MALATTIA], Effetti di [VELENO]
+Resistenze: Acido 5, Elettricità 5, Freddo 5
+Attacchi: Corna +9 (1d8+6, arma magica allineata [bene]), 2 Zoccoli +7 (1d3+3)
+BMC: +11     DMC: 25 (29 contro Sbilanciare)
+Capacità magiche: LI 9°; Concentrazione +17
+A volontà – Individuazione del Male
+3 per evocazione – Benedizione, Cura Ferite Leggere, Neutralizza Veleno
+1 per evocazione – Aiuto, Cura Ferite Moderate
+Capacità e attacchi speciali
+* Carica possente: durante le cariche, l'attacco di Corna dell'esterno infligge due volte il dado di danno (es. 1dx → 2dx).
+* Cerchio contro il male (Sop): l'esterno emana un'aura con gli effetti dell'incantesimo Cerchio Magico contro il Male. Non è possibile sopprimere questa capacità.
+Inevitabile, caterpillar
+Questo enorme bruco metallico è ricoperto da decine di terminazioni elettrificate.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m
+Statistiche: Taglia grande; Velocità 9 m, Scalare 3 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 22, Destrezza 11, Costituzione 17, Intelligenza -, Saggezza 11, Carisma 2
+Abilità: Scalare +14
+CA: 18, contatto 9, impreparato 19 (-1 taglia, +9 CA naturale)
+PF: 53 (7 DV)
+Tiri Salvezza: Tempra +7, Riflessi +1, Volontà +1
+Attacchi: Morso +9 (2d6+6), Antenne +4 (2d6 danni da elettricità più Elettroshock)
+BMC: +10     DMC: 20 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Antenne: le creature che toccano l'esterno o lo attaccano con un attacco naturale o un'arma da mischia senza portata devono superare un Tiro Salvezza su Riflessi con CD 16 o subire l'elettroshock. Le vittime effettuano un unico Tiro Salvezza dopo tutti gli attacchi.
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Elettroshock: se l'attacco colpisce, la vittima deve superare un Tiro Salvezza su Tempra con CD 15 o diventare barcollante per 1 round.
+* Stabilità assoluta: l'esterno non può essere sbilanciato.
+* Tela di ragno: 8 volte per evocazione, l'esterno può tessere una ragnatela per scagliarla (attacco di contatto a distanza entro 15 m) o posizionarla come trappola (azione di round completo, tela grande fino a 3 volte la taglia dell'esterno). Ogni casella di ragnatela ha RD 5/- e 11 PF e brucia al ritmo di 1 casella per round se incendiata. Le creature in avvicinamento devono superare una prova di Percezione con CD 20 per notarla, altrimenti vi cadono dentro diventando intralciate. Una creatura intralciata può fuggire come azione standard superando una prova con Svantaggio di Artista della fuga o di Forza (CD 15); i tentativi ottengono Vantaggio se la creatura ha qualcosa su cui aggrapparsi.
+Inevitabile, mini-viverna
+Questa piccola viverna metallica ha una coda sinuosa dotata di una punta acuminata.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m, Fiuto
+Statistiche: Taglia media; Velocità 3 m, Volare 18 m (media) a un'altezza massima di 1 m
+Spazio: 1,5 m     Portata: 3 m con Colpo di coda
+Caratteristiche: Forza 18, Destrezza 11, Costituzione 14, Intelligenza 7, Saggezza 12, Carisma 9
+Abilità: Furtività +4, Intuizione +9, Percezione +13, Volare +10
+Talenti: Attacco in volo, Critico migliorato (Colpo di coda), Robustezza
+CA: 18, contatto 9, impreparato 21 (-1 taglia, +9 CA naturale)
+PF: 53 (7 DV)
+Tiri Salvezza: Tempra +6, Riflessi +4, Volontà +5
+Attacchi: Morso +9 (1d10+4 più Afferrare), Colpo di coda +9 (1d8+4 / critico 19-20 più Impalare), 2 Ali +4 (1d4+2)
+BMC: +10     DMC: 20
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Impalare: se l'attacco è un critico inferto a un avversario di taglia pari o inferiore alla propria, l'esterno impala la vittima. Una creatura impalata subisce [Sanguinamento 1d6] e ottiene la condizione in lotta e immobilizzato (l'esterno non è considerato in lotta a sua volta). Ad ogni successivo turno, l'esterno le infligge i danni del Colpo di coda finché mantiene la lotta. L'esterno non può usare il Colpo di coda mentre sta impalando. Può liberare la vittima con un'azione gratuita.
+Inevitabile, tentacolare
+Questo semi-costrutto simile a una piovra ha tentacoli gommosi in grado di allungarsi.
+Tipo di esterno: semi-costrutto acquatico
+Sensi: Scurovisione 18 m
+Statistiche: Taglia media; Nuotare 9 m
+Spazio: 1,5 m     Portata: 3 m
+Caratteristiche: Forza 26, Destrezza 8, Costituzione 21, Intelligenza 9, Saggezza 10, Carisma 9
+Abilità: Furtività -1, Nuotare +19, Percezione +4
+CA: 18, contatto 8, impreparato 16 (+11 CA naturale)
+PF: 67 (7 DV)
+Tiri Salvezza: Tempra +5, Riflessi -1, Volontà +2
+Attacchi: Massa tentacolare +12 (2d8+4 più Afferrare)
+BMC: +10 (+14 per Lottare)     DMC: 18
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare, sebbene possa farlo sott'acqua.
+* Nube di olio: una volta al minuto, l'esterno può emettere una nube di olio di raggio 4,5 m. La nube permane per 1d3+1 round fornendo occultamento totale alle creature al suo interno.
+* Propulsione: come azione di round completo, l'esterno può muoversi in linea retta fino a 60 m senza provocare attacchi di opportunità.
+Evoca esterno V
+Babau
+Questa figura emaciata ricorda uno scheletro umano dotato di corna e racchiuso in un guscio aderente di pelle viscida.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m, Vedere Invisibilità
+Statistiche: Taglia media; Velocità 9 m
+Spazio: 1,5 m     Portata: 1,5 m (3 m con lancia)
+Caratteristiche: Forza 21, Destrezza 13, Costituzione 20, Intelligenza 14, Saggezza 13, Carisma 16
+Abilità: Acrobazia +11, Artista della fuga +11, Disattivare congegni +11, Furtività +22, Intuizione +11, Percezione +19, Rapidità di mano +11, Scalare +12
+Talenti: Abilità focalizzata (Furtività), Riflessi fulminei, Riflessi in combattimento, Volontà di ferro
+CA: 19, contatto 11, impreparato 18 (+1 Destrezza, +8 CA naturale)
+PF: 73 (7 DV)
+Tiri Salvezza: Tempra +10, Riflessi +8, Volontà +5
+RD: 10/bene o ferro freddo
+RI: 17
+Resistenze: Acido 10, Freddo 10, Fuoco 10
+Attacchi: 2 Artigli +12 (1d6+5), Morso +12 (1d6+5) o Lancia lunga +12/+7 (1d8+7 / critico x3) e Morso +7 (1d6+2); Attacco furtivo +2d6
+BMC: +12     DMC: 23
+Capacità magiche: LI 7°
+Permanente – Vedere Invisibilità
+A volontà – Dissolvi Magie, Oscurità
+Capacità e attacchi speciali
+* Bava protettiva (Sop): uno strato di bava acida ricopre la pelle dell'esterno. Qualsiasi creatura che lo colpisca con un attacco naturale o senz'armi subisce 1d8 danni da acido se fallisce un Tiro Salvezza su Riflessi con CD 18. Una creatura che colpisce l'esterno con un'arma da mischia deve superare un Tiro Salvezza su Riflessi con CD 18 o l'arma subisce la condizione scheggiata.
+Ceustodaemon
+Questa bestia dall'irsuta pelliccia marrone si erge su zoccoli grigio ardesia. La sua testa somiglia a quella di una folle scimmia cornuta.
+Tipo di esterno: demone
+Sensi: Individuazione del Bene, Individuazione del Magico, Scurovisione 18 m, Vedere Invisibilità
+Statistiche: Taglia grande; Velocità 9 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 18, Destrezza 13, Costituzione 16, Intelligenza 11, Saggezza 14, Carisma 15
+Abilità: Conoscenze (proibite) +9, Furtività +8, Intimidire +11, Intuizione +15, Percezione +15, Raggirare +13, Sopravvivenza +9
+Talenti: Allerta, Attacco poderoso, Combattere alla cieca, Inseguire
+CA: 20, contatto 10, impreparato 19 (-1 taglia, +1 Destrezza, +10 CA naturale)
+PF: 68 (8 DV)
+Tiri Salvezza: Tempra +9, Riflessi +3, Volontà +8
+RD: 10/argento o bene
+Immunità: Acido, Veleno; Effetti di [INFLUENZA MENTALE], [METAMORFOSI], [MORTE], [SONNO], [MALATTIA], [PARALISI]
+Resistenze: Elettricità 10, Freddo 10, Fuoco 10
+Attacchi: 2 Artigli +11 (1d6+4), Morso +11 (2d6+4); Soffio (cono 9 m, 6d6 danni da fuoco, Riflessi CD 17 dimezza, ogni 1d4 round)
+BMC: +13     DMC: 24
+Capacità magiche: LI 8°; Concentrazione +10
+Permanenti – Individuazione del Bene, Individuazione del Magico, Vedere Invisibilità
+A volontà – Porta Dimensionale (solo su sé stesso)
+3 per evocazione – Dissolvi Magie, Levitazione Ostile (CD 15)
+1 per evocazione – Blocca Mostri (CD 17), Lentezza (CD 15)
+Fosco Divoratore
+Questa nauseante creatura, simile ad un verme, è dotata di una lunga coda ricoperta da minacciose ventose artigliate.
+Tipo di esterno: demone
+Sensi: Percezione tellurica 9 m, Scurovisione 18 m
+Statistiche: Taglia grande; Velocità 9 m, Scavare 6 m, Scalare 6 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 24, Destrezza 13, Costituzione 19, Intelligenza 6, Saggezza 14, Carisma 11
+Abilità: Percezione +13, Scalare +26
+Talenti: Inseguire, Riflessi fulminei, Tempra possente, Volontà di ferro
+CA: 19, contatto 10, impreparato 18 (-1 taglia, +1 Destrezza, +9 CA naturale)
+PF: 68 (8 DV); Guarigione rapida 5
+Tiri Salvezza: Tempra +8, Riflessi +5, Volontà +10
+Immunità: Effetti di [MALATTIA]
+Resistenze: Acido 10, Fuoco 10
+Attacchi: Morso +12 (2d6+7 più Afferrare), Pungiglione +12 (1d6+7 più Afferrare); il Morso conta come argento e ferro freddo
+BMC: +14 (+18 Lottare)     DMC: 25 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Stritolare: quando l'esterno effettua con successo una manovra di lottare con l'attacco indicato, infligge all'avversario un numero di danni contundenti extra pari al danno dell'attacco stesso (1d6+6).
+* Risucchiare midollo: l'esterno può risucchiare il midollo con un'azione veloce da qualsiasi creatura con cui è in lotta o indifesa. La vittima resiste superando un Tiro Salvezza su Tempra con CD 18; altrimenti diventa barcollante per 1 round e subisce 1 punto di risucchio di Costituzione.
+* Scaglie taglienti: ogni creatura che attacchi l'esterno con un'arma naturale, un colpo senz'armi o un'arma senza portata deve superare un Tiro Salvezza su Riflessi con CD 17 o subire 2d4 danni taglienti.
+Karkinoi
+Questo essere torreggiante sembra un incrocio tra un ogre e un granchio. È dotato di un'enorme chela che scatta minacciosamente, mentre l'altro braccio termina con una mano deforme simile a quella di un umano.
+Tipo di esterno: demone acquatico
+Sensi: Scurovisione 18 m
+Statistiche: Taglia grande; Velocità 9 m, Nuotare 12 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 22, Destrezza 10, Costituzione 16, Intelligenza 6, Saggezza 10, Carisma 7
+Abilità: Intimidire +9, Nuotare +21, Percezione +11
+Talenti: Attacco poderoso, Attacco naturale migliorato (artiglio), Critico migliorato (artiglio), Riflessi in combattimento
+CA: 19, contatto 9, impreparato 19 (-1 taglia, +10 CA naturale)
+PF: 76 (8 DV)
+Tiri Salvezza: Tempra +6, Riflessi +6, Volontà +6
+RD: 5/contundente
+Attacchi: Artiglio +13 (2d8+9 / critico 19-20 più Afferrare e Stritolare), Schianto +13 (1d6+6)
+BMC: +15 (+19 Lottare)     DMC: 25
+Capacità e attacchi speciali
+* Anfibio: l'esterno può respirare sia sott'acqua che sulla terraferma.
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Stritolare: quando l'esterno effettua con successo una manovra di lottare con l'attacco indicato, infligge all'avversario un numero di danni contundenti extra pari a 2d8+9.
+* Scarto laterale: quando l'esterno effettua un passo di 1,5 m, può muoversi fino a 3 m anziché di 1,5 m, purché lo faccia in linea retta. Può farlo quando cammina o nuota.
+Uomo falena
+Un velo di ali nere avvolge questa sottile forma umanoide. Due mostruosi occhi rossi brillano ostili dal suo volto.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m
+Statistiche: Taglia media; Velocità 9 m, Volare 18 m (buona) a un'altezza massima di 1 m
+Caratteristiche: Forza 12, Destrezza 19, Costituzione 16, Intelligenza 17, Saggezza 19, Carisma 18
+Abilità: Conoscenze (2 qualsiasi) +12, Furtività +16, Intuizione +13, Percezione +16, Sapienza Magica +12, Volare +20
+Talenti: Arma accurata, Attacco in volo, Combattere alla cieca, Manovre agili, Tempra possente
+CA: 20, contatto 14, impreparato 16 (+4 Destrezza, +6 CA naturale)
+PF: 76 (9 DV)
+Tiri Salvezza: Tempra +8, Riflessi +10, Volontà +10
+RI: 17
+Attacchi: 2 Artigli +13 (1d6+1)
+BMC: +13     DMC: 24
+Capacità magiche: LI 12°; Concentrazione +16
+Permanente – Sfocatura
+A volontà – Dissimulare (CD 16), Individuazione dei Pensieri (CD 16), Suono Fantasma (CD 14)
+3 per evocazione – Allucinazione Mortale (CD 18), Camminare nelle Ombre (CD 20), Immagine Maggiore (CD 17), Incubo (CD 19), Modificare Memoria (CD 18), Suggestione (CD 17), Svanire
+1 per evocazione – Immagine Proiettata (CD 21), Nebbia Mentale (CD 19), Visione Falsa
+Capacità e attacchi speciali
+* Agente del fato (Mag): una volta per evocazione l'esterno sceglie una creatura entro 18 m e un tipo di tiro tra tiri per colpire, Tiri Salvezza o prove di abilità. Se la creatura scelta è un alleato ottiene Vantaggio al tipo di tiro scelto; altrimenti deve superare un Tiro Salvezza su Volontà con CD 18 o subire Svantaggio al tipo di tiro scelto.
+* Sguardo invasivo (Sop): sguardo, 9 m, Volontà CD 18 nega. Una creatura che fallisce diventa scossa per 1d6 round; una creatura già vittima di effetti di [PAURA] subisce invece 1d4 danni a Saggezza. Questo è un effetto di [INFLUENZA MENTALE: PAURA]. Il Tiro Salvezza è basato su Carisma.
+Verme mortale
+Il corpo di questo grosso verme è muscoloso e squamoso, la sua bocca è un incubo di file e file di denti triangolari.
+Tipo di esterno: demone
+Sensi: Percezione tellurica 18 m, Scurovisione 18 m, Visione crepuscolare
+Statistiche: Taglia grande; Velocità 6 m, Scavare 6 m
+Spazio: 3 m     Portata: 1,5 m
+Caratteristiche: Forza 18, Destrezza 13, Costituzione 16, Intelligenza 3, Saggezza 11, Carisma 5
+Abilità: Furtività -3 (+13 in deserti o aree rocciose), Percezione +11
+Talenti: Attacco poderoso, Incalzare, Oltrepassare migliorato, Volontà di ferro
+CA: 19, contatto 10, impreparato 18 (-1 taglia, +1 Destrezza, +9 CA naturale)
+PF: 68 (8 DV)
+Tiri Salvezza: Tempra +9, Riflessi +7, Volontà +4
+Immunità: Acido, Elettricità, Veleno
+Attacchi: Morso +11 (2d8+6 più Veleno) o Scarica elettrica +8 a contatto (18 m, 4d6 danni da elettricità); Soffio (linea di 9 m, 8d6 danni da acido, Riflessi CD 17 dimezza, ogni 1d4 round)
+BMC: +13     DMC: 24 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Veleno: Morso o contatto con la pelle — Tempra CD 17, 1/round per 6 round, effetto 1d2 danni a Costituzione, cura 2 TS. Questo è un effetto di [VELENO].
+* Pelle velenosa: la pelle dell'esterno secerne una tossina. Qualsiasi creatura che tocchi l'esterno con un colpo senz'armi, un'arma naturale o un attacco di contatto (o che sia in lotta con esso) è esposta al suo Veleno.
+* Sangue corrosivo: se una creatura ferisce l'esterno con un'arma perforante o tagliente di metallo, il sangue infligge 3d6 danni da acido (Riflessi CD 17 dimezza).
+Minotauro Mezzo-Immondo / Celestiale
+Questa figura demoniaca (o angelica, nella variante celestiale), completa di ali, artigli, zoccoli e una testa taurina con le zanne, urla un ruggito di sfida.
+Tipo di esterno: demone / angelo
+Sensi: Scurovisione 18 m
+Statistiche: Taglia grande; Velocità 9 m, Volare 18 m (buona) a un'altezza massima di 1 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 23, Destrezza 14, Costituzione 19, Intelligenza 9, Saggezza 12, Carisma 10
+Abilità: Conoscenze (religioni) +5, Furtività +7, Intimidire +9, Percezione +14, Sopravvivenza +14, Volare +0
+Talenti: Attacco poderoso, Spingere migliorato, Tempra possente
+CA: 17, contatto 11, impreparato 15 (-1 taglia, +2 Destrezza, +6 CA naturale)
+PF: 67 (8 DV)
+Tiri Salvezza: Tempra +8, Riflessi +7, Volontà +6
+RD: 5/magia
+RI: 17
+Immunità: Veleno
+Resistenze: Acido 10, Elettricità 10, Freddo 10, Fuoco 10
+Attacchi: Ascia bipenne +11/+6 (3d6+9 / critico x3), Morso +6 (1d8+3), Corno +6 (1d6+3); Punire il Bene / Punire il Male 1 per evocazione (+6 danni)
+BMC: +13     DMC: 25
+Capacità magiche: LI 6°
+3 per evocazione – Oscurità / Luce Diurna
+1 per evocazione – Rafforzare Non Morti / Indebolire Non Morti, Influenza Sacrilega / Punizione Sacra (CD 14)
+Capacità e attacchi speciali
+* Carica possente: durante le cariche, l'attacco di Corno dell'esterno infligge due volte il dado di danno (Corno +13, 2d6+9).
+* Astuzia naturale: l'esterno è immune agli incantesimi labirinto, non può perdersi ed è impossibile coglierlo impreparato.
+Corale
+Questo celestiale assomiglia ad un uomo in miniatura che indossa una veste lunga e pura, con ampie ali di platino. I suoi capelli argentati si increspano lentamente nell'aria di loro spontanea volontà.
+Tipo di esterno: angelo
+Sensi: Individuazione del Male, Scurovisione 18 m; Aura protettiva
+Statistiche: Taglia piccola; Velocità 12 m, Volare 18 m (buona) a un'altezza massima di 1 m
+Caratteristiche: Forza 13, Destrezza 16, Costituzione 15, Intelligenza 16, Saggezza 16, Carisma 17
+Abilità: Acrobazia +14, Artista della fuga +11, Conoscenze (proibite) +14, Conoscenze (religioni) +14, Diplomazia +14, Intrattenere (cantare) +14, Intuizione +16, Percezione +16, Volare +20
+Talenti: Allerta, Riflessi fulminei, Robustezza, Tempra possente
+CA: 19, contatto 14, impreparato 16 (+1 taglia, +3 Destrezza, +5 CA naturale; +4 deviazione contro malvagi)
+PF: 68 (8 DV)
+Tiri Salvezza: Tempra +6, Riflessi +11, Volontà +9; +4 contro [VELENO], +4 di resistenza contro il male
+RD: 5/male
+RI: 17
+Immunità: Acido, Freddo; Effetti di [PIETRIFICAZIONE]
+Resistenze: Elettricità 10, Fuoco 10
+Attacchi: Schianto +10 (1d3+1) o Inno perforante +12 a contatto (27 m, 4d6 sonori più Tempra CD 17 o assordato 1d4 minuti)
+BMC: +8     DMC: 21
+Capacità magiche: LI 8°; Concentrazione +11
+Permanente – Individuazione del Male
+A volontà – Aiuto, Dissolvi il Male (CD 18), Dissolvi Magie, Svanire (solo sé stesso), Rimuovi Malattia, Rimuovi Maledizione, Rimuovi Paura, Suono Fantasma (CD 13)
+3 per evocazione – Cura Ferite Moderate, Modellare Suono (CD 16), Suono Dirompente (CD 15)
+Capacità e attacchi speciali
+* Armonizzare (Mag): quando i corali lavorano insieme, due o più corali entro 18 m possono usare Calmare Emozioni o Eroismo come capacità magica; quattro o più possono usare Grido; sei o più possono usare Eroismo Superiore o Parola Sacra. Solo il corale che lancia effettivamente la capacità compie un'azione standard: gli altri compiono azioni veloci nello stesso round.
+* Aura protettiva (Sop): contro gli attacchi o gli effetti prodotti da creature malvagie, il convocatore entro 6 m dal corale ottiene bonus di deviazione +4 alla CA e bonus di resistenza +4 ai Tiri Salvezza. Altrimenti funziona come Cerchio Magico contro il Male e Globo di Invulnerabilità Inferiore, entrambi con raggio 6 m (LI 6°).
+* Controcanto (Sop): l'esterno può tentare una prova di Intrattenere (cantare) per contrastare gli effetti magici che dipendono dal suono, come l'omonima capacità del bardo.
+Custode delle maree
+Questa figura slanciata pare scolpita in acqua viva: dove passa, le correnti si placano e le ferite si richiudono.
+Tipo di esterno: angelo acquatico
+Sensi: Scurovisione 18 m, Vista cieca 9 m (in acqua)
+Statistiche: Taglia media; Velocità 9 m, Nuotare 18 m
+Caratteristiche: Forza 14, Destrezza 16, Costituzione 14, Intelligenza 12, Saggezza 17, Carisma 16
+Abilità: Intuizione +12, Nuotare +14, Percezione +14, Sopravvivenza +12
+Talenti: Incantare in combattimento, Riflessi fulminei, Volontà di ferro
+CA: 19, contatto 15, impreparato 16 (+3 Destrezza, +2 deviazione, +4 CA naturale)
+PF: 68 (8 DV)
+Tiri Salvezza: Tempra +7, Riflessi +8, Volontà +9
+RD: 5/male
+Resistenze: Freddo 10
+Attacchi: Schianto d'onda +10 (1d8+3 danni contundenti)
+BMC: +8     DMC: 21
+Capacità magiche: LI 8°; Concentrazione +11
+A volontà – Creare Acqua, Individuazione del Male
+3 per evocazione – Camminare sull'Acqua
+1 per evocazione – Neutralizza Veleno, Rimuovi Malattia
+Capacità e attacchi speciali
+* Anfibio: l'esterno può respirare sia sott'acqua che sulla terraferma.
+* Marea benevola (Sop): come azione standard, l'esterno solleva un'onda di acqua benedetta in un raggio di 6 m: gli alleati nell'area recuperano 1d6 PF e ottengono vantaggio nel prossimo Tiro Salvezza contro effetti di [VELENO] o di [MALATTIA] effettuato entro 1 minuto. Utilizzabile ogni 1d4 round.
+* Risacca (Sop): 3 volte per evocazione, come azione di movimento l'esterno può spostare un alleato consenziente entro 9 m di 4,5 m in qualsiasi direzione trascinandolo su un flutto; questo movimento non provoca attacchi di opportunità.
+Naga lunare
+Ispidi capelli bianchi incorniciano il bel volto di questa donna dal corpo di serpente e le sue scaglie nere brillano ipnoticamente.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Visione crepuscolare
+Statistiche: Taglia grande; Velocità 12 m
+Spazio: 3 m     Portata: 1,5 m
+Caratteristiche: Forza 14, Destrezza 19, Costituzione 18, Intelligenza 13, Saggezza 16, Carisma 17
+Abilità: Conoscenze (arcane) +5, Conoscenze (natura) +9, Diplomazia +7, Furtività +14, Percezione +14, Raggirare +7, Sapienza Magica +8
+Talenti: Arma accurata, Escludere materiali, Incantare in combattimento, Riflessi fulminei, Schivare
+CA: 20, contatto 14, impreparato 15 (-1 taglia, +4 Destrezza, +1 schivare, +6 CA naturale)
+PF: 68 (8 DV)
+Tiri Salvezza: Tempra +6, Riflessi +8, Volontà +9
+Attacchi: Morso +9 (2d6+3 più Veleno); Attacco furtivo +3d6
+BMC: +9     DMC: 24 (non può essere Sbilanciato)
+Capacità magiche: LI 7°; Concentrazione +8
+A volontà – Aprire/Chiudere, Distruggere Non Morti, Individuazione del Magico, Mano Magica, Prestidigitazione, Raggio di Gelo
+7 per evocazione – Charme su Persone (CD 14), Dardo Incantato, Raggio di Indebolimento (CD 14), Ritirata Rapida
+5 per evocazione – Sfocatura, Raggio Rovente
+3 per evocazione – Vortice d'Ombra
+Capacità e attacchi speciali
+* Ipnotismo (Sop): una volta per evocazione, come azione standard l'esterno fa scintillare le proprie scaglie di splendore lunare. Tutte le creature entro 9 m devono superare un Tiro Salvezza su Volontà con CD 17 o diventare affascinate. L'esterno può mantenere l'effetto finché è concentrato; le creature affascinate lo seguono se si muove. Questo è un effetto di [INFLUENZA MENTALE: CHARME]. Il Tiro Salvezza è basato su Carisma.
+* Veleno: Morso — Tempra CD 18, 1/round per 6 round, effetto 1d3 danni a Costituzione e 1 danno a Saggezza. Questo è un effetto di [VELENO].
+Destriero meccanico
+Gli ingranaggi scintillanti di questo destriero dagli occhi rossi scattano e ronzano generando un'orchestra di suoni quando la creatura si muove.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m, Visione crepuscolare
+Statistiche: Taglia grande; Velocità 15 m
+Spazio: 3 m     Portata: 1,5 m
+Caratteristiche: Forza 24, Destrezza 13, Costituzione -, Intelligenza -, Saggezza 10, Carisma 1
+Talenti: Riflessi fulminei, Tempra possente, Volontà di ferro
+CA: 20, contatto 12, impreparato 17 (-1 taglia, +1 Destrezza, +8 CA naturale, +2 schivare)
+PF: 74 (8 DV)
+Tiri Salvezza: Tempra +4, Riflessi +5, Volontà +4
+Debolezze: Vulnerabilità all'elettricità
+Attacchi: Morso +14 (2d6+7), 2 Zoccoli +9 (1d8+3); Travolgere (2d6+7, CD 21)
+BMC: +16     DMC: 29 (33 contro Sbilanciare)
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Calcio possente: come azione standard l'esterno può sferrare due attacchi con gli zoccoli come attacco primario (+14); se entrambi colpiscono, oltre a infliggere il danno (1d8+7 per attacco) l'esterno può effettuare una manovra gratuita di Colpo terrificante, con bonus razziale +4 alla prova.
+Inevitabile, balista
+Questo quadrupede di quercia e bronzo porta sul dorso una balista snodata che si arma da sola con un sibilo di molle.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m
+Statistiche: Taglia media; Velocità 9 m
+Caratteristiche: Forza 16, Destrezza 19, Costituzione 14, Intelligenza 6, Saggezza 15, Carisma 1
+Abilità: Intuizione +8, Percezione +13
+Talenti: Tiro preciso, Tiro ravvicinato
+CA: 19, contatto 14, impreparato 15 (+4 Destrezza, +5 CA naturale)
+PF: 68 (8 DV)
+Tiri Salvezza: Tempra +8, Riflessi +10, Volontà +4
+Attacchi: Schianto +11 (1d6+3) o Quadrello pesante +13 (attacco a distanza entro 36 m, 2d8+4 / critico 19-20/x3)
+BMC: +11     DMC: 25 (29 contro Sbilanciare)
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Piazzamento (Sop): se durante il proprio turno non si muove, l'esterno ancora al terreno le quattro zampe: fino al suo prossimo turno ottiene vantaggio nei tiri per colpire con il Quadrello pesante e non può essere sbilanciato, spinto o trascinato.
+* Quadrello perforante: i quadrelli dell'esterno ignorano 5 punti di Durezza degli oggetti e delle strutture e contano come magici ai fini di superare la RD.
+Inevitabile, nautilo
+Questa conchiglia di rame a spirale avanza sospinta da getti d'acqua, srotolando tentacoli segmentati e sbuffi d'inchiostro alchemico.
+Tipo di esterno: semi-costrutto acquatico
+Sensi: Scurovisione 18 m, Percezione cieca 9 m (in acqua)
+Statistiche: Taglia media; Nuotare 12 m
+Caratteristiche: Forza 17, Destrezza 12, Costituzione 16, Intelligenza 3, Saggezza 13, Carisma 2
+Abilità: Nuotare +14, Percezione +10
+Talenti: Lottare migliorato, Robustezza
+CA: 20, contatto 11, impreparato 19 (+1 Destrezza, +9 CA naturale)
+PF: 76 (8 DV)
+Tiri Salvezza: Tempra +9, Riflessi +5, Volontà +3
+Attacchi: 2 Tentacoli +11 (1d6+3 più Afferrare)
+BMC: +11 (+15 Lottare)     DMC: 22 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare, sebbene possa farlo sott'acqua.
+* Inchiostro alchemico: ogni 1d3 round, come azione standard l'esterno può emettere una nube di inchiostro di raggio 4,5 m centrata su di sé (funziona sia in acqua che all'aria aperta, dove ricade come nebbia oleosa). La nube permane 1d3+1 round e fornisce occultamento totale alle creature al suo interno; i nemici che iniziano il proprio turno nella nube devono superare un Tiro Salvezza su Tempra con CD 17 o diventare accecati per 1 round.
+* Propulsione: come azione di round completo, l'esterno può muoversi in linea retta fino a 36 m senza provocare attacchi di opportunità.
+* Retrazione: come azione veloce l'esterno può ritrarsi nella conchiglia, aumentando di +6 il proprio bonus di CA naturale. Finché è ritratto non può muoversi né attaccare; può tornare alla condizione normale come azione veloce.
+Inevitabile, segugio
+Questo mastino di ferro brunito non conosce stanchezza: una volta fiutata la preda, nessuna porta e nessuna menzogna la sottrarrà al suo morso.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m, Fiuto
+Statistiche: Taglia media; Velocità 15 m
+Caratteristiche: Forza 19, Destrezza 14, Costituzione 16, Intelligenza 4, Saggezza 14, Carisma 6
+Abilità: Percezione +13, Sopravvivenza +10 (+14 per seguire tracce)
+Talenti: Iniziativa migliorata, Robustezza, Tempra possente
+CA: 20, contatto 12, impreparato 18 (+2 Destrezza, +8 CA naturale)
+PF: 76 (8 DV)
+Tiri Salvezza: Tempra +11, Riflessi +8, Volontà +4
+Attacchi: Morso +12 (1d8+6 più Sbilanciare)
+BMC: +12     DMC: 24 (28 contro Sbilanciare)
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Guardia del corpo: quando un nemico adiacente all'esterno attacca una creatura diversa dall'esterno, l'esterno può effettuare contro di lui un attacco di opportunità. Non più di una volta per round.
+* Sbilanciare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Sbilanciare che non provoca attacchi di opportunità contro un avversario al massimo di una categoria superiore alla propria. Se la manovra fallisce, l'esterno non può essere sbilanciato a sua volta.
+* Segugio implacabile: l'esterno individua automaticamente la posizione di qualsiasi creatura che l'abbia ferito negli ultimi 10 minuti, purché entro 36 m.
+Evoca esterno VI
+Demone famelico
+Questo demone grigio ed emaciato ha occhi neri e senza fondo: chi vi si specchia sente la propria vita scivolare via.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m, Fiuto
+Statistiche: Taglia media; Velocità 9 m, Volare 12 m (buona) a un'altezza massima di 1 m
+Caratteristiche: Forza 20, Destrezza 17, Costituzione 17, Intelligenza 13, Saggezza 15, Carisma 18
+Abilità: Furtività +16, Intimidire +16, Intuizione +13, Percezione +16, Raggirare +14, Volare +10
+Talenti: Arma focalizzata (artigli), Iniziativa migliorata, Schivare, Volontà di ferro
+CA: 21, contatto 13, impreparato 18 (+3 Destrezza, +8 CA naturale)
+PF: 104 (11 DV)
+Tiri Salvezza: Tempra +10, Riflessi +10, Volontà +9
+RD: 5/ferro freddo
+Immunità: Elettricità, Veleno
+Resistenze: Acido 10, Freddo 10, Fuoco 10
+Attacchi: Morso +16 (1d8+5), 2 Artigli +17 (1d6+5)
+BMC: +16     DMC: 29
+Capacità magiche: LI 8°; Concentrazione +12
+A volontà – Individuazione del Magico, Oscurità Profonda
+1 per evocazione – Paura (CD 18), Silenzio (CD 16)
+Capacità e attacchi speciali
+* Sguardo famelico (Sop): come azione standard, l'esterno può fissare una creatura vivente entro 9 m. La vittima deve superare un Tiro Salvezza su Volontà con CD 19 o subire 1d4 danni temporanei a Costituzione e diventare scossa per 1d4 round; l'esterno recupera 5 PF per ogni punto di Costituzione risucchiato. Una creatura che supera il Tiro Salvezza è immune allo sguardo per 24 ore. Questo è un effetto di [INFLUENZA MENTALE: PAURA] e di [NECROMANZIA].
+* Predatore silenzioso: l'esterno ottiene attacco furtivo (vedi privilegi di classe del ladro) con un danno pari a 2d6.
+Demone avvoltoio
+Un incrocio ripugnante tra un enorme avvoltoio e un uomo, dal cui piumaggio cadono spore brulicanti.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m
+Statistiche: Taglia grande; Velocità 9 m, Volare 15 m (media) a un'altezza massima di 1 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 21, Destrezza 15, Costituzione 20, Intelligenza 8, Saggezza 13, Carisma 10
+Abilità: Intimidire +11, Percezione +15, Volare +9
+Talenti: Attacco poderoso, Incalzare, Riflessi fulminei
+CA: 20, contatto 11, impreparato 18 (-1 taglia, +2 Destrezza, +9 CA naturale)
+PF: 115 (11 DV)
+Tiri Salvezza: Tempra +12, Riflessi +9, Volontà +8
+RD: 5/bene
+Immunità: Elettricità, Veleno
+Resistenze: Acido 10, Freddo 10, Fuoco 10
+Attacchi: Morso +15 (1d8+5), 2 Artigli +15 (1d6+5), 2 Speroni +15 (1d6+2)
+BMC: +17     DMC: 29
+Capacità e attacchi speciali
+* Spore (Sop): ogni 1d3 round, come azione gratuita l'esterno può rilasciare una nube di spore che infligge 1d8 danni ai nemici adiacenti. Nei 3 round successivi, all'inizio del proprio turno le vittime subiscono 1d4 danni mentre le spore germogliano in rampicanti che si nutrono della loro carne. Le spore possono essere eliminate prima con qualsiasi effetto di cura o versando acqua benedetta sulla vittima. Questo è un effetto di [VELENO].
+* Stridio stordente (Sop): una volta per evocazione, come azione standard l'esterno può emettere uno stridio lacerante: tutte le creature entro 9 m (demoni esclusi) devono superare un Tiro Salvezza su Tempra con CD 20 o rimanere stordite per 1 round. Questo è un effetto [SONORO].
+* Danza delle rovine (Sop): come azione di round completo l'esterno può danzare vorticando. Se danza per 3 round consecutivi, alla fine del terzo round si sprigiona un'esplosione di elettricità che infligge 5d6 danni da elettricità a tutte le creature entro 30 m (Riflessi CD 20 dimezza). Se più demoni avvoltoio danzano insieme, i danni aumentano di 2d6 per ogni demone oltre il primo (le vittime effettuano un solo Tiro Salvezza).
+Anguilla del maelstrom
+Questa anguilla lunga sei metri ha una bocca da lampreda e pinne dentellate; il mare le ribolle attorno di collera.
+Tipo di esterno: demone acquatico
+Sensi: Scurovisione 18 m, Vista cieca 18 m (in acqua)
+Statistiche: Taglia grande; Nuotare 18 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 22, Destrezza 18, Costituzione 19, Intelligenza 4, Saggezza 13, Carisma 7
+Abilità: Furtività +12, Nuotare +18, Percezione +12
+Talenti: Arma focalizzata (morso), Attacco poderoso, Iniziativa migliorata
+CA: 21, contatto 13, impreparato 17 (-1 taglia, +4 Destrezza, +8 CA naturale)
+PF: 104 (11 DV)
+Tiri Salvezza: Tempra +11, Riflessi +11, Volontà +4
+Immunità: Elettricità
+Attacchi: Morso +17 (2d6+9 più 1d6 danni da elettricità), Colpo di coda +12 (1d8+3)
+BMC: +18     DMC: 32
+Capacità e attacchi speciali
+* Corpo galvanico (Sop): le creature che colpiscono l'esterno con attacchi naturali o armi da mischia metalliche subiscono 1d6 danni da elettricità.
+* Folgore abissale (Sop): ogni 1d3 round, come azione standard l'esterno può scagliare una linea di elettricità lunga 18 m che infligge 6d6 danni da elettricità (Riflessi CD 19 dimezza). In acqua la linea diventa un'esplosione di raggio 6 m centrata sull'esterno.
+* Vortice (Sop): una volta per evocazione, mentre nuota l'esterno può trasformarsi per 1 minuto in un vortice di 3 m di raggio. Le creature nell'area o che vi entrano devono superare un Tiro Salvezza su Riflessi con CD 19 o subire 2d8+9 danni e diventare in lotta con il vortice, subendo nuovamente i danni all'inizio di ogni proprio turno finché non sfuggono alla lotta.
+Angelo legionario
+Questo soldato celestiale dall'armatura splendente impugna una spada di fuoco dorato e marcia senza mai rompere il passo.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Individuazione del Male (permanente)
+Statistiche: Taglia media; Velocità 12 m, Volare 18 m (buona) a un'altezza massima di 1 m
+Caratteristiche: Forza 20, Destrezza 15, Costituzione 16, Intelligenza 11, Saggezza 15, Carisma 14
+Abilità: Intimidire +14, Intuizione +14, Percezione +14, Volare +12
+Talenti: Arma focalizzata (spada lunga), Attacco poderoso, Iniziativa migliorata, Volontà di ferro
+CA: 22, contatto 12, impreparato 20 (+2 Destrezza, +6 armatura, +4 CA naturale)
+PF: 104 (11 DV)
+Tiri Salvezza: Tempra +10, Riflessi +9, Volontà +9; +4 contro [VELENO]
+RD: 5/male
+Immunità: Elettricità, Effetti di [PIETRIFICAZIONE]
+Resistenze: Fuoco 10
+Attacchi: Spada lunga fiammeggiante (+1) +18/+13 (1d8+8 più 1d6 danni da fuoco)
+BMC: +16     DMC: 28
+Capacità magiche: LI 8°; Concentrazione +10
+A volontà – Individuazione del Magico
+3 per evocazione – Arma Spirituale (CD 14)
+1 per evocazione – Dissolvi Magie
+Capacità e attacchi speciali
+* Falange (Sop): per ogni alleato adiacente all'esterno, l'esterno ottiene bonus di morale +1 alla CA e ai tiri per colpire (massimo +2). Gli alleati adiacenti all'esterno ottengono bonus di morale +1 ai Tiri Salvezza contro effetti di [PAURA].
+* Colpo del crociato (Sop): 3 volte per evocazione, come azione gratuita quando colpisce con la spada, l'esterno può infliggere 2d6 danni extra da fuoco sacro; contro creature malvagie i danni extra diventano 4d6.
+Angelo della vedetta
+Questo gufo dalle piume di bronzo ha cento occhi dorati disegnati sulle ali: quando li spalanca, nulla resta nascosto.
+Tipo di esterno: angelo
+Sensi: Scurovisione 36 m, Vedere Invisibilità (permanente), Visione crepuscolare
+Statistiche: Taglia media; Velocità 3 m, Volare 18 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 14, Destrezza 19, Costituzione 14, Intelligenza 14, Saggezza 20, Carisma 15
+Abilità: Furtività +16, Intuizione +17, Percezione +23, Volare +16
+Talenti: Allerta, Riflessi fulminei, Schivare, Tiro preciso
+CA: 21, contatto 15, impreparato 16 (+4 Destrezza, +1 schivare, +6 CA naturale)
+PF: 98 (11 DV)
+Tiri Salvezza: Tempra +8, Riflessi +13, Volontà +12
+RD: 5/male
+Resistenze: Freddo 10, Fuoco 10
+Attacchi: 2 Artigli +14 (1d6+2) o Piuma folgorante +15 (attacco di contatto a distanza entro 18 m, 3d6 danni da elettricità)
+BMC: +13     DMC: 28
+Capacità magiche: LI 8°; Concentrazione +10
+A volontà – Individuazione del Magico
+3 per evocazione – Localizza Creatura, Zona di Verità (CD 14)
+Capacità e attacchi speciali
+* Cento occhi (Sop): l'esterno non può essere colto alla sprovvista né fiancheggiato, e gli alleati entro 9 m ottengono vantaggio nelle prove di Percezione e nelle prove di Iniziativa.
+* Grido d'allarme (Sop): quando individua una creatura nascosta, invisibile o camuffata, come azione immediata l'esterno può emettere un richiamo che rivela la posizione della creatura a tutti gli alleati entro 36 m; fino alla fine del prossimo turno dell'esterno, quella creatura non beneficia di occultamento né di copertura parziale contro gli attacchi degli alleati dell'esterno.
+Delfino empireo
+Questo delfino dalla pelle perlacea è avvolto da un'aura di bollicine luminose che sembrano ridere insieme a lui.
+Tipo di esterno: angelo acquatico
+Sensi: Percezione cieca 36 m (in acqua), Visione crepuscolare
+Statistiche: Taglia media; Nuotare 24 m
+Caratteristiche: Forza 16, Destrezza 21, Costituzione 16, Intelligenza 10, Saggezza 17, Carisma 16
+Abilità: Acrobazia +17, Intuizione +13, Nuotare +18, Percezione +15
+Talenti: Attacco in volo, Mobilità, Schivare
+CA: 21, contatto 16, impreparato 15 (+5 Destrezza, +1 schivare, +5 CA naturale)
+PF: 98 (11 DV)
+Tiri Salvezza: Tempra +10, Riflessi +12, Volontà +6
+RD: 5/male
+Resistenze: Freddo 10
+Attacchi: Schianto +15 (1d8+4 più Sbilanciare)
+BMC: +14     DMC: 30
+Capacità magiche: LI 8°; Concentrazione +11
+3 per evocazione – Cura Ferite Moderate (CD 15), Respirare Sott'Acqua
+1 per evocazione – Libertà di Movimento
+Capacità e attacchi speciali
+* Sbilanciare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Sbilanciare che non provoca attacchi di opportunità contro un avversario al massimo di una categoria superiore alla propria. Se la manovra fallisce, l'esterno non può essere sbilanciato a sua volta.
+* Scorta degli annegati (Sop): come azione di movimento, l'esterno può trascinare con sé una creatura consenziente (o priva di sensi) di taglia media o inferiore mentre nuota, senza penalità alla velocità. Le creature trasportate possono respirare sott'acqua.
+* Soffio rigenerante (Sop): 3 volte per evocazione, come azione standard l'esterno può avvolgere di bollicine dorate un alleato entro 9 m: la vittima recupera 2d8+3 PF e può effettuare immediatamente un nuovo Tiro Salvezza contro un effetto di [VELENO] o di [PARALISI] in corso.
+Inevitabile, mago
+Questo manichino di ottone dal volto inespressivo leviga l'aria con gesti misurati; nel suo petto ruota un astrolabio di gemme.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m
+Statistiche: Taglia media; Velocità 9 m
+Caratteristiche: Forza 12, Destrezza 16, Costituzione 13, Intelligenza 17, Saggezza 12, Carisma 15
+Abilità: Conoscenze (arcane) +15, Intuizione +11, Percezione +13, Sapienza Magica +15
+Talenti: Incantare in combattimento, Iniziativa migliorata, Riflessi fulminei
+CA: 20, contatto 14, impreparato 17 (+3 Destrezza, +1 deviazione, +6 CA naturale)
+PF: 98 (11 DV)
+Tiri Salvezza: Tempra +8, Riflessi +9, Volontà +8
+RI: 17
+Attacchi: Schianto +9 (1d4+1)
+BMC: +8     DMC: 22
+Capacità magiche: LI 8°; Concentrazione +12
+A volontà – Dardo Incantato (3 dardi), Individuazione del Magico, Mano Magica
+3 per evocazione – Fulmine (CD 15), Palla di Fuoco (CD 15), Ragnatela (CD 14)
+1 per evocazione – Dissolvi Magie, Velocità
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Ripiego calcolato (Sop): quando fallisce un Tiro Salvezza contro un incantesimo, una volta per evocazione come azione immediata l'esterno può ritirarlo, ottenendo vantaggio.
+Inevitabile, ariete
+Questo toro meccanico ha il muso a forma di testa d'ariete da assedio e zoccoli che scavano solchi nel selciato.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m
+Statistiche: Taglia grande; Velocità 12 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 24, Destrezza 10, Costituzione 19, Intelligenza 2, Saggezza 12, Carisma 1
+Abilità: Percezione +11
+Talenti: Attacco poderoso, Robustezza, Spingere migliorato, Tempra possente
+CA: 21, contatto 9, impreparato 21 (-1 taglia, +12 CA naturale)
+PF: 115 (11 DV)
+Tiri Salvezza: Tempra +13, Riflessi +5, Volontà +4
+Attacchi: Testata +17 (2d6+10 più Spingere)
+BMC: +19 (+21 per Spingere)     DMC: 29 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Carica possente: durante le cariche, l'attacco di Testata dell'esterno infligge due volte il dado di danno (es. 1dx → 2dx).
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Demolitore: gli attacchi dell'esterno ignorano 10 punti di Durezza degli oggetti e delle strutture.
+* Spingere: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Spingere che non provoca attacchi di opportunità. Se la vittima viene spinta contro un ostacolo solido, subisce 1d6+7 danni contundenti aggiuntivi e deve superare un Tiro Salvezza su Tempra con CD 19 o cadere prona.
+* Muraglia mobile: gli alleati possono usare lo spazio dell'esterno come copertura parziale contro gli attacchi a distanza.
+Inevitabile, siluro
+Questo pesce spada di acciaio brunito taglia l'acqua come una lama, lasciandosi dietro una scia di vapore ribollente.
+Tipo di esterno: semi-costrutto acquatico
+Sensi: Percezione cieca 18 m (in acqua), Scurovisione 18 m
+Statistiche: Taglia media; Nuotare 27 m
+Caratteristiche: Forza 20, Destrezza 19, Costituzione 16, Intelligenza 1, Saggezza 13, Carisma 2
+Abilità: Nuotare +18, Percezione +12
+Talenti: Arma focalizzata (rostro), Attacco poderoso, Iniziativa migliorata
+CA: 21, contatto 14, impreparato 17 (+4 Destrezza, +7 CA naturale)
+PF: 104 (11 DV)
+Tiri Salvezza: Tempra +10, Riflessi +11, Volontà +4
+Attacchi: Rostro +17 (2d6+7 / critico 19-20)
+BMC: +16     DMC: 30
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare, sebbene possa farlo sott'acqua.
+* Carica a pieno regime: quando carica, l'esterno può muoversi fino al triplo della propria velocità e il suo attacco di Rostro infligge due volte il dado di danno (es. 2d6 → 4d6) più [Sanguinamento 1d4]. Dopo una carica a pieno regime, l'esterno non può caricare di nuovo nel round successivo.
+* Perforare le linee: quando l'esterno carica, il movimento non provoca attacchi di opportunità e l'esterno può attraversare gli spazi occupati dai nemici (senza terminarvi il movimento).
+Evoca esterno VII
+Demone schiavista
+Questo demone muscoloso è irto di corna acuminate e porta alla cintura fruste e catene: le urla dei suoi prigionieri lo precedono.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m, Individuazione del Bene (permanente)
+Statistiche: Taglia media; Velocità 12 m
+Caratteristiche: Forza 24, Destrezza 17, Costituzione 20, Intelligenza 10, Saggezza 15, Carisma 15
+Abilità: Intimidire +17, Percezione +17, Professione (aguzzino) +12, Scalare +19
+Talenti: Attacco poderoso, Disarmare migliorato, Iniziativa migliorata, Sbilanciare migliorato
+CA: 24, contatto 13, impreparato 21 (+3 Destrezza, +11 CA naturale)
+PF: 136 (13 DV)
+Tiri Salvezza: Tempra +13, Riflessi +11, Volontà +10
+RD: 10/bene
+Immunità: Elettricità, Veleno
+Resistenze: Acido 10, Freddo 10, Fuoco 10
+Attacchi: Frusta uncinata (+1) +21/+16 (1d6+8 più Trascinare, portata 4,5 m), Incornata +15 (1d8+3)
+BMC: +20 (+22 per Disarmare e Sbilanciare)     DMC: 33
+Capacità magiche: LI 10°; Concentrazione +12
+A volontà – Individuazione del Magico
+3 per evocazione – Blocca Persone (CD 15), Comando (CD 13)
+Capacità e attacchi speciali
+* Trascinare: se l'attacco di Frusta colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trascinare verso di sé un avversario di taglia pari o inferiore alla propria. Se la manovra riesce, la vittima viene trascinata fino ad essere adiacente all'esterno senza provocare attacchi di opportunità.
+* Domare i ribelli (Sop): quando colpisce con l'Incornata una creatura prona, immobilizzata o in lotta, l'esterno infligge 2d6 danni extra e la vittima deve superare un Tiro Salvezza su Volontà con CD 18 o diventare scossa per 1d4 round. Questo è un effetto di [INFLUENZA MENTALE: PAURA].
+* Stratega crudele: l'esterno ottiene vantaggio nelle manovre di combattimento contro nemici che hanno già subito una manovra riuscita (da chiunque) dall'inizio del suo ultimo turno.
+Demone della pece
+Questa massa vagamente umanoide di catrame ribollente lascia impronte fumanti; brandelli di vittime affiorano e sprofondano nel suo corpo.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m, Percezione tellurica 18 m
+Statistiche: Taglia grande; Velocità 9 m, Scalare 6 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 22, Destrezza 12, Costituzione 22, Intelligenza 6, Saggezza 13, Carisma 9
+Abilità: Furtività +10 (+18 in paludi o terreni scuri), Percezione +14, Scalare +18
+Talenti: Attacco poderoso, Lottare migliorato, Robustezza
+CA: 23, contatto 10, impreparato 22 (-1 taglia, +1 Destrezza, +13 CA naturale)
+PF: 145 (13 DV)
+Tiri Salvezza: Tempra +14, Riflessi +7, Volontà +9
+RD: 10/bene
+Immunità: Acido, Veleno
+Debolezze: Vulnerabilità al fuoco
+Attacchi: 2 Schianti +18 (1d8+6 più Invischiare)
+BMC: +20 (+24 Lottare)     DMC: 31 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Amorfo: l'esterno è immune ai colpi critici e ai danni da precisione.
+* Invischiare: se l'attacco colpisce, la vittima deve superare un Tiro Salvezza su Riflessi con CD 22 o diventare intralciata dalla pece. Una vittima così intralciata può liberarsi come azione di round completo superando una prova di Forza o di Artista della fuga con CD 22; ogni round passato intralciata subisce 1d6 danni da acido.
+* Pozza di catrame (Sop): ogni 1d4 round, come azione standard l'esterno può vomitare pece in un'esplosione di raggio 6 m entro 18 m. L'area diventa terreno difficile per 1 minuto e le creature al suo interno al momento dell'esplosione devono superare un Tiro Salvezza su Riflessi con CD 22 o diventare intralciate (vedi Invischiare). Se la pozza viene incendiata, brucia per 1d3 round infliggendo 2d6 danni da fuoco a chi vi si trova (e liberando gli intralciati).
+* Corpo bituminoso: le armi da mischia che colpiscono l'esterno restano appiccicate con il 25% di probabilità: liberarle richiede un'azione di movimento e una prova di Forza con CD 18.
+Demone chelato
+Metà aragosta e metà vespa, questo orrore corazzato ha chele dentellate che grondano di un icore verdastro.
+Tipo di esterno: demone acquatico
+Sensi: Scurovisione 18 m, Vista cieca 9 m (in acqua)
+Statistiche: Taglia media; Velocità 9 m, Nuotare 15 m
+Caratteristiche: Forza 23, Destrezza 14, Costituzione 21, Intelligenza 7, Saggezza 14, Carisma 8
+Abilità: Furtività +12, Nuotare +19, Percezione +15
+Talenti: Attacco poderoso, Lottare migliorato, Robustezza, Tempra possente
+CA: 25, contatto 12, impreparato 23 (+2 Destrezza, +13 CA naturale)
+PF: 145 (13 DV)
+Tiri Salvezza: Tempra +15, Riflessi +10, Volontà +8
+RD: 10/bene
+Immunità: Acido, Veleno
+Resistenze: Freddo 10
+Attacchi: 2 Chele +19 (1d8+6 più Afferrare e Stritolare), Pungiglione +19 (1d4+6 più Veleno)
+BMC: +19 (+23 Lottare)     DMC: 31 (35 contro Sbilanciare)
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Anfibio: l'esterno può respirare sia sott'acqua che sulla terraferma.
+* Stritolare: quando l'esterno effettua con successo una manovra di lottare con l'attacco indicato, infligge all'avversario un numero di danni contundenti extra pari al danno dell'attacco stesso (infliggendoli quindi due volte, una per la lotta e una per questa capacità).
+* Veleno: se l'attacco colpisce, la vittima deve superare un Tiro Salvezza su Tempra con CD 21 o subire 1d2 danni temporanei a Forza e diventare inferma per 6 round. Questo è un effetto di [VELENO].
+Angelo custode
+Questo angelo dai lineamenti sereni impugna una spada lunga argentea; le sue ali candide avvolgono gli alleati come uno scudo di piume.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Individuazione del Male (permanente), Visione crepuscolare
+Statistiche: Taglia media; Velocità 12 m, Volare 18 m (buona) a un'altezza massima di 1 m
+Caratteristiche: Forza 21, Destrezza 16, Costituzione 18, Intelligenza 12, Saggezza 17, Carisma 16
+Abilità: Diplomazia +16, Intuizione +16, Percezione +19, Sapienza Magica +14, Volare +14
+Talenti: Arma focalizzata (spada lunga), Attacco poderoso, Iniziativa migliorata, Volontà di ferro
+CA: 24, contatto 13, impreparato 21 (+3 Destrezza, +11 CA naturale; +4 deviazione contro malvagi)
+PF: 136 (13 DV)
+Tiri Salvezza: Tempra +12, Riflessi +11, Volontà +11; +4 contro [VELENO]
+RD: 10/male
+Immunità: Acido, Freddo, Effetti di [PIETRIFICAZIONE]
+Resistenze: Elettricità 10, Fuoco 10
+Attacchi: Spada lunga sacra (+1) +20/+15 (1d8+8; contro creature malvagie +2d6 danni sacri)
+BMC: +18     DMC: 31
+Capacità magiche: LI 10°; Concentrazione +13
+A volontà – Individuazione del Magico, Luce Incandescente (CD 16)
+3 per evocazione – Rimuovi Paura, Santuario (CD 14)
+1 per evocazione – Blocca Mostri (CD 17)
+Capacità e attacchi speciali
+* Ali protettrici (Sop): come azione immediata, quando un alleato entro 9 m viene colpito da un attacco, l'esterno può volargli accanto (senza provocare attacchi di opportunità) e frapporre le proprie ali: l'attacco viene risolto contro l'esterno invece che contro l'alleato. Utilizzabile ogni 1d4 round.
+* Nessuno resti indietro (Sop): gli alleati privi di sensi entro 9 m dall'esterno non possono essere bersagliati da attacchi di opportunità. Inoltre, finché restano nell'area, le loro emorragie lievi e gravi sono sospese: il conteggio dei minuti entro cui morirebbero e le probabilità cumulative di morte non avanzano (riprendono da dove erano rimasti se l'alleato esce dall'area o l'esterno viene ucciso o congedato).
+Angelo bastione
+Questo colosso corazzato è tutt'uno con il suo torrione: al posto del braccio sinistro porta uno scudo grande quanto una porta di città.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Visione crepuscolare
+Statistiche: Taglia grande; Velocità 9 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 24, Destrezza 13, Costituzione 21, Intelligenza 11, Saggezza 16, Carisma 14
+Abilità: Intimidire +16, Intuizione +15, Percezione +17
+Talenti: Attacco poderoso, Robustezza, Spingere migliorato, Tempra possente
+CA: 26, contatto 10, impreparato 25 (-1 taglia, +1 Destrezza, +9 CA naturale, +7 scudo)
+PF: 145 (13 DV)
+Tiri Salvezza: Tempra +15, Riflessi +7, Volontà +11
+RD: 10/male
+Immunità: Elettricità, Effetti di [PIETRIFICAZIONE]
+Resistenze: Freddo 10, Fuoco 10
+Attacchi: Colpo di scudo +19/+14 (2d6+7 più Spingere) o Martello da guerra (+1) +20/+15 (2d6+8 / critico x3)
+BMC: +21 (+23 per Spingere)     DMC: 32 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Baluardo (Sop): gli alleati adiacenti all'esterno ottengono copertura parziale e bonus di deviazione +2 alla CA. Come azione di movimento, l'esterno può piantare lo scudo a terra: finché non si muove, la copertura fornita diventa copertura totale contro gli attacchi a distanza provenienti dal lato dello scudo.
+* Spingere: se l'attacco di Colpo di scudo colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Spingere che non provoca attacchi di opportunità.
+* Sfida del bastione (Sop): come azione veloce, l'esterno può intimare a un nemico entro 9 m di affrontarlo: la vittima deve superare un Tiro Salvezza su Volontà con CD 18 o subire svantaggio nei tiri per colpire contro qualsiasi creatura diversa dall'esterno per 1d4 round. Questo è un effetto di [INFLUENZA MENTALE: COMPULSIONE].
+Leviatano corallino
+Questa tartaruga colossale porta sul carapace un giardino di coralli luminosi: un santuario vivente che nuota negli abissi.
+Tipo di esterno: angelo acquatico
+Sensi: Scurovisione 18 m, Vista cieca 18 m (in acqua)
+Statistiche: Taglia grande; Velocità 3 m, Nuotare 12 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 22, Destrezza 8, Costituzione 22, Intelligenza 10, Saggezza 19, Carisma 17
+Abilità: Intuizione +16, Nuotare +18, Percezione +18
+Talenti: Incantare in combattimento, Robustezza, Tempra possente, Volontà di ferro
+CA: 25, contatto 8, impreparato 25 (-1 taglia, -1 Destrezza, +17 CA naturale)
+PF: 158 (13 DV)
+Tiri Salvezza: Tempra +16, Riflessi +5, Volontà +14
+RD: 10/male
+Immunità: Freddo, Effetti di [VELENO]
+Attacchi: Morso +18 (2d6+9)
+BMC: +20     DMC: 29 (33 contro Sbilanciare)
+Capacità magiche: LI 10°; Concentrazione +13
+A volontà – Creare Acqua, Individuazione del Male
+3 per evocazione – Cura Ferite Gravi (CD 16), Rimuovi Paralisi
+1 per evocazione – Cura Ferite Leggere di Massa
+Capacità e attacchi speciali
+* Anfibio: l'esterno può respirare sia sott'acqua che sulla terraferma.
+* Giardino santuario (Sop): i coralli sul dorso dell'esterno emanano un'aura di 6 m: gli alleati nell'area recuperano 2 PF all'inizio di ogni proprio turno, fino a un massimo di 20 PF ripristinati a ciascuna creatura per evocazione, e ottengono vantaggio nei Tiri Salvezza contro effetti di [PAURA] e di [MALEDIZIONE]. Le creature possono arrampicarsi sul carapace (prova di Scalare CD 10) e usarlo come piattaforma stabile anche in acqua.
+* Ritirata nel guscio: come azione veloce l'esterno può ritrarsi nel carapace, aumentando di +6 il proprio bonus di CA naturale. Finché è ritratto non può muoversi né attaccare, ma il Giardino santuario resta attivo; può tornare alla condizione normale come azione veloce.
+Inevitabile, golem
+Questa fortezza ambulante di ingranaggi giganteschi si riconfigura ad ogni passo, ruote dentate che stridono come una cattedrale in marcia.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m
+Statistiche: Taglia grande; Velocità 9 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 28, Destrezza 12, Costituzione 20, Intelligenza -, Saggezza 11, Carisma 1
+Abilità: Percezione +10
+Talenti: Attacco poderoso, Robustezza
+CA: 25, contatto 10, impreparato 24 (-1 taglia, +1 Destrezza, +15 CA naturale)
+PF: 158 (13 DV)
+Tiri Salvezza: Tempra +13, Riflessi +5, Volontà +4
+RD: 10/adamantio
+RI: 22
+Attacchi: 2 Schianti +21 (2d8+9 più Ingranare)
+BMC: +22     DMC: 33 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Ingranare: se l'attacco colpisce una creatura che impugna un'arma o uno scudo metallici, l'esterno può effettuare una manovra gratuita di Disarmare con +4 che non provoca attacchi di opportunità: se riesce, l'oggetto viene risucchiato tra gli ingranaggi e si danneggia. Recuperarlo richiede un'azione di round completo e una prova di Forza con CD 20 (provoca 1 Schianto gratuito dell'esterno).
+* Vapore rovente (Sop): quando subisce danni da un colpo critico, l'esterno sfiata vapore bollente: tutte le creature adiacenti subiscono 3d6 danni da fuoco (Riflessi CD 21 dimezza).
+* Lega metallica: gli attacchi dell'esterno contano come in adamantio, argento e ferro freddo ai fini di superare la RD dei nemici.
+Inevitabile, faro
+Questa colonna di ottone fluttuante è coronata da una lanterna a specchi rotanti il cui fascio di luce non conosce menzogna.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 36 m, Vedere Invisibilità (permanente)
+Statistiche: Taglia media; Velocità 3 m, Volare 12 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 10, Destrezza 15, Costituzione 16, Intelligenza 8, Saggezza 19, Carisma 14
+Abilità: Intuizione +16, Percezione +22, Volare +14
+Talenti: Allerta, Iniziativa migliorata, Riflessi fulminei
+CA: 23, contatto 15, impreparato 21 (+2 Destrezza, +3 deviazione, +8 CA naturale)
+PF: 130 (13 DV)
+Tiri Salvezza: Tempra +11, Riflessi +10, Volontà +12
+RI: 18
+Attacchi: Schianto +11 (1d6) o Raggio ardente +12 (attacco di contatto a distanza entro 18 m, 4d6 danni da fuoco)
+BMC: +9     DMC: 24 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Fascio rivelatore (Sop): come azione standard, l'esterno può puntare il proprio fascio su una creatura entro 18 m. La vittima deve superare un Tiro Salvezza su Volontà con CD 20 o rimanere illuminata per 1d4+1 round: finché è illuminata non beneficia di occultamento, invisibilità, copertura parziale né di effetti di [ILLUSIONE: MASCHERAMENTO], subisce svantaggio nelle prove di Furtività e gli attacchi contro di lei ottengono vantaggio ai tiri di conferma dei critici.
+* Lampo accecante (Sop): ogni 1d4 round, come azione standard l'esterno può emettere un lampo in un'esplosione di raggio 6 m centrata su di sé: i nemici devono superare un Tiro Salvezza su Tempra con CD 20 o diventare accecati per 1 round e abbagliati per 1d4 round successivi. Questo è un effetto [VISIVO].
+Inevitabile, medusa
+Questa campana di vetro e argento fluttua trascinando decine di filamenti galvanici, come un lampadario vivente degli abissi.
+Tipo di esterno: semi-costrutto acquatico
+Sensi: Percezione cieca 18 m (in acqua), Scurovisione 18 m
+Statistiche: Taglia grande; Nuotare 9 m, Volare 6 m (perfetta) a un'altezza massima di 1 m
+Spazio: 3 m     Portata: 4,5 m
+Caratteristiche: Forza 16, Destrezza 14, Costituzione 20, Intelligenza 1, Saggezza 14, Carisma 3
+Abilità: Nuotare +11, Percezione +12
+Talenti: Lottare migliorato, Robustezza, Tempra possente
+CA: 23, contatto 11, impreparato 21 (-1 taglia, +2 Destrezza, +12 CA naturale)
+PF: 145 (13 DV)
+Tiri Salvezza: Tempra +15, Riflessi +8, Volontà +6
+Immunità: Elettricità
+Attacchi: 4 Filamenti +15 (1d6+3 più 1d6 danni da elettricità più Paralisi galvanica)
+BMC: +17     DMC: 30 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Amorfo: l'esterno è immune ai colpi critici e ai danni da precisione.
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare, sebbene possa farlo sott'acqua.
+* Paralisi galvanica: se l'attacco colpisce, la vittima deve superare un Tiro Salvezza su Tempra con CD 21 o i suoi muscoli si contraggono: diventa barcollante per 1 round. Una creatura che fallisce il Tiro Salvezza contro due Filamenti nello stesso turno resta invece paralizzata per 1 round. Trattandosi di corrente e non di veleno, questa capacità funziona anche su creature immuni agli effetti di [VELENO] e di [PARALISI] magica.
+* Cortina di filamenti (Sop): i nemici che entrano nella portata dell'esterno o vi iniziano il proprio turno muovendosi di più di 1,5 m devono superare un Tiro Salvezza su Riflessi con CD 21 o subire un attacco gratuito di Filamento (massimo uno per creatura per round).
+Evoca esterno VIII
+Demone ingannatore
+Questo torreggiante demone ha quattro braccia — due enormi chele e due mani umanoidi — e occhi da cane che promettono, mentendo, ogni desiderio.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m, Vedere al buio (Sop)
+Statistiche: Taglia grande; Velocità 12 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 26, Destrezza 15, Costituzione 23, Intelligenza 16, Saggezza 17, Carisma 20
+Abilità: Camuffare +18, Conoscenze (arcane, proibite) +16, Intimidire +21, Intuizione +19, Percezione +19, Raggirare +24
+Talenti: Attacco poderoso, Incantare in combattimento, Iniziativa migliorata, Riflessi fulminei, Volontà di ferro
+CA: 27, contatto 11, impreparato 25 (-1 taglia, +2 Destrezza, +16 CA naturale)
+PF: 168 (16 DV)
+Tiri Salvezza: Tempra +16, Riflessi +9, Volontà +15
+RD: 10/bene
+Immunità: Elettricità, Veleno
+Resistenze: Acido 10, Freddo 10, Fuoco 10
+RI: 23
+Attacchi: 2 Chele +23 (2d6+8 più Afferrare), 2 Artigli +23 (1d6+8)
+BMC: +25 (+29 Lottare)     DMC: 37
+Capacità magiche: LI 12°; Concentrazione +17
+A volontà – Individuazione del Magico, Oscurità Profonda, Volare lentamente*
+3 per evocazione – Confusione (CD 19), Dissolvi Magie, Immagine Speculare, Inversione della Gravità (CD 22)
+1 per evocazione – Blocca Mostri (CD 20), Immagine Maggiore (CD 20)
+*Volare lentamente: come Volare ma con velocità 12 m e altezza massima di 1 m.
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Desiderio avvelenato (Sop): una volta per evocazione, come azione standard l'esterno può sussurrare a una creatura entro 9 m la visione del suo più grande desiderio. La vittima deve superare un Tiro Salvezza su Volontà con CD 23 o rimanere affascinata per 1d4+1 round; mentre è affascinata, all'inizio di ogni suo turno l'esterno può darle un ordine come per l'incantesimo Suggestione (stessa CD). Una creatura che viene attaccata si libera immediatamente. Questo è un effetto di [INFLUENZA MENTALE: CHARME] e [DIPENDENTE DAL LINGUAGGIO].
+* Tenaglia strappascudi: quando ha un avversario in lotta con una Chela, come azione veloce l'esterno può effettuare una manovra gratuita di Disarmare con +4 contro di lui, senza provocare attacchi di opportunità.
+Demone rospo
+Questo massiccio demone batrace ha la pelle coperta di verruche spinose e un lezzo capace di piegare un esercito.
+Tipo di esterno: demone
+Sensi: Scurovisione 18 m
+Statistiche: Taglia grande; Velocità 9 m, Nuotare 9 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 27, Destrezza 12, Costituzione 26, Intelligenza 9, Saggezza 15, Carisma 12
+Abilità: Furtività +12 (+20 in paludi), Intimidire +17, Nuotare +21, Percezione +18
+Talenti: Attacco poderoso, Iniziativa migliorata, Lottare migliorato, Robustezza, Tempra possente
+CA: 26, contatto 10, impreparato 25 (-1 taglia, +1 Destrezza, +16 CA naturale)
+PF: 184 (16 DV)
+Tiri Salvezza: Tempra +20, Riflessi +6, Volontà +12
+RD: 10/bene
+Immunità: Elettricità, Veleno
+Resistenze: Acido 10, Freddo 10, Fuoco 10
+Attacchi: Morso +24 (2d8+8 più Afferrare), 2 Artigli +24 (1d8+8)
+BMC: +25 (+29 Lottare)     DMC: 36
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Anfibio: l'esterno può respirare sia sott'acqua che sulla terraferma.
+* Fetore (Sop): l'esterno emana un miasma nauseabondo in un raggio di 9 m. I nemici che entrano nell'area o vi iniziano il proprio turno devono superare un Tiro Salvezza su Tempra con CD 26 o diventare nauseati finché restano nell'area e per 4 round dopo esserne usciti. Una creatura che supera il Tiro Salvezza è immune al Fetore di questo esterno per 24 ore. Questo è un effetto di [VELENO].
+* Pelle spinosa: le creature che colpiscono l'esterno con attacchi naturali o armi da mischia senza portata subiscono 1d6 danni perforanti.
+Kraken immondo
+Questa piovra abissale ha becco d'aquila e otto tentacoli coperti di ventose dentate; il mare intorno a lei si scurisce di odio.
+Tipo di esterno: demone acquatico
+Sensi: Scurovisione 36 m, Vista cieca 18 m (in acqua)
+Statistiche: Taglia grande; Velocità 3 m, Nuotare 15 m
+Spazio: 3 m     Portata: 4,5 m
+Caratteristiche: Forza 28, Destrezza 15, Costituzione 24, Intelligenza 10, Saggezza 16, Carisma 13
+Abilità: Furtività +13, Nuotare +23, Percezione +19
+Talenti: Attacco poderoso, Iniziativa migliorata, Lottare migliorato, Riflessi fulminei, Robustezza
+CA: 26, contatto 11, impreparato 24 (-1 taglia, +2 Destrezza, +15 CA naturale)
+PF: 176 (16 DV)
+Tiri Salvezza: Tempra +17, Riflessi +12, Volontà +11
+RD: 10/bene
+Immunità: Freddo, Veleno
+Resistenze: Acido 10, Elettricità 10
+Attacchi: 4 Tentacoli +24 (1d8+9 più Afferrare e Stritolare), Becco +24 (2d6+9)
+BMC: +26 (+30 Lottare)     DMC: 38 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta. Inoltre l'esterno può mantenere in lotta fino a 4 creature contemporaneamente (una per tentacolo) senza essere considerato in lotta a sua volta.
+* Stritolare: quando l'esterno effettua con successo una manovra di lottare con l'attacco indicato, infligge all'avversario un numero di danni contundenti extra pari al danno dell'attacco stesso (infliggendoli quindi due volte, una per la lotta e una per questa capacità).
+* Trascinare negli abissi: in acqua, quando mantiene una lotta all'inizio del proprio turno, l'esterno può trascinare la vittima trattenuta di 9 m in qualsiasi direzione (tipicamente verso il fondo) senza provocare attacchi di opportunità.
+* Nube d'inchiostro maledetto (Sop): ogni 1d4 round, come azione gratuita l'esterno può emettere una nube d'inchiostro di raggio 6 m (solo in acqua). La nube permane 1d3+1 round e fornisce occultamento totale; i nemici al suo interno subiscono svantaggio nei Tiri Salvezza contro effetti di [PAURA].
+Angelo dei fulgori
+Questo cavaliere celestiale dagli occhi opalescenti può sciogliere la propria forma in un globo di pura luce accecante.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Individuazione del Male (permanente), Visione crepuscolare
+Statistiche: Taglia media; Velocità 12 m, Volare 18 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 22, Destrezza 17, Costituzione 19, Intelligenza 16, Saggezza 17, Carisma 21
+Abilità: Conoscenze (religioni) +19, Diplomazia +21, Intuizione +19, Percezione +19, Sapienza Magica +19, Volare +17
+Talenti: Arma focalizzata (spada lunga), Attacco poderoso, Incantare in combattimento, Iniziativa migliorata, Volontà di ferro
+CA: 26, contatto 14, impreparato 23 (+3 Destrezza, +1 deviazione, +12 CA naturale)
+PF: 160 (16 DV)
+Tiri Salvezza: Tempra +14, Riflessi +13, Volontà +15
+RD: 10/male e ferro freddo
+Immunità: Elettricità, Effetti di [PIETRIFICAZIONE]
+Resistenze: Freddo 10, Fuoco 10
+RI: 23
+Attacchi: Spada lunga sacra (+2) +25/+20/+15 (1d8+11; contro creature malvagie +2d6 danni sacri) o Raggio di luce +22 (attacco di contatto a distanza entro 18 m, 6d6 danni; le creature malvagie ferite devono superare un Tiro Salvezza su Tempra con CD 23 o diventare accecate per 1d4 round)
+BMC: +22     DMC: 36
+Capacità magiche: LI 12°; Concentrazione +17
+A volontà – Individuazione del Magico, Luce Incandescente (CD 18), Sigillo di Giustizia
+3 per evocazione – Colpo Infuocato (CD 20), Dissolvi Magie, Muro di Vento
+1 per evocazione – Blocca Mostri (CD 20), Parola del Potere Stordire
+Capacità e attacchi speciali
+* Forma di luce (Sop): come azione veloce, l'esterno può trasformarsi in un globo di luce (e tornare normale allo stesso modo). In questa forma è incorporeo, vola a 24 m (perfetta, sempre a un'altezza massima di 1 m), non può attaccare con la spada ma può usare il Raggio di luce e le capacità magiche, e ottiene una probabilità di essere mancato del 50% da qualsiasi attacco.
+* Aura di castigo (Sop): i nemici entro 6 m dall'esterno subiscono svantaggio nei Tiri Salvezza contro gli effetti [VISIVI] e contro le capacità magiche dell'esterno con descrittore di luce o fuoco.
+Angelo inflessibile
+Questo angelo dal volto coperto da una maschera senza tratti impugna una mazza di diamante; nulla al mondo sembra poterlo piegare o smuovere.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Individuazione del Male (permanente), Visione crepuscolare
+Statistiche: Taglia media; Velocità 12 m, Volare 15 m (buona) a un'altezza massima di 1 m
+Caratteristiche: Forza 24, Destrezza 15, Costituzione 22, Intelligenza 13, Saggezza 19, Carisma 16
+Abilità: Intimidire +19, Intuizione +20, Percezione +20, Sapienza Magica +17
+Talenti: Arma focalizzata (mazza pesante), Attacco poderoso, Robustezza, Tempra possente, Volontà di ferro
+CA: 27, contatto 12, impreparato 25 (+2 Destrezza, +15 CA naturale)
+PF: 184 (16 DV)
+Tiri Salvezza: Tempra +18, Riflessi +9, Volontà +16
+RD: 10/male
+Immunità: Acido, Freddo, Elettricità, Effetti di [PIETRIFICAZIONE], di [PAURA] e di [MALEDIZIONE]
+Resistenze: Fuoco 10
+RI: 23
+Attacchi: Mazza pesante sacra (+2) +26/+21/+16 (1d8+12; contro creature malvagie +2d6 danni sacri più Contraccolpo)
+BMC: +23     DMC: 35 (non può essere Sbilanciato)
+Capacità magiche: LI 12°; Concentrazione +15
+A volontà – Individuazione del Magico
+3 per evocazione – Dissolvi Magie, Rimuovi Maledizione, Rimuovi Paralisi
+1 per evocazione – Campo Antimagia
+Capacità e attacchi speciali
+* Contraccolpo (Sop): se l'esterno colpisce un nemico con due o più attacchi di Mazza pesante nel medesimo turno, la vittima deve superare un Tiro Salvezza su Tempra con CD 24 o essere spinta di 3 m in linea retta e cadere prona.
+* Inamovibile (Sop): l'esterno non può essere spinto, trascinato, teletrasportato o mosso contro la sua volontà con alcun mezzo, e supera automaticamente le prove per mantenere la posizione.
+* Fardello altrui (Sop): 3 volte per evocazione, come azione immediata l'esterno può trasferire su di sé una condizione tra accecato, assordato, barcollante, frastornato, infermo, nauseato o scosso che affligge un alleato entro 9 m; l'esterno la subisce per la durata residua (le sue immunità possono annullarla).
+Balena santa
+Questa balena bianca ha il dorso segnato da antiche cicatrici a forma di salmi; il suo canto attraversa gli oceani e consola i naufraghi.
+Tipo di esterno: angelo acquatico
+Sensi: Percezione cieca 36 m (in acqua), Visione crepuscolare
+Statistiche: Taglia enorme; Nuotare 18 m
+Spazio: 4,5 m     Portata: 4,5 m
+Caratteristiche: Forza 30, Destrezza 12, Costituzione 26, Intelligenza 11, Saggezza 21, Carisma 18
+Abilità: Intuizione +21, Nuotare +26, Percezione +21
+Talenti: Attacco poderoso, Robustezza, Spingere migliorato, Tempra possente, Volontà di ferro
+CA: 25, contatto 9, impreparato 24 (-2 taglia, +1 Destrezza, +16 CA naturale)
+PF: 200 (16 DV)
+Tiri Salvezza: Tempra +20, Riflessi +9, Volontà +15
+RD: 10/male
+Immunità: Freddo, Effetti di [PAURA]
+Attacchi: Colpo di coda +24 (2d8+15 più Spingere) o Schianto +24 (2d6+15)
+BMC: +26 (+28 per Spingere)     DMC: 37 (non può essere Sbilanciato)
+Capacità magiche: LI 12°; Concentrazione +16
+3 per evocazione – Cura Ferite Gravi (CD 17), Calmare Emozioni (CD 16)
+1 per evocazione – Cura Ferite Leggere di Massa, Respirare Sott'Acqua
+Capacità e attacchi speciali
+* Spingere: se l'attacco di Colpo di coda colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Spingere che non provoca attacchi di opportunità.
+* Canto consolatore (Sop): come azione standard, l'esterno intona un canto udibile entro 18 m (anche attraverso l'acqua): gli alleati nell'area possono effettuare immediatamente un nuovo Tiro Salvezza contro un effetto di [PAURA] o di [INFLUENZA MENTALE] in corso, con vantaggio. Utilizzabile ogni 1d4 round. Questo è un effetto [UDITIVO].
+* Dorso dell'arca (Sop): fino a 8 creature di taglia media possono viaggiare sul dorso dell'esterno come su una piattaforma stabile; mentre vi si trovano respirano normalmente anche se l'esterno nuota in superficie tra onde violente, e ottengono copertura parziale contro gli attacchi provenienti dall'acqua.
+* Soffio di grazia (Sop): una volta per evocazione, come azione standard l'esterno può emettere dal soffiatoio un geyser di acqua benedetta in un'esplosione di raggio 6 m centrata su un punto entro 18 m: gli alleati nell'area recuperano 3d8+5 PF, i non morti e i demoni subiscono invece 6d6 danni sacri (Volontà CD 22 dimezza).
+Inevitabile, giustiziere
+Sotto un mantello monacale, questo emissario di bronzo ha il volto di una bilancia; la sua spada si accende solo davanti allo spergiuro.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m, Vedere Invisibilità (permanente)
+Statistiche: Taglia media; Velocità 12 m
+Caratteristiche: Forza 23, Destrezza 17, Costituzione 20, Intelligenza 14, Saggezza 17, Carisma 16
+Abilità: Diplomazia +19, Intimidire +19, Intuizione +22, Percezione +19, Sapienza Magica +18
+Talenti: Arma focalizzata (spada bastarda), Attacco poderoso, Incalzare, Iniziativa migliorata, Volontà di ferro
+CA: 26, contatto 13, impreparato 23 (+3 Destrezza, +13 CA naturale)
+PF: 168 (16 DV)
+Tiri Salvezza: Tempra +15, Riflessi +11, Volontà +13
+RD: 10/caos
+RI: 23
+Attacchi: Spada bastarda (+2) +25/+20/+15 (1d10+11)
+BMC: +22     DMC: 35
+Capacità magiche: LI 12°; Concentrazione +15
+Permanente – Individuazione del Caos
+A volontà – Comando (CD 14), Rivela Bugie (CD 16)
+3 per evocazione – Blocca Persone (CD 16), Dissolvi Magie, Paura (CD 17)
+1 per evocazione – Sigillo di Giustizia
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Marchiare il colpevole (Sop): come azione veloce, l'esterno può marchiare un nemico entro 18 m che abbia attaccato, ferito o ingannato l'esterno o un suo alleato. Contro il bersaglio marchiato, gli attacchi dell'esterno infliggono 2d6 danni extra e l'esterno ottiene vantaggio nelle prove per individuarlo o inseguirlo. Il marchio dura finché il bersaglio non muore o l'esterno non ne designa un altro.
+* Rigenerazione combattiva: durante un combattimento, l'esterno si cura di 5 danni per round. Se l'esterno subisce danni da caos, questa capacità viene soppressa per 1 minuto.
+* Sentenza vincolante (Sop): una volta per evocazione, come azione standard l'esterno può intimare a una creatura entro 9 m di cessare le ostilità. La vittima deve superare un Tiro Salvezza su Volontà con CD 21 o non poter attaccare né bersagliare con capacità offensive l'esterno e i suoi alleati per 1d4+1 round; l'effetto termina immediatamente se la vittima viene attaccata. Questo è un effetto di [INFLUENZA MENTALE: COMPULSIONE].
+Inevitabile, astrologo
+Questo osservatorio ambulante ha per testa una sfera armillare in moto perpetuo: legge nei nemici le orbite dei loro errori futuri.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 36 m, Vedere Invisibilità (permanente)
+Statistiche: Taglia media; Velocità 9 m, Volare 12 m (perfetta) a un'altezza massima di 1 m
+Caratteristiche: Forza 14, Destrezza 18, Costituzione 17, Intelligenza 19, Saggezza 20, Carisma 15
+Abilità: Conoscenze (arcane, geografia, storia) +20, Intuizione +21, Percezione +21, Sapienza Magica +20, Volare +18
+Talenti: Incantare in combattimento, Iniziativa migliorata, Riflessi fulminei, Schivare, Volontà di ferro
+CA: 26, contatto 15, impreparato 21 (+4 Destrezza, +1 schivare, +11 CA naturale)
+PF: 152 (16 DV)
+Tiri Salvezza: Tempra +13, Riflessi +13, Volontà +15
+RI: 23
+Attacchi: Schianto +14 (1d6+2) o Raggio siderale +20 (attacco di contatto a distanza entro 24 m, 5d6 danni da freddo)
+BMC: +12     DMC: 27 (non può essere Sbilanciato)
+Capacità magiche: LI 12°; Concentrazione +16
+A volontà – Individuazione del Magico, Localizza Oggetto
+3 per evocazione – Lentezza (CD 17), Occhio Arcano, Tempesta di Nevischio
+1 per evocazione – Divinazione, Scrutare (CD 18)
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Congiunzione infausta (Sop): come azione standard, l'esterno può leggere il fato di una creatura entro 18 m. La vittima deve superare un Tiro Salvezza su Volontà con CD 23 o subire svantaggio a tutti i tiri di d20 per 1d4+1 round. Una creatura che supera il Tiro Salvezza è immune a questa capacità per 24 ore.
+* Moto previsto (Sop): all'inizio di ogni round, l'esterno designa una creatura visibile: fino al round successivo, l'esterno e tutti gli alleati entro 9 m ottengono bonus di intuizione +2 alla CA contro gli attacchi di quella creatura e vantaggio nei Tiri Salvezza contro i suoi incantesimi.
+Inevitabile, leviatano
+Questo serpente marino di piastre ribattute avanza tra i flutti sbuffando vapore: una nave da guerra a cui è cresciuta la fame.
+Tipo di esterno: semi-costrutto acquatico
+Sensi: Scurovisione 18 m, Percezione cieca 18 m (in acqua)
+Statistiche: Taglia enorme; Velocità 6 m, Nuotare 18 m
+Spazio: 4,5 m     Portata: 4,5 m
+Caratteristiche: Forza 30, Destrezza 13, Costituzione 25, Intelligenza 2, Saggezza 13, Carisma 1
+Abilità: Nuotare +23, Percezione +14
+Talenti: Attacco poderoso, Iniziativa migliorata, Lottare migliorato, Robustezza, Tempra possente
+CA: 26, contatto 9, impreparato 25 (-2 taglia, +1 Destrezza, +17 CA naturale)
+PF: 200 (16 DV)
+Tiri Salvezza: Tempra +19, Riflessi +8, Volontà +6
+RD: 10/adamantio
+Immunità: Fuoco
+Attacchi: Morso +25 (2d8+10 più Afferrare), Colpo di coda +20 (2d6+5 più Spingere)
+BMC: +27 (+31 Lottare)     DMC: 38 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare, sebbene possa farlo sott'acqua.
+* Spingere: se l'attacco di Colpo di coda colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Spingere che non provoca attacchi di opportunità.
+* Sbuffo di vapore (Sop): ogni 1d4 round, come azione standard l'esterno può emettere un cono di vapore rovente di 9 m che infligge 8d6 danni da fuoco (Riflessi CD 25 dimezza). Il vapore funziona anche sott'acqua.
+* Scafo frangiflutti: gli alleati possono usare lo spazio dell'esterno come copertura parziale; in acqua, gli alleati entro 3 m dall'esterno nuotano nella sua scia ottenendo +3 m alla velocità di Nuotare e vantaggio nelle prove di Nuotare contro correnti e onde.
+Evoca esterno IX
+Bahamut
+Questo enorme orrore sembra uno squalo protetto dal carapace di granchio, con coda, fianchi e pinne pettorali ricoperte da crudeli uncini.
+Tipo di esterno: demone acquatico
+Sensi: Scurovisione 36 m, Fiuto 54 m (raggio 1,5 km per rilevare il sangue)
+Statistiche: Taglia mastodontica; Nuotare 33 m
+Spazio: 6 m     Portata: 6 m (9 m con colpo di coda)
+Caratteristiche: Forza 34, Destrezza 13, Costituzione 24, Intelligenza 13, Saggezza 20, Carisma 9
+Talenti: Arma focalizzata (morso), Attacco poderoso, Attacco rapido, Mobilità, Schivare, Volontà di ferro
+CA: 36, contatto 8, impreparato 34 (-4 taglia, +28 CA naturale, +1 schivare)
+PF: 210 (20 DV)
+Tiri Salvezza: Tempra +18, Riflessi +13, Volontà +13
+RI: 26
+Attacchi: Morso +29 (2d8+12 più Afferrare), 2 Pinne +28 (2d8+12 danni taglienti), Colpo di coda +23 (2d8+6)
+BMC: +36 (+40 per Lottare)     DMC: 48
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Appendici uncinate: l'esterno ottiene bonus di circostanza +4 alle manovre di Lottare. Quando utilizza il talento Attacco rapido, può tentare una manovra di Afferrare al posto dell'attacco.
+* File di denti: se all'inizio del proprio turno l'esterno è in lotta con un avversario trattenuto grazie all'Afferrare del Morso, può sferrare un attacco gratuito di Morso. Non può usare Inghiottire nel turno in cui usa questa capacità.
+* Inghiottire rapido: come azione gratuita, se l'esterno è in lotta con un avversario di taglia inferiore trattenuto grazie all'Afferrare del Morso, può effettuare una manovra in combattimento per ingoiarlo. Una creatura inghiottita mantiene la condizione in lotta e all'inizio del proprio turno subisce il danno del Morso. Può liberarsi sfuggendo alla lotta o infliggendo dall'interno danni pari a 1/10 dei propri PF totali con un'arma leggera tagliente o perforante (la CA interna è 10 + metà della CA naturale).
+Demone macellaio
+Questo colosso a sei arti ha mandibole da mantide e braccia che terminano in mannaie d'osso: dove passa restano solo carcasse appese.
+Tipo di esterno: demone
+Sensi: Scurovisione 36 m, Fiuto, Vedere al buio (Sop)
+Statistiche: Taglia enorme; Velocità 12 m, Scalare 6 m
+Spazio: 4,5 m     Portata: 4,5 m
+Caratteristiche: Forza 33, Destrezza 15, Costituzione 27, Intelligenza 6, Saggezza 17, Carisma 14
+Abilità: Intimidire +22, Percezione +23, Scalare +27
+Talenti: Attacco poderoso, Critico migliorato (mannaie), Incalzare, Iniziativa migliorata, Riflessi fulminei, Robustezza, Tempra possente
+CA: 34, contatto 10, impreparato 32 (-2 taglia, +2 Destrezza, +24 CA naturale)
+PF: 230 (20 DV)
+Tiri Salvezza: Tempra +20, Riflessi +14, Volontà +13
+RD: 10/bene
+Immunità: Elettricità, Veleno
+Resistenze: Acido 10, Freddo 10, Fuoco 10
+RI: 25
+Attacchi: 2 Mannaie +30 (2d6+11 / critico 19-20 più [Sanguinamento 1d6]), Morso +29 (2d8+11), 2 Artigli +29 (1d8+5)
+BMC: +33     DMC: 45
+Capacità e attacchi speciali
+* Sguardo paralizzante (Sop): come azione veloce, l'esterno può fissare una creatura entro 9 m. La vittima deve superare un Tiro Salvezza su Tempra con CD 24 o rimanere paralizzata per 1 round. Una creatura che supera il Tiro Salvezza è immune allo sguardo per 24 ore.
+* Squartare: se l'esterno colpisce un nemico con due o più attacchi di Mannaia nel medesimo turno, gli infligge nuovamente il danno di Mannaia + una volta e mezzo il bonus di Forza.
+* Morso vampirico (Sop): quando l'esterno colpisce col Morso una creatura vivente che sta sanguinando (qualsiasi effetto di [SANGUINAMENTO] o emorragia in corso), infligge 2d6 danni extra e recupera altrettanti PF.
+* Odore del sangue: l'esterno individua automaticamente la posizione di qualsiasi creatura entro 36 m che stia sanguinando o abbia meno della metà dei PF totali, e contro di esse ottiene vantaggio nei tiri per confermare i critici.
+Tiranno sorvegliante
+Questo immenso abominio ha nove teste, ognuna piena di denti e zanne sporgenti.
+Tipo di esterno: demone
+Sensi: Visione crepuscolare, Fiuto, Visione a 360°
+Statistiche: Taglia mastodontica; Velocità 12 m
+Spazio: 4,5 m     Portata: 4,5 m
+Caratteristiche: Forza 31, Destrezza 8, Costituzione 29, Intelligenza 10, Saggezza 17, Carisma 6
+Abilità: Percezione +26, Scalare +29
+Talenti: Attacco poderoso, Colpo terrificante, Critico migliorato (schianto), Riflessi fulminei, Spingere migliorato, Tempra possente
+CA: 34, contatto 5, impreparato 28 (-4 taglia, +29 CA naturale)
+PF: 270 (20 DV)
+Tiri Salvezza: Tempra +16, Riflessi +6, Volontà +13
+Immunità: Effetti di [CONFUSIONE] e demenza
+Attacchi: Schianto +20/+15/+10 (2d6+10 / critico 19-20), 2 Morsi +15 (2d6+5 più Afferrare)
+BMC: +24 (+28 Lottare)     DMC: 33
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta.
+* Diciotto occhi: l'esterno può effettuare nove attacchi di opportunità addizionali in un round, uno per ciascuna testa.
+* Inghiottire rapido: come azione gratuita, se l'esterno è in lotta con un avversario di taglia inferiore trattenuto grazie all'Afferrare del Morso, può ingoiarlo. Una creatura inghiottita mantiene la condizione in lotta e all'inizio del proprio turno subisce il danno del Morso. Può liberarsi sfuggendo alla lotta o infliggendo dall'interno danni pari a 1/10 dei propri PF totali (CA interna 10 + metà della CA naturale).
+* Multimente: l'esterno ottiene Vantaggio con tre dadi nei Tiri Salvezza su Volontà.
+* Rigenerazione combattiva: durante un combattimento, l'esterno si cura di 10 danni per round. Se subisce danni da acido o fuoco, questa capacità viene soppressa per 1 minuto.
+* Ruggito cacofonico (Sop): una volta ogni 1d4 round, come azione standard l'esterno può emettere un ruggito cacofonico in un cono di 9 m. Le creature colpite devono superare un Tiro Salvezza su Volontà con CD 19 o diventare confuse per 1d4 round. Questo è un effetto [SONORO] e di [INFLUENZA MENTALE].
+* Scagliare rocce: come azione standard l'esterno può scagliare una roccia fino a due taglie inferiori alla propria (+10 ai tiri per colpire, gittata 15 m x5, 2d8+15 danni contundenti).
+Argenteo
+Quest'alto angelo levita a mezz'aria, irradiando un'aura che rende difficile guardarlo direttamente.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m
+Statistiche: Taglia media; Velocità 15 m, Volare 30 m (buona) a un'altezza massima di 1 m
+Caratteristiche: Forza 26, Destrezza 19, Costituzione 21, Intelligenza 18, Saggezza 18, Carisma 23
+Abilità: Acrobazia +22, Conoscenze (proibite, religioni) +22, Diplomazia +24, Furtività +22, Intimidire +24, Intuizione +26, Percezione +26, Volare +26
+Talenti: Allerta, Arma focalizzata (mazza pesante), Attacco poderoso, Incalzare, Robustezza, Tempra possente, Volontà di ferro
+CA: 37, contatto 24, impreparato 33 (+13 CA naturale, +10 deviazione)
+PF: 190 (20 DV)
+Tiri Salvezza: Tempra +16, Riflessi +13, Volontà +11
+RD: 10/male
+RI: 25
+Immunità: Acido, Freddo, Effetti di [PIETRIFICAZIONE]
+Resistenze: Elettricità 10, Fuoco 10
+Attacchi: Mazza pesante (+2) +28/+23/+19 (1d8+16 / critico x3 più Stordimento)
+BMC: +23     DMC: 37
+Capacità magiche: LI 13°; Concentrazione +19
+5 per evocazione – Aiuto, Dissolvi il Male (CD 21), Dissolvi Magie, Fiamma Perenne, Individuazione del Male, Rimuovi Paura, Punizione Sacra (CD 20), Rimuovi Malattia, Rimuovi Maledizione, Rivela Bugie (CD 20)
+4 per evocazione – Cura Ferite Leggere, Rivela
+1 per evocazione – Barriera di Lame (CD 22), Guarigione
+Capacità e attacchi speciali
+* Aura protettiva (Sop): l'esterno emana un'aura che sortisce gli effetti degli incantesimi Cerchio Magico contro il Male e Globo di Invulnerabilità. Come azione veloce l'esterno può sopprimere l'aura per fornire al convocatore bonus di deviazione +4 alla CA e bonus di resistenza +4 ai Tiri Salvezza contro le creature malvagie (finché il convocatore si trova entro 9 m). Come azione veloce può ripristinare l'aura.
+* Schivare prodigioso: l'esterno ottiene schivare prodigioso (vedi privilegi di classe del barbaro).
+* Stordimento (Sop): se l'esterno colpisce un nemico con due o più attacchi di Mazza pesante nel medesimo turno, la vittima deve superare un Tiro Salvezza su Tempra con CD 25 o essere stordita per 1 round.
+Planetare
+Questo angelo dalla pelle di smeraldo e il capo rasato torreggia su due ali immense; la sua voce è insieme sentenza e assoluzione.
+Tipo di esterno: angelo
+Sensi: Scurovisione 18 m, Individuazione del Male e Vedere Invisibilità (permanenti), Visione crepuscolare
+Statistiche: Taglia grande; Velocità 9 m, Volare 18 m (buona) a un'altezza massima di 1 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 27, Destrezza 19, Costituzione 24, Intelligenza 22, Saggezza 25, Carisma 24
+Abilità: Conoscenze (arcane, proibite, religioni) +26, Diplomazia +27, Intuizione +27, Percezione +27, Sapienza Magica +26, Volare +22
+Talenti: Arma focalizzata (spadone), Attacco poderoso, Incantare in combattimento, Iniziativa migliorata, Riflessi fulminei, Robustezza, Volontà di ferro
+CA: 32, contatto 13, impreparato 28 (-1 taglia, +4 Destrezza, +19 CA naturale)
+PF: 210 (20 DV); Guarigione rapida 10
+Tiri Salvezza: Tempra +19, Riflessi +16, Volontà +19; +4 contro [VELENO]
+RD: 10/male
+Immunità: Acido, Freddo, Effetti di [PIETRIFICAZIONE]
+Resistenze: Elettricità 10, Fuoco 10
+RI: 25
+Attacchi: Spadone sacro (+3) +31/+26/+21 (3d6+15; contro creature malvagie +2d6 danni sacri)
+BMC: +29     DMC: 43
+Capacità magiche: LI 16°; Concentrazione +23
+A volontà – Dissolvi Magie, Individuazione del Magico, Luce Incandescente (CD 20), Rimuovi Maledizione, Rimuovi Malattia, Rimuovi Paralisi
+3 per evocazione – Blocca Mostri (CD 22), Colpo Infuocato (CD 22), Dissolvi il Male (CD 22), Ristorare
+1 per evocazione – Parola Sacra (CD 24), Sciame di Meteore (CD 26), Terremoto (CD 24)
+Capacità e attacchi speciali
+* Aura sacra (Sop): l'esterno emana un'aura con gli effetti dell'incantesimo Cerchio Magico contro il Male. Inoltre, gli alleati entro 6 m ottengono vantaggio nei Tiri Salvezza contro gli effetti di [PAURA] e di [MORTE]. Non è possibile sopprimere questa capacità.
+* Verdetto celeste (Sop): una volta per evocazione, come azione veloce l'esterno può pronunciare il nome di un nemico visibile: per 1 minuto, gli attacchi e gli incantesimi dell'esterno e dei suoi alleati ignorano la RD e la RI di quella creatura.
+Angelo delle profondità
+Questa manta immensa dalle ali costellate di occhi luminosi plana negli abissi come un cielo notturno capovolto: le correnti le obbediscono.
+Tipo di esterno: angelo acquatico
+Sensi: Percezione cieca 36 m (in acqua), Scurovisione 36 m, Visione crepuscolare
+Statistiche: Taglia enorme; Nuotare 24 m, Volare 9 m (buona) a un'altezza massima di 1 m
+Spazio: 4,5 m     Portata: 4,5 m
+Caratteristiche: Forza 28, Destrezza 18, Costituzione 25, Intelligenza 14, Saggezza 23, Carisma 21
+Abilità: Furtività +19, Intuizione +26, Nuotare +25, Percezione +26
+Talenti: Attacco in volo, Attacco poderoso, Incantare in combattimento, Iniziativa migliorata, Mobilità, Schivare, Volontà di ferro
+CA: 33, contatto 13, impreparato 28 (-2 taglia, +4 Destrezza, +1 schivare, +20 CA naturale)
+PF: 220 (20 DV)
+Tiri Salvezza: Tempra +19, Riflessi +16, Volontà +18
+RD: 10/male
+Immunità: Freddo, Effetti di [PAURA]
+Resistenze: Elettricità 10
+RI: 25
+Attacchi: 2 Ali +27 (2d6+9 più Spingere), Colpo di coda +27 (2d8+9)
+BMC: +31 (+33 per Spingere)     DMC: 46 (non può essere Sbilanciato)
+Capacità magiche: LI 14°; Concentrazione +19
+A volontà – Creare Acqua, Individuazione del Male
+3 per evocazione – Controllare Acqua, Muro di Ghiaccio (CD 19)
+1 per evocazione – Respirare Sott'Acqua, Tsunami inferiore* (CD 22), Controllare Tempo Atmosferico
+*Tsunami inferiore: come Tsunami ma l'onda è lunga 12 m, alta 6 m e infligge 8d6 danni.
+Capacità e attacchi speciali
+* Spingere: se l'attacco di Ala colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Spingere che non provoca attacchi di opportunità.
+* Signora delle correnti (Sop): come azione standard, l'esterno può piegare le correnti (d'acqua o d'aria) entro 18 m: fino a 3 creature a scelta devono superare un Tiro Salvezza su Tempra con CD 25 o essere spostate di 6 m nella direzione scelta dall'esterno (senza provocare attacchi di opportunità) e diventare barcollanti per 1 round. Gli alleati possono rinunciare volontariamente al Tiro Salvezza per farsi trasportare.
+* Manto stellato (Sop): gli occhi luminosi sulle ali brillano come un firmamento: gli alleati entro 9 m ottengono copertura parziale contro gli attacchi a distanza e vantaggio nei Tiri Salvezza contro gli effetti [VISIVI]. Come azione veloce, l'esterno può spegnere o riaccendere il manto.
+* Abbraccio degli abissi (Sop): una volta per evocazione, come azione di round completo l'esterno può avvolgere con le ali una creatura adiacente consenziente o in lotta: una creatura consenziente viene protetta (copertura totale, respira normalmente) fino all'inizio del prossimo turno dell'esterno; una creatura ostile deve superare un Tiro Salvezza su Riflessi con CD 25 o rimanere immobilizzata per 1d4 round nel gelo abissale, subendo 4d6 danni da freddo all'inizio di ogni proprio turno (nuovo Tiro Salvezza ogni round per liberarsi).
+Inevitabile, bombardiere
+Questo esterno di metallo muove con meccanica precisione un enorme obice.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m
+Statistiche: Taglia grande; Velocità 12 m
+Spazio: 3 m     Portata: 3 m
+Caratteristiche: Forza 23, Destrezza 30, Costituzione 18, Intelligenza 10, Saggezza 15, Carisma 2
+Abilità: Acrobazia +22, Intimidire +24, Intuizione +26, Percezione +26
+Talenti: Tiro preciso
+CA: 36, contatto 20, impreparato 26 (-1 taglia, +17 CA naturale)
+PF: 170 (20 DV)
+Tiri Salvezza: Tempra +6, Riflessi +13, Volontà +8
+RD: 15/adamantio
+Attacchi: 2 Schianti +16 (2d10+10 più Critico esplosivo) o 2 Obici +20 (attacco di contatto a distanza entro 45 m, 6d6+7 / critico 19-20/x3)
+BMC: +31     DMC: 48
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Critico esplosivo: se l'attacco colpisce ed è un critico, come azione gratuita l'esterno può effettuare contro la vittima un attacco con l'obice.
+* Lega metallica: gli attacchi dell'esterno contano come in adamantio, argento e ferro freddo ai fini di superare la RD dei nemici.
+* Mira assistita: l'esterno aggiunge il bonus di Destrezza ai danni inflitti con l'obice.
+* Immunità alla magia: l'esterno è immune a incantesimi e capacità magiche che prevedano la RI. Inoltre, qualsiasi incantesimo con il descrittore [acqua] lanciato contro l'esterno rende il suo obice inutilizzabile per 1d4 round.
+Inevitabile, elementalista
+Questo fiero combattente dal corpo in ottone e argento si muove in modo sinuoso e letale.
+Tipo di esterno: semi-costrutto
+Sensi: Scurovisione 18 m
+Statistiche: Taglia media; Velocità 9 m, Volare 15 m (buona) a un'altezza massima di 1 m
+Caratteristiche: Forza 24, Destrezza 28, Costituzione 10, Intelligenza 10, Saggezza 11, Carisma 18
+Abilità: Acrobazia +15, Percezione +6
+Talenti: Riflessi fulminei, Tiro preciso
+CA: 36, contatto 27, impreparato 26 (+9 CA naturale, +8 deviazione)
+PF: 170 (20 DV)
+Tiri Salvezza: Tempra +6, Riflessi +17, Volontà +6
+RD: 10/adamantio
+Attacchi: Tocco elementale +22/+17/+12 (attacco di contatto in mischia, 3d6+11 danni da elettricità, freddo o fuoco)
+BMC: +27     DMC: 48
+Capacità e attacchi speciali
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare.
+* Nucleo infuso (Sop): il nucleo dell'esterno è infuso con un minuscolo granello di potere divorato dal piano elementale. Per rappresentare ciò, l'esterno aggiunge il bonus di Carisma ai Punti Ferita.
+Inevitabile, kraken meccanico
+Questa piovra titanica di piastre imbullonate ha otto tentacoli a catena e un occhio-oblò che arde come una fornace subacquea.
+Tipo di esterno: semi-costrutto acquatico
+Sensi: Percezione cieca 27 m (in acqua), Scurovisione 18 m
+Statistiche: Taglia enorme; Velocità 3 m, Nuotare 15 m
+Spazio: 4,5 m     Portata: 6 m
+Caratteristiche: Forza 32, Destrezza 12, Costituzione 27, Intelligenza 3, Saggezza 15, Carisma 1
+Abilità: Nuotare +27, Percezione +16
+Talenti: Attacco poderoso, Iniziativa migliorata, Lottare migliorato, Riflessi fulminei, Robustezza, Tempra possente
+CA: 33, contatto 9, impreparato 32 (-2 taglia, +1 Destrezza, +24 CA naturale)
+PF: 240 (20 DV)
+Tiri Salvezza: Tempra +22, Riflessi +11, Volontà +8
+RD: 15/adamantio
+Immunità: Freddo, Fuoco
+Attacchi: 4 Tentacoli a catena +29 (2d6+11 più Afferrare e Stritolare), Morso +29 (2d8+11)
+BMC: +33 (+37 Lottare)     DMC: 44 (non può essere Sbilanciato)
+Capacità e attacchi speciali
+* Afferrare: se l'attacco colpisce, oltre ad infliggere i danni l'esterno può effettuare una manovra gratuita di Lottare con +4 che non provoca attacchi di opportunità per trattenere un avversario di taglia pari o inferiore alla propria. Ad ogni successivo turno, l'esterno infligge i danni dell'attacco indicato finché mantiene la lotta. Inoltre l'esterno può mantenere in lotta fino a 4 creature contemporaneamente (una per tentacolo) senza essere considerato in lotta a sua volta.
+* Stritolare: quando l'esterno effettua con successo una manovra di lottare con l'attacco indicato, infligge all'avversario un numero di danni contundenti extra pari al danno dell'attacco stesso (infliggendoli quindi due volte, una per la lotta e una per questa capacità).
+* Corpo metallico: l'esterno ottiene immunità agli effetti di [influenza mentale: charme, compulsione, finzione, trama e morale], [necromanzia], [affaticamento], [morte], [dolore], [sonno], [sanguinamento], [paralisi], [malattia], [veleno], [invecchiamento], a qualsiasi effetto che richieda un Tiro Salvezza su Tempra (a meno che l'effetto si applichi anche agli oggetti o non sia innocuo), ai danni non letali, danni alle caratteristiche, risucchi alle caratteristiche e risucchi di energia. L'esterno necessita comunque di respirare, sebbene possa farlo sott'acqua.
+* Tentacoli a catena: come azione veloce, l'esterno può lanciare un tentacolo fino a 12 m per effettuare un singolo attacco di Tentacolo con portata estesa; se l'attacco colpisce e la manovra di Afferrare riesce, la vittima viene trascinata adiacente all'esterno senza provocare attacchi di opportunità.
+* Turbina (Sop): ogni 1d4 round, come azione di round completo l'esterno può avviare le proprie eliche creando un vortice (in acqua) o un ciclone di risucchio (all'aria aperta) di raggio 9 m centrato su di sé per 1 round: i nemici nell'area devono superare un Tiro Salvezza su Tempra con CD 28 o essere trascinati di 4,5 m verso l'esterno e cadere proni (in acqua: diventare barcollanti per 1 round).
+* Scafo pressurizzato: gli alleati possono usare lo spazio dell'esterno come copertura parziale. Quando subisce un colpo critico, l'esterno sfiata vapore rovente: le creature adiacenti subiscono 4d6 danni da fuoco (Riflessi CD 28 dimezza).

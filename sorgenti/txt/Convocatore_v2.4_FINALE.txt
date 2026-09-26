@@ -1,0 +1,1688 @@
+
+
+
+
+
+
+Convocatore
+“Per alcuni siamo demoni, per altri siamo angeli” − Pinhead (Hellraiser).
+
+
+
+
+Convocatore
+“Per alcuni siamo demoni, per altri siamo angeli” − Pinhead (Hellraiser).
+Evocare creature da altre dimensioni è un affare estremamente serio. A qualunque razza appartengano, i convocatori hanno spesso un aspetto anonimo e un carattere schivo. Essi hanno una visione del mondo animistica, dove ogni creatura ha un proprio spirito che può essere richiamato anche dopo centinaia d’anni dalla propria morte. Infatti, essi affermano che le creature che riescono ad evocare non sono altro che la manifestazione spiritica di esseri non più in vita. Sebbene non rifuggano la compagnia, prediligono la compagnia delle creature che evocano.
+Allineamento: qualsiasi. Dado Vita: d8. Ricchezza iniziale: 66 mo.
+Abilità di classe: Cavalcare, Conoscenze (arcane, dungeon, natura, nobiltà, proibite, religioni, storia e leggende), Professione (una a scelta), Sapienza magica, Utilizzare congegni magici, Volare.
+Punti abilità per livello: 2 + bonus di Intelligenza + 3 per le abilità di background.
+Competenze offensive: Competenza nelle armi semplici. Bastone arcano.
+Competenze difensive: Competenza nelle armature leggere.
+Tabella del convocatore
+Livello
+Bonus Attacco
+Tempra
+Riflessi
+Volontà
+Privilegi di classe
+1°
++0
++0
++0
++2
+Incantesimi, Eidolon, Evoca esterno I, Legame vitale, Dote da convocatore
+2°
++1
++0
++0
++3
+Sensi dell’eidolon
+3°
++2
++1
++1
++3
+Evoca esterno II, Dote da convocatore
+4°
++3
++1
++1
++4
+Scudo alleato, Incantesimi (sostituzione)
+5°
++3
++1
++1
++4
+Evoca esterno III, Dote da convocatore
+6°
++4
++2
++2
++5
+Richiamo, Incantesimi (sostituzione)
+7°
++5
++2
++2
++5
+Evoca esterno IV, Dote da convocatore
+8°
++6/+1
++2
++2
++6
+Trasposizione, Incantesimi (sostituzione)
+9°
++6/+1
++3
++3
++6
+Evoca esterno V, Dote da convocatore
+10°
++7/+2
++3
++3
++7
+Trasferimento evoluzionistico, Incantesimi (sostituzione)
+11°
++8/+3
++3
++3
++7
+Evoca esterno VI, Dote da convocatore
+12°
++9/+4
++4
++4
++8
+Scudo alleato superiore, Incantesimi (sostituzione)
+13°
++9/+4
++4
++4
++8
+Evoca esterno VII, Dote da convocatore
+14°
++10/+5
++4
++4
++9
+Sacrificio, Incantesimi (sostituzione)
+15°
++11/+6/+1
++5
++5
++9
+Evoca esterno VIII, Dote da convocatore
+16°
++12/+7/+2
++5
++5
++10
+Fusione, Incantesimi (sostituzione)
+17°
++12/+7/+2
++5
++5
++10
+Evoca esterno IX, Dote da convocatore
+18°
++13/+8/+3
++6
++6
++11
+Trasferimento evoluzionistico superiore, Incantesimi (sostituzione)
+19°
++14/+9/+4
++6
++6
++11
+Dote da convocatore
+20°
++15/+10/+5
++6
++6
++12
+Potere assoluto, Incantesimi (sostituzione)
+Privilegi di classe
+Incantesimi
+Grazie alla manipolazione dei venti della magia, un convocatore lancia gli incantesimi elencati nella propria lista. Ogni volta che accanto al numero degli incantesimi appare una R, significa che uno di essi sarà un incantesimo di ricerca, e cioè determinato casualmente per rappresentare i vari studi del personaggio. Gli incantesimi di ricerca vengono determinati DOPO aver scelto quelli normalmente ottenuti dal livello e devono essere segnati con una “R” sulla scheda degli incantesimi, poiché non possono essere sostituiti con l’avanzare del livello. Ogni giorno un convocatore sceglie metà degli incantesimi conosciuti (per eccesso) da lanciare a piacimento durante il giorno (quelli di livello 0 sono sempre considerati tutti preparati); gli incantesimi che non vengono scelti potranno comunque essere lanciati consumando però 2 slot incantesimo invece di 1. Per imparare o lanciare un incantesimo, un convocatore deve avere un punteggio di Carisma almeno pari a 10 + il livello dell’incantesimo. La CD di un Tiro Salvezza contro un incantesimo da convocatore è 10 + il livello dell’incantesimo + bonus di Carisma. Inoltre, un convocatore ottiene incantesimi lanciabili bonus al giorno se possiede un alto punteggio di Carisma (vedi Tabella: Modificatori di caratteristica e incantesimi bonus). Si ottengono anche incantesimi lanciabili bonus di livello 0, come fossero di 1° livello. Man mano che sale di livello, un convocatore ottiene nuovi incantesimi.
+– Un numero di volte al giorno pari a metà bonus di Carisma (minimo 1), un convocatore può lanciare un incantesimo usando uno slot di livello superiore rispetto a quello richiesto. Tutte le variabili dipendenti dal livello dell’incantesimo (come la CD del Tiro Salvezza) restano quelle dello slot originale.
+– Al 4° livello e ad ogni livello successivo pari da convocatore, un convocatore può scegliere di imparare un nuovo incantesimo al posto di uno che già conosce. L’incantesimo sostituito non può essere uno di ricerca e il suo livello deve essere identico a quello dell’incantesimo che si desidera cambiare.
+– Un convocatore non è soggetto al fallimento degli incantesimi da convocatore con componenti somatiche, dovuto ad armature leggere.
+– Gli incantesimi possono essere lanciati gratuitamente solo un certo numero di volte in base al costo dei reagenti, dopodiché ogni utilizzo extra dovrà essere pagato al prezzo indicato. Fino a 250 mo: 2 volte al giorno; da 251 mo a 500 mo: 1 volta al giorno; da 501 mo a 999 mo: 1 volta a settimana; da 1.000 mo in su, il prezzo deve essere pagato ogni volta che si lancia l’incantesimo.
+Eidolon
+L’eidolon è un’entità spiritica nativa di altri piani che, a differenza dei comuni esterni evocati dai convocatori, ha una volontà ben definita. Quando combattono, sulla fronte dell’eidolon e del suo convocatore appare la medesima runa luminescente.
+Al 1° livello, un convocatore sceglie un eidolon a cui legarsi (vedi Creare un eidolon). Un eidolon segue le regole sottostanti:
+– Si può evocare il proprio eidolon a volontà, effettuando un rituale di 5 minuti.
+– Un eidolon scompare se il convocatore cade privo di sensi, si addormenta, muore o se il convocatore lo congeda con un’azione gratuita.
+– Un eidolon viene esiliato se viene ucciso, se viene bandito da un effetto (come gli incantesimi Congedo ed Esilio) o se si allontana a più di 1 km dal convocatore. Una volta esiliato, l’eidolon non può essere evocato fino all’alba del giorno seguente.
+– Ogni volta che un eidolon viene evocato, tutti gli incantesimi, gli effetti e le condizioni che erano attivi su di lui terminano. Se l’eidolon era scomparso, torna con i medesimi Punti Ferita di quando è scomparso. Se era stato esiliato, torna con la metà dei suoi Punti Ferita massimali.
+Evoca esterno (Mag)
+Al 1° livello, come azione standard che non provoca attacchi di opportunità, un convocatore può evocare un esterno a scelta. Ogni due livelli oltre il 1°, un convocatore può evocare un esterno di livello superiore, come indicato nella Tabella del convocatore. Si può usare questa capacità per un numero di volte al giorno pari a 3 + bonus di Carisma. Le statistiche degli esterni si trovano nel Libro delle evocazioni (chiedere al DM). Gli esterni seguono le regole sottostanti:
+– Non è possibile evocare un esterno se il proprio eidolon è attualmente evocato.
+– Non è possibile evocare il medesimo esterno due volte consecutive (gli esterni sono entità molto permalose e tutte aspettano il proprio momento).
+– Non è possibile evocare esterni di tipo acquatico fuori dall’acqua.
+– Gli esterni contano come creature evocate.
+– Salvo diversamente indicato, gli esterni hanno un allineamento neutrale.
+– Gli esterni appaiono in una casella adiacente al convocatore, agiscono immediatamente e successivamente in ogni turno del convocatore.
+– Gli esterni permangono per 1 minuto.
+– Gli esterni sono comandati mentalmente dal convocatore.
+– Un esterno scompare se viene ucciso, se viene bandito da un incantesimo, se il convocatore lo congeda con un’azione gratuita o se evoca un nuovo esterno o il proprio eidolon.
+– Quando un esterno scompare, tutti gli incantesimi, gli effetti e le condizioni che aveva generato terminano immediatamente.
+Legame vitale (Sop)
+Al 1° livello, un convocatore può sacrificare un qualsiasi numero di Punti Ferita per prevenire un pari ammontare di danni subiti dal proprio eidolon, virtualmente impedendo che questi venga esiliato.
+Doti da convocatore
+Al 1° livello e ogni due ulteriori livelli, un convocatore ottiene una dote da convocatore a scelta. Inoltre, ai livelli appropriati un convocatore può scegliere di ottenere una dote da convocatore al posto di un talento garantito dal normale avanzamento di livello. Salvo diversamente indicato, ciascuna dote può essere selezionata una sola volta.
+Sensi dell’eidolon (Sop)
+Al 2° livello, come azione standard un convocatore può percepire il gusto, l’olfatto, il tatto, l’udito e la vista del proprio eidolon. La percezione termina se l’eidolon e il convocatore si allontanano a più di 100 m l’uno dall’altro. Si può usare questa capacità per un numero di minuti al giorno pari al livello di convocatore. Questa durata non deve essere necessariamente consecutiva, ma deve essere spesa in incrementi di un minuto.
+Scudo alleato
+Al 4° livello, fintanto che l’eidolon si trova entro 6 m dal convocatore, quest’ultimo ottiene bonus di scudo +2 alla CA e bonus di circostanza +2 ai Tiri Salvezza. Questi bonus non si applicano se l’eidolon è indifeso, in lotta, privo di sensi o stordito.
+Richiamo (Sop)
+Al 6° livello, fintanto che l’eidolon si trova entro 36 m dal convocatore, quest’ultimo può richiamarlo come azione standard, facendolo apparire in una casella adiacente a sé o in quella più vicina possibile. Si può usare questa capacità una volta al giorno più una ogni quattro livelli oltre il 6°.
+Trasposizione (Sop)
+All’8° livello, fintanto che l’eidolon si trova entro 36 m dal convocatore, quest’ultimo può spendere un uso di richiamo per scambiarsi di posto con l’eidolon.
+Trasferimento evoluzionistico (Sop)
+Al 10° livello, un convocatore può ottenere fino a 2 punti evoluzione da spendere egli stesso in evoluzioni (deve soddisfarne i requisiti). I punti evoluzione così ottenuti riducono il totale di punti evoluzione disponibili all’eidolon. Un convocatore può scegliere solo evoluzioni che l’eidolon potrebbe attualmente acquisire, ma non può scegliere quelle che forniscono bonus alle caratteristiche. Ogni volta che il convocatore cambia le evoluzioni del proprio eidolon, può anch’egli cambiare le proprie o restituire all’eidolon i punti così sottratti.
+Scudo alleato superiore
+Al 12° livello, i bonus forniti da scudo alleato diventano +4.
+Sacrificio (Sop)
+Al 14° livello, ogni volta che un convocatore verrebbe mandato a 0 Punti Ferita o meno, può invece assegnare al proprio eidolon tutto il danno. Questo danno viene trasferito 1 punto alla volta, il che significa che non appena l’eidolon è ridotto a 0 Punti Ferita, tutti i danni rimanenti dovranno essere assegnati al convocatore.
+Fusione (Sop)
+Al 16° livello, come azione standard un convocatore può toccare il proprio eidolon per fondersi con lui, equipaggiamento compreso. Gli oggetti con effetti continuativi o con attivazione mentale continuano a funzionare mentre sono così assorbiti. Durante la fusione, il convocatore è immune a qualsiasi danno ed effetto, usa i sensi dell’eidolon e può parlare attraverso la sua voce. Tutti gli incantesimi, gli effetti e le condizioni che erano attivi su di lui sono sospesi finché la fusione non ha termine, sebbene la loro durata continui a trascorrere. Durante la fusione, il convocatore può lanciare incantesimi prendendo il controllo dell’eidolon, ma ciò consumerà la relativa azione dell’eidolon stesso; qualsiasi componente materiale viene presa dall’equipaggiamento del convocatore. La fusione ha termine se il convocatore usa un’apposita azione veloce o se l’eidolon viene esiliato, ma in questo secondo caso il convocatore subisce 4d6 danni ed è assordato per 1 round. Quando la fusione ha termine, il convocatore riappare in una casella adiacente al proprio eidolon o in quella più vicina possibile. Si può usare questa capacità per 20 round al giorno. Questa durata non deve essere necessariamente consecutiva.
+Trasferimento evoluzionistico superiore (Sop)
+Al 18° livello, tramite trasferimento evoluzionistico un convocatore può ottenere fino a 6 punti evoluzione. Ogni 2 punti così ottenuti riducono di 1 il totale di punti evoluzione disponibile all’eidolon.
+Rituale di potere assoluto (Sop)
+Al 20° livello, un convocatore effettua un rituale che concede un grande potere, ma deve scegliere chi ne sarà il protagonista: sé stesso o il proprio eidolon. I benefici di questa scelta sono i seguenti:
+Il convocatore è il protagonista del rituale: come azione standard il convocatore può assumere l’aspetto del proprio eidolon, copiando ogni sua evoluzione, forma e capacità. I punteggi base di Forza, Destrezza e Costituzione del convocatore diventano uguali a quelli base dell’eidolon. Il convocatore può decidere quali oggetti trasportati vengano assorbiti dalla sua nuova forma e quali restino disponibili. Gli oggetti con effetti continuativi o con attivazione mentale continuano a funzionare mentre sono così assorbiti. Un convocatore perde la velocità, gli attacchi naturali e tutti i tratti razziali mantenendo privilegi di classe, abilità, linguaggi e talenti bonus e ottenendo le capacità concesse dalle evoluzioni del proprio eidolon. Il convocatore può porre termine alla trasformazione come azione gratuita. Si può usare questa capacità per 20 minuti al giorno. Questa durata non deve essere necessariamente consecutiva, ma deve essere spesa in incrementi di un minuto.
+L’eidolon è il protagonista del rituale: l’eidolon ottiene 4 punti evoluzione extra da spendere a piacimento.
+
+Incantesimi da convocatore
+Il convocatore è un incantatore fino al 6° livello di magia. La caratteristica da incantatore è il Carisma.
+Incantesimi Conosciuti
+Il numero indica quanti incantesimi di quel livello di magia il convocatore conosce; la “R” segnala un incantesimo di ricerca, determinato casualmente e non sostituibile.
+Liv.
+0
+1
+2
+3
+4
+5
+6
+1°
+4
+4R
+—
+—
+—
+—
+—
+2°
+5
+6R
+—
+—
+—
+—
+—
+3°
+6
+8R
+—
+—
+—
+—
+—
+4°
+7
+8
+4R
+—
+—
+—
+—
+5°
+7
+10R
+6R
+—
+—
+—
+—
+6°
+7
+10
+8R
+—
+—
+—
+—
+7°
+7
+10
+8
+4R
+—
+—
+—
+8°
+7
+10
+10R
+6R
+—
+—
+—
+9°
+7
+10
+10
+8R
+—
+—
+—
+10°
+7
+10
+10
+8
+4R
+—
+—
+11°
+7
+10
+10
+10R
+6R
+—
+—
+12°
+7
+10
+10
+10
+8R
+—
+—
+13°
+7
+10
+10
+10
+8
+4R
+—
+14°
+7
+10
+10
+10
+10R
+6R
+—
+15°
+7
+10
+10
+10
+10
+8R
+—
+16°
+7
+10
+10
+10
+10
+8
+2R
+17°
+7
+10
+10
+10
+10
+8
+2
+18°
+7
+10
+10
+10
+10
+8
+4R
+19°
+7
+10
+10
+10
+10
+8
+4
+20°
+7
+10
+10
+10
+10
+8
+6R
+Incantesimi Lanciabili al Giorno
+Il numero indica quanti incantesimi di quel livello di magia il convocatore può lanciare ogni giorno, senza contare quelli bonus da Carisma.
+Liv.
+0
+1
+2
+3
+4
+5
+6
+1°
+5
+1
+—
+—
+—
+—
+—
+2°
+5
+2
+—
+—
+—
+—
+—
+3°
+5
+3
+—
+—
+—
+—
+—
+4°
+5
+3
+1
+—
+—
+—
+—
+5°
+5
+4
+2
+—
+—
+—
+—
+6°
+5
+4
+3
+—
+—
+—
+—
+7°
+5
+4
+3
+1
+—
+—
+—
+8°
+5
+4
+4
+2
+—
+—
+—
+9°
+5
+5
+4
+3
+—
+—
+—
+10°
+5
+5
+4
+3
+1
+—
+—
+11°
+5
+5
+4
+4
+2
+—
+—
+12°
+5
+5
+5
+4
+3
+—
+—
+13°
+5
+5
+5
+4
+3
+1
+—
+14°
+5
+5
+5
+4
+4
+2
+—
+15°
+5
+5
+5
+5
+4
+3
+—
+16°
+5
+5
+5
+5
+4
+3
+1
+17°
+5
+5
+5
+5
+4
+4
+2
+18°
+5
+5
+5
+5
+5
+4
+2
+19°
+5
+5
+5
+5
+5
+5
+3
+20°
+5
+5
+5
+5
+5
+5
+3
+
+Lista degli Incantesimi da Convocatore
+Gli incantesimi contrassegnati da un asterisco (*) sono in revisione e vanno adattati al sistema.
+Livello 0
+(41 incantesimi disponibili)
+Livello 1
+(45 incantesimi disponibili)
+Livello 2
+(48 incantesimi disponibili)
+Livello 3
+(50 incantesimi disponibili)
+1. Alleato involontario
+2. Aprire/chiudere
+3. Arma bilanciata
+4. Armatura di stoffa
+5. Aspetto del folletto stregato
+6. Conversazione clandestina
+7. Decomporre cadavere
+8. Distruggere non morti
+9. Fiamma protetta
+10. Frastornare
+11. Guida
+12. Incrinare
+13. Individuazione del magico
+14. Individuazione del veleno
+15. Individuazione dello charme
+16. Lampo
+17. Lastra di brina
+18. Letto confortevole
+19. Luce
+20. Luci danzanti
+21. Missiva
+22. Moneta del furbo
+23. Odore fastidioso
+24. Prestidigitazione
+25. Putrefare cibo e bevande
+26. Randello di legno
+27. Resistenza
+28. Ridacchiare
+29. Risveglio
+30. Scintilla
+31. Segnale
+32. Setacciare
+33. Sigillo arcano
+34. Spauracchio
+35. Spegnere
+36. Suono fantasma
+37. Suono temporizzato
+38. Sussurri dalla tomba
+39. Tocco di affaticamento
+40. Trucchi dello scrivano
+41. Vista dell’artigiano
+1. Allarme
+2. Armatura magica
+3. Bocca magica
+4. Braccio lungo
+5. Canto del gallo
+6. Catene uncinate
+7. Cavalcatura
+8. Chiarezza di pensiero
+9. Comando di liberazione
+10. Condotto vitale
+11. Contrastare elementi
+12. Foschia occultante
+13. Frastornare mostri
+14. Guarire eidolon inferiore
+15. Identificare
+16. Imporre ostilità
+17. Ingrandire persone
+18. Movimento sfocato
+19. Palla di neve
+20. Protezione dal bene
+21. Protezione dal caos
+22. Protezione dal male
+23. Protezione dalla legge
+24. Pugnale di ghiaccio
+25. Raggio di debilitazione
+26. Rallentare caduta
+27. Ridurre persone
+28. Ripara danni leggeri
+29. Riparazione di fortuna
+30. Ritirata rapida
+31. Ritratto istantaneo
+32. Saltare
+33. Sciogliere legame
+34. Scudo
+35. Scudo da fianco
+36. Scudo di pietra
+37. Servitore inosservato
+38. Sigillo di colla
+39. Tocco corrosivo
+40. Unto
+41. Ventriloquio
+42. Vigore acquatico
+43. Zaap
+44. Zampillo incandescente
+45. Zanna magica
+1. Allarme di fuga
+2. Alterare sé stesso
+3. Arma protettiva
+4. Armatura del sangue
+5. Astuzia della volpe
+6. Bande protettive
+7. Cavallo di vimini
+8. Contattare entità I
+9. Creare fossa
+10. Dardo caustico
+11. Destriero fantomatico
+12. Dissimulare
+13. Evoca eidolon
+14. Forma umanoide
+15. Forza del toro
+16. Fremito del tempo
+17. Frusta di ragni
+18. Grazia del gatto
+19. Individuazione dei pensieri
+20. Individuazione del magico superiore
+21. Intoccabile
+22. Librarsi
+23. Lupo fantasma
+24. Movenze dell’esploratore
+25. Movimenti del ragno*
+26. Muro di polvere
+27. Nube di nebbia
+28. Pelle coriacea
+29. Polvere luccicante
+30. Protezione dai veleni
+31. Protezione dal bene collettivo
+32. Protezione dal caos collettivo
+33. Protezione dal male collettivo
+34. Protezione dalla legge collettivo
+35. Protezione dalle frecce
+36. Resistenza dell’orso
+37. Resistere all’energia
+38. Riparo di ragnatele
+39. Ristorare eidolon inferiore
+40. Saggezza del gufo
+41. Scudo energetico
+42. Sfocatura
+43. Sorgente evolutiva inferiore
+44. Spazio contorto
+45. Splendore dell’aquila
+46. Sussurri oscuri
+47. Trasformazione rapida
+48. Vedere invisibilità
+1. Allarme selettivo
+2. Anti-individuazione
+3. Armatura radiosa
+4. Assorbimento energetico
+5. Assumere aspetto
+6. Barriera ablativa
+7. Cercare pensieri
+8. Cerchio magico contro il bene
+9. Cerchio magico contro il caos
+10. Cerchio magico contro il male
+11. Cerchio magico contro la legge
+12. Condotto vitale migliorato
+13. Contattare entità II
+14. Controllare creature evocate
+15. Creazione minore
+16. De-evolvere
+17. Dissolvi magie
+18. Distorsione
+19. Empatia del branco
+20. Epurare invisibilità
+21. Eroismo
+22. Esplosione di pallini
+23. Evoca carrozza
+24. Fossa con spuntoni
+25. Gemello di vomito
+26. Guarire eidolon
+27. Impulso eroico
+28. Ira
+29. Movimenti del ragno collettivo*
+30. Muro di vento
+31. Nube incandescente
+32. Nube maleodorante
+33. Ostacolare evocazione
+34. Passo urbano
+35. Pelle fatata
+36. Planare
+37. Possessione della marionetta
+38. Protezione dall’energia
+39. Protezione dalle frecce collettivo
+40. Respirare sott’acqua
+41. Richiesta planare
+42. Ripara danni gravi
+43. Ristorare eidolon
+44. Scambiare oggetti
+45. Scudo su compagno
+46. Sfera acquea
+47. Sfera di forza d’emergenza
+48. Sorgente evolutiva
+49. Spie insetto
+50. Zanna magica superiore
+
+Livello 4
+(36 incantesimi disponibili)
+Livello 5
+(24 incantesimi disponibili)
+Livello 6
+(23 incantesimi disponibili)
+
+1. Agonizzare
+2. Ancora dimensionale
+3. Assumere aspetto superiore
+4. Aura gelida
+5. Aura infuocata
+6. Charme sui mostri
+7. Condotto dell’evocatore
+8. Contattare entità III
+9. Creazione maggiore
+10. Eroismo vuoto
+11. Escursione nell’ombra
+12. Flusso di ossidiana
+13. Forza dell’elefante
+14. Foschia corrosiva
+15. Fossa acida
+16. Frastornare di massa
+17. Ghiaccio strisciante
+18. Ingrandire persone di massa
+19. Lama punitrice
+20. Lentezza
+21. Localizza creatura
+22. Metamorfosi regolabile
+23. Muro d’acqua
+24. Muro di fuoco
+25. Muro di ghiaccio
+26. Nebbia solida
+27. Pelle di pietra
+28. Richiamo del nixie
+29. Richiamo purificatore
+30. Ridurre persone di massa
+31. Rimutare
+32. Ripara danni critici
+33. Scudo di fuoco
+34. Sorgente evolutiva superiore
+35. Tentacoli neri
+36. Velocità
+1. Blocca mostri
+2. Camicia di forza
+3. Condotto vitale superiore
+4. Congedo
+5. Contattare altri piani
+6. Corona di lame
+7. Dardo caustico superiore
+8. Dissolvi magie superiore
+9. Fossa affamata
+10. Frusta di millepiedi
+11. Giustapposizione ostile
+12. Guarire eidolon superiore
+13. Levitazione
+14. Linguaggi
+15. Localizzare portale
+16. Metamorfosi funesta
+17. Muro di carne
+18. Muro di roccia
+19. Nube mortale
+20. Parlare attraverso i sogni
+21. Pelle di pietra collettivo
+22. Piaga degli insetti
+23. Segugio fedele
+24. Tentacoli prosciuganti
+1. Adattamento ambientale
+2. Anello di fuoco
+3. Astuzia della volpe di massa
+4. Contattare entità IV
+5. Eroismo superiore
+6. Esilio
+7. Forza del toro di massa
+8. Frusta di formiche
+9. Grazia del gatto di massa
+10. Muro di ferro
+11. Nebbia acida
+12. Pozza di catrame
+13. Repulsione
+14. Resistenza dell’orso di massa
+15. Riflettere incantesimo
+16. Ripara danni totali
+17. Saggezza del gufo di massa
+18. Sfera acquea colossale
+19. Spie insetto superiore
+20. Splendore dell’aquila di massa
+21. Teletrasporto*
+22. Visione del vero
+23. Volare
+
+
+Creare un eidolon
+Un eidolon è un’entità spiritica nativa di altri piani che, a differenza dei comuni esterni, ha una volontà ben definita.
+Tipo di creatura: Esterno. Dado Vita: d10.
+Abilità di classe: Conoscenze (proibite), Furtività, Intuizione, Percezione, Raggirare e altre 4 a scelta, eccetto Professione.
+Punti abilità per livello: 4 + bonus di Intelligenza per Dado Vita.
+Competenze difensive: Nessuna. Un eidolon non può indossare armature o impugnare scudi.
+Caratteristiche: al 1° livello, un convocatore assegna a piacere i punteggi 16, 14 e 12 alle tre caratteristiche fisiche dell’eidolon. Le caratteristiche mentali dell’eidolon sono sempre Intelligenza 10, Saggezza 10 e Carisma 10.
+Tabella dell’eidolon
+Liv.
+DV
+Att.
+BA nat.
+BA armi
+TS+
+TS−
+P.Ab.
+Tal.
+Arm.
+For/Des
+P.Evo.
+1°
+1
+2
++1
++1
++2
++0
+4
+1
++2
++0
+5
+2°
+2
+2
++2
++2
++3
++0
+8
+1
++4
++1
+6
+3°
+3
+3
++3
++3
++3
++1
+12
+2
++4
++1
+7
+4°
+3
+3
++3
++3
++3
++1
+12
+2
++4
++1
+8
+5°
+4
+3
++4
++4
++4
++1
+16
+2
++6
++2
+9
+6°
+5
+4
++5
++5
++4
++1
+20
+3
++6
++2
+10
+7°
+6
+4
++6
++6/+1
++5
++2
+24
+3
++8
++3
+11
+8°
+6
+4
++6
++6/+1
++5
++2
+24
+3
++8
++3
+12
+9°
+7
+5
++7
++7/+2
++5
++2
+28
+4
++8
++3
+13
+10°
+8
+5
++8
++8/+3
++6
++2
+32
+4
++10
++4
+14
+11°
+9
+5
++9
++9/+4
++6
++3
+36
+5
++10
++4
+15
+12°
+9
+5
++9
++9/+4
++6
++3
+36
+5
++12
++5
+16
+13°
+10
+5
++10
++10/+5
++7
++3
+40
+5
++12
++5
+17
+14°
+11
+6
++11
++11/+6/+1
++7
++3
+44
+6
++12
++5
+18
+15°
+12
+6
++12
++12/+7/+2
++8
++4
+48
+6
++14
++6
+19
+16°
+12
+6
++12
++12/+7/+2
++8
++4
+48
+6
++14
++6
+20
+17°
+13
+6
++13
++13/+8/+3
++8
++4
+52
+7
++16
++7
+21
+18°
+14
+6
++14
++14/+9/+4
++9
++4
+56
+7
++16
++7
+22
+19°
+15
+7
++15
++15/+10/+5
++9
++5
+60
+8
++16
++7
+23
+20°
+15
+7
++15
++15/+10/+5
++9
++5
+60
+8
++18
++8
+24
+TS+ = progressione del Tiro Salvezza buono; TS− = progressione del Tiro Salvezza scarso (applicati ai TS della forma base). Arm. = bonus di armatura naturale; For/Des = bonus a Forza e Destrezza; P.Evo. = punti evoluzione.
+Livello
+Privilegi dell’eidolon
+1°
+Guarigione limitata, Rituale protettivo, Scurovisione, Comunicazione, Oggetti magici, Legame arcano
+2°
+Riduzione del danno 1/–
+3°
+Eludere
+4°
+Riduzione del danno 2/–
+5°
+Aumento di caratteristica
+6°
+Riduzione del danno 3/–
+7°
+Devozione
+8°
+Riduzione del danno 4/–
+9°
+Multiattacco
+10°
+Riduzione del danno 5/–, Aumento di caratteristica
+11°
+—
+12°
+Riduzione del danno 6/–
+13°
+Eludere migliorato
+14°
+Riduzione del danno 7/–
+15°
+Aumento di caratteristica
+16°
+Riduzione del danno 8/–
+17°
+—
+18°
+Riduzione del danno 9/–
+19°
+—
+20°
+Riduzione del danno 10/–, Aumento di caratteristica
+Privilegi dell’eidolon
+Punti evoluzione
+Il numero totale di punti evoluzione a disposizione dell’eidolon, utilizzabili per ottenere una vasta gamma di attacchi, capacità e poteri (vedi più avanti). Quando un convocatore avanza di livello, il numero massimo di punti evoluzione aumenta e può spendere quelli acquisiti per cambiare il proprio eidolon. Le evoluzioni non sono permanenti e, salvo diversamente indicato, possono essere modificate quando il convocatore avanza di livello o tramite l’incantesimo Rimutare. Salvo diversamente indicato, ciascuna evoluzione può essere selezionata una sola volta. Le evoluzioni fornite gratuitamente (ad esempio da un archetipo del convocatore) non possono essere scelte nuovamente tramite i punti evoluzione, salvo che non possano essere scelte normalmente più volte.
+Etica
+Un convocatore può evocare solo eidolon il cui allineamento sia al massimo a un passo di distanza dal proprio. Anche se un convocatore indirizza le azioni del proprio eidolon, questo non significa che esso sia un pupazzo che ne esegue ogni ordine senza protestare. Gli eidolon possono rifiutarsi di intraprendere azioni contrarie alla loro etica o al loro allineamento e sono pronti a rimproverare il convocatore per aver fatto loro tali richieste. Inoltre, se il convocatore dovesse cambiare allineamento in maniera tale da risultare a più di un passo da quello dell’eidolon, quest’ultimo si rifiuterà di assecondare i suoi ordini. Se un convocatore riesce a riportare il proprio allineamento in linea con quello dell’eidolon, questi tornerà al suo servizio.
+Guarigione limitata
+Un eidolon non ha Punti Fatica, ma solo Punti Ferita. Un eidolon non beneficia della guarigione naturale.
+Rituale protettivo
+Sebbene venga evocato, grazie a uno speciale rituale un eidolon ottiene immunità agli incantesimi e alle capacità che influenzano le creature evocate (come Protezione dal male, Controllare creature evocate, ecc.), ma è ancora soggetto a quelle che influenzano gli esterni (come Congedo, Esilio, ecc.).
+Scurovisione
+L’eidolon ottiene Scurovisione 18 m.
+Comunicazione
+Un eidolon parla l’ultraterran, la lingua degli esterni, oltre a tutti i linguaggi conosciuti dal proprio convocatore. Inoltre, l’eidolon e il suo convocatore possono comunicare mentalmente fintanto che si trovano entro 36 m l’uno dall’altro.
+Oggetti magici
+Se un eidolon ha le appendici adatte, può utilizzare gli oggetti magici nello slot appropriato. Convocatore ed eidolon condividono gli slot degli oggetti magici e, se entrambi indossano un oggetto che occupa il medesimo slot, solo quello indossato dal convocatore rimane attivo.
+Legame arcano
+Un convocatore può lanciare qualsiasi incantesimo da convocatore che abbia come bersaglio “incantatore” sul suo eidolon, lanciandolo come incantesimo di contatto a distanza. Un convocatore può lanciare incantesimi sull’eidolon anche se solitamente non hanno effetto sugli esterni. Questa capacità non permette di condividere con l’eidolon capacità magiche che non sono incantesimi, anche se funzionano come tali.
+Riduzione del danno
+L’eidolon ottiene una RD/– variabile in base al livello di convocatore, come indicato nella Tabella dell’eidolon.
+Eludere
+Quando non è indifeso, un eidolon non subisce danni se supera il Tiro Salvezza su Riflessi contro un attacco che normalmente infligge la metà dei danni in caso di riuscita.
+Aumento di caratteristica
+L’eidolon aumenta permanentemente di 1 un punteggio di caratteristica a scelta.
+Devozione
+Un eidolon ottiene bonus morale +4 ai Tiri Salvezza contro effetti di [AMMALIAMENTO: CHARME E COMPULSIONE].
+Multiattacco
+In qualsiasi momento in cui l’eidolon ha tre o più attacchi naturali, quelli secondari sono effettuati al bonus di attacco migliore −2, anziché −5. In qualsiasi momento in cui l’eidolon ha meno di tre attacchi naturali, riceve un secondo attacco con l’attacco naturale primario con penalità −5 al tiro per colpire.
+Eludere migliorato
+Quando non è indifeso e utilizza eludere, l’eidolon subisce solo la metà dei danni in caso di fallimento.
+Forme degli eidolon
+Al 1° livello, un convocatore sceglie la forma base del proprio eidolon, che ne determina taglia, velocità, Tiri Salvezza buoni ed evoluzioni base gratuite.
+Forma
+Taglia
+Vel.
+TS buoni
+Evoluzioni base
+Aberrante
+Piccola/media
+6 m
+Tempra, Riflessi
+Morso; Massa tentacolare → Afferrare (massa tentacolare); Armatura naturale migliorata
+Amorfo
+Piccola/media
+6 m
+Tempra, Volontà
+Massa tentacolare → Afferrare (massa tentacolare); Corpo informe
+Bipede
+Piccola/media
+9 m
+Tempra, Volontà
+Arti [braccia] → Artigli o Schianto (a scelta); Arti [gambe]; Competenza nelle armi semplici
+Quadrupede
+Piccola/media
+12 m
+Tempra, Riflessi
+Morso → Afferrare (morso); Arti [gambe]; Arti [gambe]
+Serpentiforme
+Piccola/media
+6 m
+Riflessi, Volontà
+Morso → Afferrare (morso); Coda → Colpo di coda → Portata (colpo di coda)
+Taurico
+Piccola (media: 2 pe)
+12 m
+Tempra, Volontà
+Arti [braccia] → Artigli o Schianto (a scelta); Arti [gambe]; Arti [gambe]
+Taglia Piccola: +2 Destrezza, −4 Forza, −2 Costituzione, +1 alla CA, +1 ai tiri per colpire, +2 Furtività, −2 alle manovre in combattimento (BMC e DMC); i danni degli attacchi vengono ridotti di conseguenza.
+Corpo informe (evoluzione base dell’Amorfo)
+L’eidolon è privo di arti e organi fissi: non può essere reso prono e non concede ai nemici il bonus per l’accerchiamento (non può essere fiancheggiato); può inoltre comprimersi attraverso spazi stretti come una creatura di una taglia inferiore, senza penalità. L’immunità completa a colpi critici e danni da precisione resta l’evoluzione Amorfo da 4 punti. Non avendo arti iniziali, un eidolon amorfo deve prima acquistare le evoluzioni Arti [braccia]/[gambe] per poter usare le evoluzioni che le richiedono.
+
+Evoluzioni
+Un convocatore personalizza il proprio eidolon spendendo i punti evoluzione indicati nella Tabella dell’eidolon. Ogni evoluzione ha un costo in punti; salvo diversamente indicato, ciascuna può essere selezionata una sola volta e l’eidolon deve soddisfarne gli eventuali requisiti. Alcune evoluzioni possono essere concatenate (indicate con →): per ottenere quelle successive occorre prima possedere le precedenti.
+Lo stesso attacco naturale non può vedere aumentato il proprio dado di danno sia dal talento Attacco Naturale Migliorato sia dall’evoluzione Danno Naturale Migliorato: i due incrementi non si cumulano sul medesimo attacco. Per beneficiare di entrambi, vanno applicati ad attacchi naturali diversi.
+Evoluzioni da 1 punto
+Addestrato
+L’eidolon ottiene bonus razziale +5 a un’abilità a scelta.
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata un’abilità diversa.
+Afferrante
+L’eidolon sviluppa barbigli, ventose o altri sistemi atti a trattenere i nemici, ottenendo così +4 alle manovre per iniziare o mantenere una lotta.
+Anfibio
+L'eidolon ottiene il talento Anfibio (pari a velocità su terreno).
+Apparato natatorio
+L'eidolon sviluppa mani palmate, pinne o un altro sistema natatorio, ottenendo così bonus +6 m alla velocità di Nuotare.
+Speciale: Questa evoluzione può essere selezionata più volte.
+Armatura naturale migliorata
+L'eidolon sviluppa una difesa naturale che gli fornisce bonus di potenziamento +2 alla CA Naturale già esistente.
+Speciale: Questa evoluzione può essere selezionata una seconda volta al 10° livello di convocatore.
+Artigli
+Requisiti: Evoluzione Arti [braccia] a cui associare questa evoluzione.
+L’eidolon ottiene due attacchi primari di Artiglio che infliggono 1d4 danni.
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un’evoluzione Arti [braccia] a cui non sia già stata associata un’altra evoluzione.
+Attacchi magici (Sop)
+Gli attacchi dell'eidolon sono considerati magici. Al 10° livello di convocatore, gli attacchi dell'eidolon sono anche considerati allineati come l'allineamento del convocatore.
+Bonus ai Tiri Salvezza
+L’eidolon ottiene +3 ai Tiri Salvezza contro un tipo di effetto a scelta (ad esempio [PAURA], [VELENO] o [INFLUENZA MENTALE]).
+Speciale: selezionabile più volte, ogni volta per un tipo di effetto diverso.
+Cacciatore
+Requisiti: evoluzione Fiuto.
+L’eidolon può seguire le tracce tramite l’olfatto usando Sopravvivenza e ottiene +4 alle prove per inseguire una creatura di cui ha percepito l’odore.
+Cavalcatura
+Requisiti: Forma base aberrante, quadrupede o serpentiforme.
+L’eidolon può fungere da cavalcatura, ma solo per il proprio convocatore. Quando è in sella al suo eidolon, il convocatore non deve effettuare prove di Cavalcare per gestirlo ed ottiene il talento Cavalcatura ridotta (deve soddisfarne i requisiti).
+Coda
+L’eidolon sviluppa una lunga coda che gli fornisce bonus razziale +4 Acrobazia (equilibrio).
+Speciale: Questa evoluzione può essere selezionata più volte, ma per ogni coda aggiuntiva il bonus ad Acrobazia (equilibrio) aumenta di +2.
+Coda prensile
+Requisiti: evoluzione Coda.
+La coda dell’eidolon diventa abile: può riporre o recuperare un oggetto immagazzinato come azione gratuita, reggere oggetti leggeri e manipolare interruttori, leve o simili. Non può impugnare armi né essere usata per attaccare, a meno di altre evoluzioni.
+Colpo di coda
+Requisiti: Evoluzione Coda a cui associare questa evoluzione.
+L’eidolon ottiene un attacco secondario di Colpo di coda che infligge 1d8 danni (attacco secondario: -5 al tiro per colpire, metà bonus di Forza al danno). Se l’eidolon effettua un solo attacco di Colpo di coda, esso è considerato un attacco naturale primario.
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un’evoluzione Coda a cui non sia già stata associata un’altra evoluzione.
+Competenza nelle armi da guerra
+Requisiti: Evoluzione Competenza nelle armi semplici. L'eidolon ottiene il talento Competenza nelle armi da guerra.
+Competenza nelle armi semplici
+L'eidolon ottiene il talento Competenza nelle armi semplici.
+Danno naturale migliorato
+Requisiti: Un tipo di attacco naturale posseduto.
+I dadi di danno del tipo di attacco naturale scelto aumentano di una categoria (es. 1d6 → 1d8).
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un tipo di attacco naturale diverso. Il dado di danno di un attacco naturale non può essere aumentato sia da questa evoluzione sia dal talento Attacco Naturale Migliorato: i due incrementi non si cumulano sullo stesso attacco.
+Fiuto
+L’eidolon ottiene Fiuto 9 m.
+Morso
+L'eidolon ottiene un attacco primario di Morso che infligge 1d6 danni + una volta e mezzo il bonus di Forza.
+Portata
+Requisiti: Un tipo di attacco naturale posseduto.
+La portata del tipo di attacco naturale scelto aumenta di 1,5 m.
+Presenza innaturale
+Gli animali comuni non si avvicinano a meno di 3 m dall’eidolon, salvo prova di Cavalcare o Sopravvivenza con CD 25.
+Pungiglione
+Requisiti: Evoluzione Coda a cui associare questa evoluzione.
+L'eidolon sviluppa un lungo aculeo sulla sommità della coda, ottenendo un attacco primario di Pungiglione che infligge 1d6 danni.
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un’evoluzione Coda a cui non sia già stata associata un’altra evoluzione.
+Resistenza
+L'eidolon sviluppa RE 5 verso un tipo di energia a scelta tra acido, elettricità, freddo o fuoco. Questa RE aumenta di 5 al 6° livello e ogni tre ulteriori livelli di convocatore.
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un tipo di energia diversa.
+Sanguinamento
+Requisiti: Un tipo di attacco naturale posseduto.
+Il tipo di attacco naturale scelto infligge [sanguinamento 1d6].
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un tipo di attacco naturale diverso.
+Sbilanciare
+Requisiti: Evoluzione Morso.
+Quando l’eidolon colpisce con un attacco di Morso una creatura di taglia pari o inferiore alla propria, come azione gratuita che non provoca attacchi di opportunità, può effettuare contro di essa una manovra di Sbilanciare. Se la manovra fallisce, l'eidolon non può essere sbilanciato a sua volta.
+Scalare
+L'eidolon sviluppa un efficiente sistema di scalata, ottenendo così una velocità di Scalare pari a metà velocità su terreno.
+Schianto
+Requisiti: Evoluzione Arti [braccia] a cui associare questa evoluzione.
+L’eidolon ottiene un devastante attacco primario di Schianto che infligge 1d8 danni. Sostituzione: Se l’eidolon possiede l’evoluzione Schianto grazie alla propria forma base, può sostituirla con l’evoluzione Chele spendendo 1 solo punto evoluzione.
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un’evoluzione Arti [braccia] a cui non sia già stata associata un’altra evoluzione.
+Sguardo ipnotico
+Come azione standard, l’eidolon può dirigere il proprio sguardo verso una creatura entro 9 m. La vittima deve superare un Tiro Salvezza su Volontà con CD 10 + metà Dadi Vita dell’eidolon + bonus di Carisma dell’eidolon o diventare inferma per 1 minuto. Questo è un effetto [visivo] e [influenza mentale].
+Slot condiviso
+Se il convocatore e l’eidolon indossano oggetti magici nei medesimi slot, un singolo oggetto dell’eidolon rimane attivo.
+Speciale: Questa evoluzione può essere selezionata più volte e ogni volta un singolo oggetto addizionale dell’eidolon può rimanere attivo
+Spingere
+Requisiti: Un tipo di attacco naturale posseduto.
+Quando l’eidolon colpisce con il tipo di attacco naturale scelto una creatura di taglia pari o inferiore alla propria, come azione gratuita che non provoca attacchi di opportunità, può effettuare contro di essa una manovra di Spingere.
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un tipo di attacco naturale diverso.
+Tentacolo
+L'eidolon sviluppa un lungo tentacolo sinuoso, ottenendo un attacco secondario di Tentacolo che infligge 1d4 danni (attacco secondario: -5 al tiro per colpire, metà bonus di Forza al danno). Se l’eidolon effettua un solo attacco di Tentacolo, esso è considerato un attacco naturale primario.
+Speciale: Questa evoluzione può essere selezionata più volte.
+Tiri Salvezza migliorati
+L'eidolon ottiene +1 ai Tiri Salvezza.
+Speciale: Questa evoluzione può essere selezionata una seconda volta al 10° livello di convocatore.
+Trascinare
+Requisiti: Un tipo di attacco naturale posseduto che abbia una portata di almeno 3 m.
+Quando l’eidolon colpisce con il tipo di attacco naturale scelto una creatura di taglia pari o inferiore alla propria, come azione gratuita che non provoca attacchi di opportunità, può effettuare contro di essa una manovra di Trascinare.
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un tipo di attacco naturale diverso.
+Viscido
+L’eidolon ottiene +4 Artista della fuga e +4 DMC per sfuggire alla lotta.
+Vista vitale
+Come azione di movimento l’eidolon può concentrarsi su un singolo individuo in vista entro 18 m e determinare se è vivo, morto o non morto.
+Evoluzioni da 2 punti
+Afferrare
+Requisiti: Convocatore di 7° livello.
+Quando l’eidolon colpisce con il tipo di attacco naturale scelto una creatura di taglia pari o inferiore alla propria, come azione gratuita che non provoca attacchi di opportunità, può effettuare contro di essa una manovra di Afferrare. Se la manovra ha successo, l'eidolon entra in lotta con la vittima.
+Arti [braccia]
+L'eidolon sviluppa un paio di braccia dotate di mani che possono manipolare gli oggetti, brandire armi e fungere da requisito per altre evoluzioni.
+Speciale: Questa evoluzione può essere selezionata più volte.
+Arti [gambe]
+L'eidolon sviluppa un paio di gambe o zampe che gli forniscono bonus +3 m alla velocità su terreno.
+Speciale: Questa evoluzione può essere selezionata più volte.
+Attacchi energetici (Sop)
+Si sceglie un tipo di energia tra acido, elettricità, freddo o fuoco e tutti gli attacchi naturali dell'eidolon infliggono 1d6 danni extra del tipo di energia scelto.
+Speciale: Questa evoluzione può essere selezionata più volte.
+Aumento di caratteristica
+L'eidolon aumenta permanentemente di 2 un punteggio di caratteristica a scelta. Costo extra: Questa evoluzione ha un costo di 4 punti quando incrementa i punteggi di Forza o Costituzione di un eidolon di taglia grande o enorme.
+Speciale: Questa evoluzione può essere selezionata una volta ogni cinque livelli di convocatore, ma ogni volta deve essere associata a una caratteristica diversa.
+Aura innaturale
+L'eidolon ottiene bonus di circostanza +2 alla CA nei confronti degli animali.
+Barriera arcana
+Metà del bonus di CA Naturale totale dell’eidolon è considerato invece bonus di deviazione alla CA.
+Chele
+Requisiti: Evoluzione Arti [braccia] a cui associare questa evoluzione.
+L’eidolon ottiene due attacchi primari di Chela che infliggono 1d6 danni. Gli eidolon che associano l'evoluzione Afferrare alle Chele ottengono bonus +2 alle manovre di Lottare. Sostituzione: Se l’eidolon possiede l’evoluzione Schianto grazie alla propria forma base, può sostituirla con l’evoluzione Chele spendendo 1 solo punto evoluzione.
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un’evoluzione Arti [braccia] a cui non sia già stata associata un’altra evoluzione.
+Corna
+L'eidolon sviluppa una o più escrescenze ossee, ottenendo un attacco primario di Corna che infligge 1d10 danni.
+Fortificazione
+Requisiti: Convocatore di 4° livello.
+L’eidolon ha il 25% di probabilità di ignorare i colpi critici e i danni da precisione.
+Speciale: Questa evoluzione può essere selezionata una seconda volta al 7° livello di convocatore, portando la probabilità di ignorare al 50%.
+Immunità (Sop)
+L'eidolon ottiene immunità verso un tipo di energia a scelta tra acido, elettricità, freddo o fuoco.
+Magia condivisa (Mag)
+Una volta al giorno, l’eidolon può lanciare un incantesimo conosciuto (ma non necessariamente preparato) dal proprio convocatore. L’incantesimo deve essere di 1 livello inferiore a quello massimo lanciabile dal convocatore. Tutti i parametri dell’incantesimo sono calcolati sulle statistiche e sul livello del convocatore. L’incantesimo lanciato dall’eidolon non ha bisogno di soddisfare le eventuali componenti somatiche o vocali.
+Massa tentacolare
+L’eidolon ottiene un attacco di Massa tentacolare che infligge 1d8 danni. Questo attacco è sempre secondario, a meno che la Massa tentacolare non sia l’unico attacco naturale dell’eidolon, nel qual caso è primario. Gli eidolon che associano l’evoluzione Afferrare alla Massa tentacolare ottengono +2 alle prove per cominciare una lotta e possono afferrare anche i nemici di una taglia superiore alla propria.
+Percezione tellurica
+Requisiti: Convocatore di 7° livello. L'eidolon ottiene Percezione tellurica 9 m.
+Sete di sangue
+Requisiti: Convocatore di 7° livello.
+Se durante un combattimento l'eidolon subisce da una singola fonte un numero di danni pari o superiore al triplo del livello del convocatore, viene colto da una sete di sangue sfrenata. Mentre è preda della sete di sangue l’eidolon ottiene vantaggio nei tiri per colpire ma, all’inizio di ogni proprio turno, ha il 5% cumulabile di probabilità di diventare affaticato e di porre termine alla sete di sangue. Dopo esser stato colto dalla sete di sangue, l’eidolon è affaticato per 10 minuti. L’eidolon non può essere colto dalla sete di sangue se è affaticato.
+Speroni
+Requisiti: Convocatore di 4° livello; Forma base quadrupede.
+Quando l’eidolon effettua con successo una manovra di Lottare, può effettuare contro la vittima due attacchi primari di Sperone che infliggono 1d4 danni ciascuno. Gli attacchi forniti da questa evoluzione contano come un singolo attacco al fine di determinare il numero massimo di attacchi effettuabili dall'eidolon.
+Squarciare
+Requisiti: Convocatore di 4° livello; evoluzioni Artigli e Afferrare.
+Quando l’eidolon inizia o mantiene con successo una lotta, effettua due attacchi di Artiglio contro la creatura Afferrata (danni pari all’Artiglio). Questi attacchi contano ai fini del numero massimo di attacchi.
+Squartare
+Requisiti: Convocatore di 6° livello; Evoluzione Artigli.
+Se nel proprio turno l'eidolon colpisce il medesimo nemico con almeno due attacchi di Artiglio, gli infligge un danno extra pari al danno di Artiglio + una volta e mezzo il bonus di Forza.
+Stritolare
+Requisiti: Evoluzione Afferrare.
+Quando l’eidolon mantiene con successo una lotta utilizzando l’evoluzione Afferrare, infligge al nemico un danno extra pari al danno dell’attacco usato per l’Afferrare. Questo danno non si applica nel round in cui la lotta ha inizio, ma a partire dal round successivo, per ogni round in cui l’eidolon continua a mantenere la lotta.
+Talentuoso
+L’eidolon ottiene un talento scelto tra quelli Generali o di Combattimento (deve soddisfarne i requisiti).
+Testa
+L’eidolon sviluppa una testa aggiuntiva che può fungere da requisito per altre evoluzioni (Morso, Sguardo ipnotico, ecc.).
+Speciale: selezionabile più volte.
+Travolgere
+Come azione di round completo l'eidolon può tentare di calpestare le creature di taglia inferiore alla propria. Ciò funziona come una manovra di Oltrepassare, tranne per il fatto che l'eidolon deve solo spostarsi sopra gli avversari lungo il suo cammino, senza dover effettuare alcun tiro. Le creature oltrepassate subiscono 1d6 danni + una volta e mezzo il bonus di Forza. Le vittime possono effettuare un attacco di opportunità contro l’eidolon con -4 oppure possono superare un Tiro Salvezza su Riflessi con CD 10 + metà Dadi Vita dell’eidolon + bonus di Forza dell’eidolon per dimezzare i danni. Si può infliggere i danni del travolgimento a una specifica creatura una sola volta per round.
+Veleno
+Requisiti: Convocatore di 7° livello; Evoluzione Morso o Pungiglione a cui associare questa evoluzione.
+Quando l’eidolon colpisce con l’attacco a cui è associata questa evoluzione, la vittima deve superare un Tiro Salvezza con CD 10 + metà Dadi Vita dell’eidolon + bonus di Costituzione dell’eidolon o diventa rallentata per 3 round. Costo extra: Spendendo 1 punto evoluzione addizionale, la CD del veleno di uno specifico attacco a cui è associata questa evoluzione aumenta di 2.
+Evoluzioni da 3 punti
+Balzare
+Requisiti: Convocatore di 7° livello; Forma base quadrupede. L'eidolon ottiene Balzare.
+Inghiottire
+Requisiti: Convocatore di 9° livello; Evoluzione Afferrare associata all’evoluzione Morso.
+Se l’eidolon comincia il proprio turno con un nemico di taglia inferiore alla propria in lotta all'interno della sua bocca (vedi evoluzione Afferrare), come azione gratuita che non provoca attacchi di opportunità, può effettuare contro di lui una manovra in combattimento. Se la manovra riesce, la vittima è ingoiata e subisce i danni del Morso. Nel proprio turno, la vittima inghiottita subisce un numero di danni contundenti pari a quelli del Morso dell’eidolon +1d6. Una creatura inghiottita mantiene la condizione in lotta, ma può tentare di aprirsi una via di fuga con un'arma leggera perforante o tagliente infliggendo un numero di danni pari a 1/10 dei Punti Ferita massimali dell'eidolon. Se una creatura inghiottita riesce a fuggire, l'eidolon non può utilizzare di nuovo questa evoluzione finché il danno subito non è stato guarito. In alternativa, una creatura inghiottita può tentare di sfuggire alla lotta come di norma. Il successo indica che è risalita alla bocca dell'eidolon, dove potrà tentare di scappare o essere inghiottita di nuovo.
+Levitazione
+Proto-ali, membrane aerostatiche, magia… l’eidolon è dotato di un sistema di movimento che gli fornisce una velocità di Volare di 9 m (buona) ma restando a un’altezza massima di 1 m da terra.
+Mente aliena
+Requisiti: Convocatore di 9° livello.
+La mente dell'eidolon diventa pericolosamente incomprensibile per i mortali. Le creature non aberrazioni che leggono la mente dell'eidolon o entrano in contatto telepatico con esso subiscono 1d4 danni a Saggezza. Inoltre, come azione veloce l’eidolon può iniziare un contatto mentale con una creatura entro 18 per infliggerle 1d4 danni a Saggezza. La vittima può superare un Tiro Salvezza su Volontà con CD 10 + metà Dadi Vita dell’eidolon + bonus di Carisma dell’eidolon per dimezzare i danni. Se il tiro riesce, la vittima diventa immune per 24 ore a ulteriori usi di questa capacità da parte del medesimo eidolon. Un convocatore è immune alla mente aliena del proprio eidolon. Questo è un effetto di [influenza mentale].
+Percezione cieca
+Requisiti: Convocatore di 9° livello.
+L’eidolon ottiene Percezione cieca 9 m.
+Presenza inquietante
+Requisiti: Convocatore di 11° livello.
+Come parte di una carica o di un'azione di attacco, 'eidolon può emanare un’aura fastidiosa. Se ciò accade, gli avversari entro 9 m dall’eidolon devono superare un Tiro Salvezza su Volontà con CD 10 + metà Dadi Vita dell’eidolon + bonus di Carisma dell’eidolon o essere scossi per 3d6 round. Le creature con 4 o meno Dadi Vita rispetto all’eidolon diventano invece spaventate. Le creature con più Dadi Vita rispetto all’eidolon sono immuni a questo effetto. Questa evoluzione non cumula gli stati di paura.
+Ragnatela
+Requisiti: Convocatore di 7° livello.
+L’eidolon sviluppa un paio di filiere che gli consentono di tessere ragnatele. Otto volte al giorno, l’eidolon può lanciare una ragnatela come attacco di contatto a distanza contro un nemico di taglia pari o inferiore alla propria. La ragnatela ha un incremento di gittata 3 m (x5). Una creatura intralciata dalla ragnatela può liberarsi superando una prova di Artista della fuga o di Forza, entrambe con -4, con una CD pari a 10 + metà Dadi Vita dell’eidolon + bonus di Costituzione dell’eidolon. La ragnatela ha Durezza 0 e un numero di Punti Ferita pari ai Dadi Vita dell'eidolon.
+Sacrificio di sangue (Sop)
+Tre volte al giorno, come azione standard l'eidolon può sacrificare fino a 2 Punti Ferita per Dado Vita posseduto, per curare un alleato toccato di un numero di danni pari a metà dei Punti Ferita sacrificati.
+Scavare
+Requisiti: Convocatore di 7° livello.
+L’eidolon ottiene una velocità di Scavare pari a metà della propria velocità su terreno, ma solo attraverso terreno malleabile (terra, sabbia, argilla, pietrisco e simili). Mentre scava, l’eidolon deve trattenere il fiato e il terreno smosso ricade immediatamente dietro di lui, senza lasciare un tunnel.
+Evoluzioni da 4 punti
+Amorfo
+L'eidolon sviluppa una fisionomia priva di punti deboli distinguibili, ottenendo così immunità ai colpi critici e ai danni da precisione.
+Evanescenza (Sop)
+Requisiti: Convocatore di 15° livello.
+Una volta al giorno, come azione veloce l’eidolon può ottenere per 5 round una probabilità di essere mancato del 45%.
+Guarigione
+Requisiti: Convocatore di 11° livello.
+Dopo essersi focalizzato per 1 minuto, l'eidolon ottiene Guarigione rapida 1. Si può curare in questo modo un massimo di danni al giorno pari ai Punti Ferita dell’eidolon.
+Immunità a un’energia
+Requisiti: Convocatore di 9° livello.
+L’eidolon sceglie un tipo di energia tra acido, elettricità, freddo o fuoco e diventa immune ai danni di quel tipo.
+Speciale: selezionabile più volte, ogni volta per un tipo di energia diverso.
+Porta dimensionale (Mag)
+Requisiti: Convocatore di 17° livello.
+Una volta al giorno, l’eidolon può teletrasportarsi entro 50 m.
+Resistenza agli incantesimi
+Requisiti: Convocatore di 9° livello.
+L'eidolon ottiene una RI pari a 10 + livello di convocatore. Questa RI non si applica agli incantesimi lanciati dal convocatore. Si può sopprimere o riattivare questa RI come azione veloce.
+Soffio
+Requisiti: Convocatore di 9° livello.
+L'eidolon sceglie un tipo di energia tra acido, elettricità, freddo o fuoco. Una volta al giorno, l’eidolon può emettere un soffio in un cono di 9 m o in una linea di 18 m che infligge 1d6 danni del tipo ti energia scelto per Dado Vita posseduto. Le creature nell’area possono può superare un Tiro Salvezza su Riflessi con CD 10 + metà Dadi Vita dell’eidolon + bonus di Costituzione dell’eidolon per dimezzare i danni. Costo extra: Spendendo 1 punto evoluzione addizionale, si può emettere un soffio aggiuntivo, fino a un massimo di tre soffi al giorno.
+Taglia superiore
+Requisiti: Taglia media, Convocatore di 9° livello per taglia grande o Convocatore di 13° livello per taglia enorme.
+L'eidolon diventa di taglia grande, ottenendo bonus +4 Forza (taglia), -2 Destrezza, +2 Costituzione (taglia), +2 alla CA Naturale, -1 CA, -1 tiri per colpire, -2 Furtività, +2 BMC, +2DMC (taglia). Se l’eidolon è di forma bipede ottiene anche portata 3 m. Costo extra: Spendendo 6 punti evoluzione addizionali, l'eidolon diventa invece di taglia enorme, ottenendo +8 Forza (taglia), -4 Destrezza, +4 Costituzione (taglia), +5 CA Naturale, -2 CA, -2 tiri per colpire, -4 Furtività, +3 BMC, +3 DMC (taglia). Se l’eidolon è di forma bipede ottiene anche portata 4,5 m, altrimenti ottiene portata 3 m.
+Vista cieca
+Requisiti: Convocatore di 11° livello; Evoluzione Percezione cieca.
+L’eidolon ottiene Vista cieca entro 9 m.
+
+Doti da convocatore
+Metaevocazioni: le doti classificate come [metaevocazione] vengono usate per cambiare le caratteristiche degli esterni evocati tramite evoca esterno. Si può applicare una sola dote di metaevocazione alla volta.
+Eidolon arcanofocalizzante
+Requisiti: Convocatore di 5° livello.
+Il convocatore ottiene i benefici del talento Incantesimi focalizzati (tutti), ma può beneficiarne solo quando si trova entro 4,5 m dall’eidolon.
+Eidolon guardiano
+Fintanto che si trova entro 4,5 m dall’eidolon, il convocatore ottiene +1 ai Tiri Salvezza.
+Eidolon meditativo
+Requisiti: Convocatore di 5° livello.
+Fintanto che si trova entro 4,5 m dall’eidolon, il convocatore ottiene +2 alle prove di Concentrazione.
+Eidolon persistente
+Se il convocatore cade privo di sensi, si addormenta o muore, l’eidolon scompare dopo un numero di round pari al livello di convocatore. Se il convocatore torna cosciente prima che questi round terminino, l’eidolon non scompare.
+Eidolon vigile
+L’eidolon ottiene la condizione sempre pronto. Se quando si determina l’Iniziativa di uno scontro l’eidolon si trova entro 4,5 m dal convocatore, anche quest’ultimo ottiene la condizione sempre pronto.
+Evocazione extra
+Requisiti: Privilegio di classe Evoca esterno.
+Si ottiene 1 utilizzo giornaliero extra di evoca esterno.
+Evocazioni arcane [metaevocazione]
+La creatura evocata tramite evoca esterno ottiene bonus +2 ai Tiri Salvezza contro gli incantesimi e i suoi attacchi contano come magici.
+Evocazioni caustiche [metaevocazione]
+La creatura evocata tramite evoca esterno ottiene immunità all’acido. Inoltre, i suoi attacchi con le armi e con gli attacchi naturali infliggono 1 danno da acido extra per livello di evoca esterno utilizzato.
+Evocazioni coriacee
+Requisiti: Dote da convocatore Evocazioni potenziate.
+Le creature evocate tramite evoca esterno ottengono bonus di potenziamento +2 alla CA Naturale già esistente.
+Evocazioni distanti
+Le creature evocate tramite evoca esterno possono essere collocate entro 9 m dal convocatore, anziché adiacenti ad esso.
+Evocazioni durature
+Le creature evocate tramite evoca esterno permangono per 1 minuto per livello, anziché per 1 minuto. Inoltre, ottengono vantaggio nei Tiri Salvezza contro gli effetti che bandiscono le creature extraplanari (come gli incantesimi Congedo ed Esilio).
+Evocazioni elettrostatiche [metaevocazione]
+La creatura evocata tramite evoca esterno ottiene immunità all’elettricità. Inoltre, i suoi attacchi con le armi e con gli attacchi naturali infliggono 1 danno da elettricità extra per livello di evoca esterno utilizzato.
+Evocazioni erranti [metaevocazione]
+Requisiti: Convocatore di 3° livello.
+La creatura evocata tramite evoca esterno ignora le penalità al movimento dovute ai terreni difficili, eccetto quelli manipolati magicamente.
+Evocazioni esplosive [metaevocazione]
+Requisiti: Convocatore di 9° livello.
+La creatura evocata tramite evoca esterno permane solamente per 1 round, ma beneficia degli effetti dell’incantesimo Velocità e ottiene vantaggio nei tiri per colpire, Tiri Salvezza e prove di abilità.
+Evocazioni evanescenti [metaevocazione]
+Requisiti: Convocatore di 7° livello.
+La creatura evocata tramite evoca esterno ha il 15% di probabilità di essere mancata.
+Evocazioni lunari [metaevocazione]
+La creatura evocata tramite evoca esterno può vedere al buio, anche all’interno delle zone di oscurità magica. Inoltre, i suoi attacchi con le armi e con gli attacchi naturali infliggono 1 danno da freddo extra per livello di evoca esterno utilizzato.
+Evocazioni messaggere
+Requisiti: Convocatore di 3° livello.
+Quando il convocatore lancia un incantesimo a contatto, può designare l’eidolon o una creatura evocata tramite evoca esterno come “colui che crea il contatto”. Per fare ciò i due devono trovarsi entro 4,5 m di distanza al momento del lancio dell’incantesimo. La creatura o l’eidolon può quindi mantenere la carica e trasmettere l'incantesimo come fosse il convocatore stesso. La carica dell’incantesimo si dissolve se il convocatore lancia un altro incantesimo.
+Evocazioni nauseabonde [metaevocazione]
+Requisiti: Convocatore di 5° livello.
+La creatura evocata tramite evoca esterno secerne un odore intenso, come un orribile fetore, un insostenibile aroma di incenso o un profumo oltremodo dolce. Le creature viventi che iniziano il proprio turno adiacenti alla creatura devono superare un Tiro Salvezza su Tempra con CD 10 + metà Dadi Vita dell’esterno + bonus di Costituzione dell’esterno o diventare inferme per 1 minuto. Questo è un effetto di [veleno]. Se il tiro riesce, la vittima diventa immune per 24 ore all’effetto di questa dote da convocatore, indipendentemente dalla creatura che emana l’odore. Nota: Tramite questa dote si può evocare solo creature di ameno 1 livello inferiore a quello massimo evocabile.
+Evocazioni potenziate
+Le creature evocate tramite evoca esterno ottengono bonus +1 ai tiri per colpire e +2 ai danni con le armi e gli attacchi naturali.
+Evocazioni rapide
+Requisiti: Convocatore di 15° livello.
+Il convocatore può spendere 2 usi giornalieri extra di evoca esterno per usare tale capacità come azione veloce, anziché standard.
+Evocazioni solari [metaevocazione]
+La creatura evocata tramite evoca esterno ottiene immunità al fuoco. Inoltre, i suoi attacchi con le armi e con gli attacchi naturali infliggono 1 danno da fuoco extra per livello di evoca esterno utilizzato.
+Evocazioni stellari [metaevocazione]
+La creatura evocata tramite evoca esterno ottiene bonus +3 ai Tiri Salvezza contro gli effetti di [ammaliamento: charme e compulsione] e [sonno]. Inoltre, i suoi attacchi con le armi e con gli attacchi naturali sono considerati in argento e ferro freddo. Infine, le creature ferite da un’arma o un attacco naturale della creatura, subiscono per 1 round -20 Furtività e non possono beneficiare di alcuna probabilità di essere mancate.
+Punti evoluzione extra
+I punti evoluzione massimi dell’eidolon del convocatore aumentano di 1. Speciale: Questa dote può essere selezionata una volta addizionale al 5°, al 9° e al 13° livello.
+
+Archetipi del convocatore
+Leader empireo
+Un leader empireo possiede capacità uniche che gli consentono di comandare efficacemente le forze evocate. Questi peculiari convocatori non hanno un eidolon, ma godono della più totale devozione degli alleati e degli esterni che evocano.
+Competenze offensive: Competenza nelle armi semplici, Competenza nelle armi da guerra.
+Competenze difensive: Competenza nelle armature leggere, Competenza nelle armature medie, Competenza negli scudi piccoli, Competenza negli scudi leggeri.
+Ricchezza iniziale: 135 mo.
+Fallimento degli incantesimi
+Al 1° livello, un leader empireo non è soggetto al fallimento degli incantesimi da convocatore con componenti somatiche, dovuto ad armature leggere, armature medie e scudi.
+Privilegio di classe modificato: Incantesimi al 1° livello.
+Evocatore talentuoso
+Al 1° livello, un leader empireo ottiene due volte la dote da convocatore Evocazione extra. Inoltre ottiene la dote da convocatore Evocazioni potenziate, ma il bonus da essa offerto aumenta di +1 ogni quattro livelli oltre il 1°.
+Privilegio di classe sostituito: Eidolon al 1° livello.
+Doti da convocatore
+Quando un leader empireo ottiene un talento in seguito all’avanzamento di livello, può scegliere invece di ottenere una dote da convocatore relativa all’evocazione degli esterni (quelle che iniziano con la parola “Evocazioni”).
+Privilegio di classe modificato: Dote da convocatore a ciascun livello.
+Cura empirea (Sop)
+Al 1° livello, come azione standard che provoca attacchi di opportunità, un leader empireo può scegliere una creatura in vista entro 9 m che sia stata evocata tramite evoca esterno, e curarla di un numero di danni pari a 1d6 + 1d6 ogni due livelli oltre il 1°. Si può usare questa capacità per un numero di volte al giorno pari a 3 + bonus di Carisma.
+Privilegio di classe sostituito: Legame vitale al 1° livello.
+Evocazioni coriacee
+Al 2° livello, un leader empireo ottiene la dote da convocatore Evocazioni coriacee.
+Privilegio di classe sostituito: Sensi dell’eidolon al 2° livello.
+Evocazioni combattive
+Al 4° livello, all’alba di ogni giorno un leader empireo può scegliere un talento di Combattimento e lo fornisce a tutte le creature che quel giorno evocherà tramite evoca esterno. Le creature evocate non devono soddisfare i requisiti del talento, ma deve farlo il leader empireo stesso, usando come bonus di attacco base il proprio livello. Al 12° livello, tramite questa capacità un leader empireo può fornire due talenti di Combattimento, e uno può fungere da requisito per l’altro.
+Privilegio di classe sostituito: Scudo alleato al 4° livello e Scudo alleato superiore al 12° livello.
+Martiri gloriosi (Sop)
+Al 6° livello, come azione standard un leader empireo può far detonare una creatura evocata tramite evoca esterno, facendo sì che infligga a ogni creatura adiacente un numero di danni da forza pari a 1d6 ogni due Dadi Vita posseduti. Le vittime possono superare un Tiro Salvezza su Riflessi con CD 10 + metà livello di leader empireo + bonus di Carisma per dimezzare i danni.
+Privilegio di classe sostituito: Richiamo al 6° livello e Trasposizione all’8° livello.
+Velocità empirea (Sop)
+Al 10° livello, come azione standard un leader empireo può esortare gli alleati entro 15 m, fornendogli per 5 round gli effetti dell’incantesimo Velocità. Si può usare questa capacità una volta al giorno più una al 18° livello.
+Privilegio di classe sostituito: Trasferimento evoluzionistico al 10° livello e Trasferimento evoluzionistico superiore al 18° livello.
+Evocazioni vitali
+Al 14° livello, le creature evocate da un leader empireo tramite evoca esterno ottengono 2 Punti Ferita extra per Dado Vita posseduto.
+Privilegio di classe sostituito: Sacrificio al 14° livello e Fusione al 16° livello.
+Leader supremo (Sop)
+Al 20° livello, un leader empireo viene infuso con il potere dei piani, ottenendo RE 10 (elettricità e fuoco) e immunità all'acido, al freddo, agli effetti di [veleno] e [pietrificazione]. Inoltre, ottiene una velocità di Volare di 9 m (buona) ma restando a un’altezza massima di 1 m da terra. Infine, tutte le creature evocate da un leader empireo tramite evoca esterno infliggono 2d6 danni extra con i propri attacchi naturali e con le armi.
+Privilegio di classe sostituito: Potere assoluto al 20° livello.
+Profeta
+I profeti comunicano con antichi poteri divini per guidare grandi comunità o piccoli gruppi di seguaci. Sono molti i casi nel passato infatti, in cui una riforma religiosa importante o un nuovo culto sono stati ispirati da un profeta, scambiando il suo agire per manifestazioni divine.
+Abilità di classe: ottiene Diplomazia, Conoscenze (religioni) e Raggirare al posto di Conoscenze (natura), Sopravvivenza e Utilizzare congegni magici.
+Divinità
+Un profeta deve essere devoto a una divinità (vedi Volume 3 − Divinità). Un profeta che non sia devoto ad alcuna divinità fallisce automaticamente il lancio di qualsiasi incantesimo da convocatore e non può beneficiare delle capacità straordinarie e magiche di questo archetipo.
+Incantesimi divini
+Un profeta lancia i propri incantesimi come un sacerdote (dal 1° al 9° livello di magia) e deve sceglierli dalla lista del sacerdote.
+Privilegio di classe modificato: Incantesimi al 1° livello. Privilegio di classe sostituito: Evoca esterno a ciascun livello.
+Fallimento degli incantesimi
+Al 1° livello, un profeta non è soggetto al fallimento degli incantesimi da sacerdote con componenti somatiche, dovuto ad armature leggere.
+Privilegio di classe modificato: Incantesimi al 1° livello.
+Consapevolezza divina (Mag)
+Al 10° livello, a volontà, dopo 10 minuti di focalizzazione trascorsi adiacente all'eidolon, un profeta può lanciare l’incantesimo Chiaroudienza.
+Privilegio di classe sostituito: Trasferimento evoluzionistico al 10° livello.
+Attacchi divini
+Al 18° livello, gli attacchi dell’eidolon di un profeta superano qualsiasi RD.
+Privilegio di classe sostituito: Trasferimento evoluzionistico superiore al 18° livello.
+Presenza soverchiante (Mag)
+Al 20° livello, tre volte al giorno, l'eidolon di un profeta può lanciare l’incantesimo Presenza soverchiante con una CD pari a 20 + bonus di Carisma dell'eidolon.
+Privilegio di classe sostituito: Potere assoluto al 20° livello.
+Elementalista
+Gli elementalisti sono maestri nel manipolare l'energia e nell’evocare elementali dotati di grande potere. Questi convocatori possono essere trovati in tutto il mondo, sia come prime linee in battaglia, che come incursori individualisti, pronti a scatenarsi all’occorrenza.
+Affinità a un elemento
+Al 1° livello, un elementalista deve scegliere un tipo di elementale a cui legarsi tra acqua, aria, fuoco o terra. La scelta influisce su alcune capacità dell’eidolon, come mostrato dal colore. L’elementalista può cambiare il tipo di elementale a cui legarsi ogni volta che cambia le evoluzioni del proprio eidolon.
+Eidolon elementale
+Al 1° livello, gli attacchi naturali dell’eidolon di un elementalista infliggono danni da freddo, elettricità, fuoco o acido. Inoltre, ottiene gratuitamente l’evoluzione Immunità (freddo, elettricità, fuoco o acido) (non deve soddisfarne i requisiti). Di contro, l’eidolon ottiene vulnerabilità al fuoco, acido, freddo o elettricità e il numero totale di punti evoluzione a sua disposizione è ridotto di 1. L’eidolon di un elementalista è un esterno elementale del tipo scelto con Affinità a un elemento, ed è soggetto agli effetti che colpiscono gli elementali.
+Evoca elementale (Mag)
+Al 1° livello, un elementalista usa evoca esterno per evocare esclusivamente esterni elementali, scelti fra quelli del grado corrispondente nel Libro degli Elementali (chiedere al DM). Un elementalista non può più evocare gli esterni del Libro delle Evocazioni. Usi al giorno, progressione dei gradi e tutte le altre regole di evoca esterno restano invariati.
+Privilegio di classe modificato: Evoca esterno a ciascun livello.
+Natura elementale (Str)
+Al 2° livello, l’eidolon di un elementalista diventa immune agli effetti di [SANGUINAMENTO], di [PARALISI], di [SONNO], di [STORDIMENTO] e di [VELENO].
+Privilegio di classe sostituito: Sensi dell’eidolon al 2° livello.
+Potere elementale
+Al 4° livello, gli incantesimi che infliggono danni da freddo, elettricità, fuoco o acido lanciati da un elementalista entro 4,5 m dal proprio eidolon, infliggono 1 danno extra per dado lanciato. Al 12° livello, fintanto che si trova entro 4,5 m dal proprio eidolon, un elementalista può ripetere i risultati di 1 ottenuti nei dadi di danno degli incantesimi che infliggono danni da freddo, elettricità, fuoco o acido.
+Privilegio di classe sostituito: Scudo alleato al 4° livello e Scudo alleato superiore al 12° livello.
+Detonazione elementale
+Al 6° livello, un elementalista può far detonare il proprio eidolon in una pioggia di frammenti di 4,5 m di raggio. L’esplosione esilia l’eidolon e infligge a ogni creatura nell’area 1d8 danni da freddo, elettricità, fuoco o acido per Dado Vita dell'eidolon. Se al momento della detonazione l’eidolon ha meno della metà dei suoi Punti Ferita, i dadi di danno dell’esplosione sono calcolati usando i d6, anziché i d8. Le creature colpite possono superare un Tiro Salvezza su Riflessi con CD 10 + metà livello di elementalista + bonus di Carisma per dimezzare i danni. All’8° livello, un elementalista può scegliere la detonazione del proprio eidolon avvenga sottoforma di cono di 9 m.
+Privilegio di classe sostituito: Richiamo al 6° livello e Trasposizione all’8° livello.
+Creativo
+Le evocazioni e le opere di un creativo assumono una forma tangibile attraverso l’arte. Il suo eidolon è un fatato chiamato musa, che lo ispira e lo protegge.
+Abilità di classe: ottiene anche Intrattenere.
+Punti abilità per livello: 4 + bonus di Intelligenza + 2 per le abilità di background.
+Incantesimi bardici
+Un creativo deve scegliere i propri incantesimi dalla lista del bardo.
+Fallimento degli incantesimi
+Al 1° livello, un creativo non è soggetto al fallimento degli incantesimi da bardo Con componenti somatiche, dovuto ad armature leggere.
+Privilegio di classe modificato: Incantesimi al 1° livello.
+Musa ispiratrice
+L’eidolon di un creativo prende il nome di Musa, la quale non è un semplice eidolon, ma un compagno fedele che aiuta ed ispira attivamente il creativo. Una musa deve sempre avere una forma base bipede. Un creativo può usare evoca esterno anche se la musa è attualmente evocata. Di contro, le creature evocate da un creativo o dalla sua musa tramite evoca esterno permangono per 3 round, anziché 1 minuto.
+Privilegio di classe modificato: Evoca esterno a ciascun livello.
+Focus artistico
+Al 2° livello, un creativo ottiene un bonus alle prove di Concentrazione pari a metà dei suoi gradi in Intrattenere.
+Privilegio di classe sostituito: Sensi dell’eidolon al 2° livello.
+Dote proibita
+Un creativo non può mai scegliere la dote da convocatore Evocazioni durature.
+Privilegio di classe modificato: Dote da convocatore a ciascun livello.
+Evocazione purificatrice
+All’8° livello, dopo che la musa è stata congedata o esiliata, se non è stata evocata per almeno un’ora, quando viene evocata rimuove automaticamente una condizione che affligge il creativo.
+Privilegio di classe sostituito: Trasposizione all’8° livello.
+Eidolon supportante
+Al 10° livello, la musa può usare evoca esterno al posto del creativo (rispettandone le regole e i limiti) e beneficiando delle doti da convocatore possedute da quest’ultimo.
+Privilegio di classe sostituito: Trasferimento evoluzionistico al 10° livello e Trasferimento evoluzionistico superiore al 18° livello.
+Controevocatore
+Mentre la maggior parte dei convocatori eccelle nel richiamare creature nel piano materiale, alcuni si concentrano sull’ostacolare le evocazioni altrui.
+Percepire evocazioni (Sop)
+Al 1° livello, un controevocatore può rilevare la presenza (ma non la posizione) di creature evocate in un raggio di 9 m. Inoltre, percepisce automaticamente quando si trova nei pressi di luoghi destinati all’evocazione delle creature o in cui sono state fatte delle evocazioni.
+Aura di controevocazione (Sop)
+Al 1° livello, un controevocatore e il suo eidolon emanano entrambi una potente aura di abiurazione di 15 m. Questa aura interferisce con gli incantesimi e le capacità nemiche atte ad evocare creature od oggetti (come gli incantesimi Armatura magica, Arma spirituale, Evoca mostri, le capacità degli esterni di evocare altre creature, etc.). Quando vengono usati all'interno dell'aura, questi incantesimi e capacità, hanno una probabilità di fallimento del 50%, che aumenta di un ulteriore 5% per ogni livello di controevocatore oltre il 10° (fino a un massimo del 90%). L’aura viene soppressa se chi la emana cade privo di sensi.
+Privilegio di classe sostituito: Evoca esterno a ciascun livello.
+Protezione dalle evocazioni
+Al 1° livello, come azione standard un controevocatore può toccare una creatura adiacente per fornirle protezione dalle evocazioni, causando il fallimento automatico degli attacchi con armi naturali subiti di tali creature. La protezione termina dopo 1 minuto, se la creatura protetta compie un’azione ostile o tenta di toccare una qualsiasi creatura evocata o se il controevocatore usa nuovamente questa capacità. Una creatura evocata dotata di RI può ignorare questa protezione, a meno che il controevocatore non superi una prova di livello di incantatore.
+Contromagie
+Come azione immediata un controevocatore può spendere uno slot da convocatore di 1° o 2° livello per lanciare l’incantesimo Dissolvi magie inferiore. Sacrificando uno slot da convocatore di 3°, 4° o 5° livello invece, può lanciare come azione immediata l’incantesimo Dissolvi magie. Sacrificando uno slot da convocatore di 6° livello infine, può lanciare come azione immediata l’incantesimo Dissolvi magie superiore.
+Indebolire evocazioni (Sop)
+Al 10° livello, come azione standard un controevocatore può indebolire una creatura evocata entro 15 m. La vittima deve superare un Tiro Salvezza su Volontà con CD 10 + metà del livello di controevocatore + bonus di Carisma o diventare inferma per 1 minuto per livello, anche se normalmente è immune a tale condizione. Se il tiro riesce, la vittima è inferma per 1 round e diventa immune per 24 ore a ulteriori usi di questa capacità da parte del medesimo controevocatore. Al 15° livello, questa capacità affligge contemporaneamente tutte le creature evocate entro 15 m.
+Demonologo
+Alcuni convocatori si dedicano totalmente allo studio dei demoni, venerandoli e offrendo loro sacrifici in cambio del loro potere.
+Allineamento: qualsiasi non buono.
+Evocazioni demoniache
+Tramite evoca esterno, un demonologo può evocare solamente creature di tipo demone.
+Privilegio di classe modificato: Evoca esterno a ciascun livello.
+Offerta di sangue
+Al 1° livello, un demonologo ottiene la dote da convocatore Evocazioni potenziate. Quando evoca una creatura tramite evoca esterno, un demonologo può infliggersi 1d6 danni per far sì che la dote da convocatore Evocazioni potenziate, anziché i consueti bonus, fornisca invece bonus +3 m alla velocità, +2 ai tiri per colpire e +2 ai danni con le armi e gli attacchi naturali.
+Privilegio di classe modificato: Evoca esterno a ciascun livello.
+Adorazione continua
+Al 4° livello, fintanto che un demonologo si trova entro 9 m dall’eidolon, quest’ultimo ottiene bonus di circostanza +1 ai tiri per colpire, +1 alla CA e +1 ai Tiri Salvezza. Questi bonus non si applicano se il demonologo cade privo di sensi. Questi bonus diventano +2 al 12° livello.
+Privilegio di classe sostituito: Scudo alleato al 4° livello e Scudo alleato superiore al 12° livello.
+Teletrasporto funesto (Sop)
+All'8° livello, come azione standard un demonologo può spendere 1 uso di richiamo per comandare al proprio eidolon di emergere dal corpo di una creatura vivente in vista e dotata di carne entro 9 m, infliggendole 1d6 danni per Dado Vita dell’eidolon. La vittima può superare un Tiro Salvezza su Tempra con CD 10 + metà livello di demonologo + bonus di Carisma per dimezzare i danni. L'eidolon appare in una casella adiacente alla vittima o in quella più vicina possibile.
+Privilegio di classe sostituito: Trasposizione all’8° livello.
+Possessione (Sop)
+Al 14° livello, una volta al giorno, come azione di round completo l’eidolon può possedere e controllare il corpo di una creatura vivente dotata di carne. Questa capacità funziona come l’incantesimo Possessione della marionetta, tranne per il fatto che l’eidolon entra fisicamente nel corpo del bersaglio. La vittima può superare un Tiro Salvezza su Volontà con CD 10 + metà livello di demonologo + bonus di Carisma per negare la possessione. Se la vittima muore mentre l’eidolon la sta possedendo, quest’ultimo viene immediatamente espulso, subisce 4d6 danni ed è stordito per 1 round.
+Privilegio di classe sostituito: Sacrificio al 14° livello.
+Armonizzatore
+Alcuni convocatori si specializzano sull’evocazione di eidolon affini al suono, sfruttandone le potenzialità per raggiungere i propri obiettivi.
+Affinità al suono
+Al 1° livello, un armonizzatore e il suo eidolon ottengono gratuitamente l’evoluzione Resistenza (suono).
+Privilegio di classe modificato: Eidolon al 1° livello.
+Detonazioni acustiche (Sop)
+Al 1° livello, quando il suo eidolon non è evocato, come azione standard un armonizzatore può caricare l’aria attorno a sè di vibrazioni acustiche. In quel turno come azione gratuita e in seguito una volta per round come azione standard, l’armonizzatore è in grado di emettere una detonazione acustica in una casella entro 30 m da lui. Questa capacità non funziona in zone di silenzio o sott'acqua. La detonazione infligge un ammontare di danni sonori pari a 1d6 +1d6 ogni due livelli oltre il 1°. Le vittime possono superare un Tiro Salvezza su Riflessi con CD 10 + metà livello di armonizzatore + bonus di Carisma per dimezzare i danni. Le detonazioni non devono essere effettuate obbligatoriamente e l’armonizzatore può compiere altre azioni, anche lanciare incantesimi, prima di effettuarne una. Si può richiamare un numero totale di detonazioni acustiche pari al livello di armonizzatore (massimo 10). Questa capacità ha termine se l’armonizzatore evoca il proprio eidolon o dopo 1 minuto per livello. Si può usare questa capacità per un numero di volte al giorno pari a 3 + bonus di Carisma.
+Privilegio di classe sostituito: Evoca esterno a ciascun livello.
+Condotto acustico (Sop)
+Al 4° livello, quando si trova entro 18 m dal proprio eidolon, come azione standard un armonizzatore può spendere 1 uso di detonazioni acustiche per emettere un condotto sonoro tra sé e l’eidolon. Tutte le creature attraversate dal condotto subiscono gli effetti di una detonazione acustica. All’8° livello, la CD del Tiro Salvezza di questa capacità aumenta di 2.
+Privilegio di classe sostituito: Richiamo al 6° livello e Trasposizione all’8° livello.
+Cavalca eidolon
+I cavalca eidolon e i loro eidolon formano squadre da combattimento perfette, completando gli uni le abilità degli altri. Essi militano all’interno degli ordini cavallereschi e sono molto apprezzati per le ovvie peculiarità delle loro “cavalcature”. Alcuni eidolon sono alleati della famiglia del convocatore da tempi immemori e la servono fedelmente di generazione in generazione, altri invece, stringono il legame con il convocatore come puro incontro casuale.
+Abilità di classe: Cavalcare, Conoscenze (nobiltà, proibite, storia e leggende), Diplomazia, Intimidire, Intrattenere, Intuizione, Nuotare, Professione (una a scelta), Raggirare, Scalare.
+Punti abilità per livello: 4 + bonus di Intelligenza + 2 per le abilità di background.
+Competenze offensive: Competenza nelle armi semplici, Competenza nelle armi da guerra.
+Competenze difensive: Competenza nelle armature leggere, Competenza nelle armature medie, Competenza nelle armature pesanti, Competenza negli scudi piccoli, Competenza negli scudi leggeri, Competenza negli scudi pesanti.
+Ricchezza iniziale: 165 mo.
+Bonus Attacco pieno
+Un cavalca eidolon usa la progressione di Bonus Attacco Veloce (+1 per livello di classe) al posto di quella Media del convocatore.
+Privilegio di classe modificato: Bonus Attacco a ciascun livello.
+Tiro Salvezza su Tempra buono
+Un cavalca eidolon ha un Tiro Salvezza su Tempra buono (sale cioè come quello su Volontà).
+Eidolon atipico
+L’eidolon di un cavalca eidolon deve avere una forma base aberrante, quadrupede o serpentiforme. L’eidolon di un cavalca eidolon ha sia i Punti Fatica che i Punti Ferita e beneficia della guarigione naturale.
+Cavalcatura fidata
+L’eidolon di un cavalca eidolon ottiene gratuitamente l’evoluzione Cavalcatura. Inoltre, un cavalca eidolon ottiene il talento Combattere in sella (deve soddisfarne i requisiti), ma può beneficiarne solo quando è in arcione al suo eidolon.
+Privilegio di classe sostituito: Incantesimi a ciascun livello.
+Ordine cavalleresco
+Al 1° livello, un cavalca eidolon ottiene ordine cavalleresco (vedi privilegi di classe del cavaliere).
+Privilegio di classe sostituito: Evoca esterno a ciascun livello.
+Cura dell’eidolon (Sop)
+Al 1° livello, come azione veloce un cavalca eidolon può toccare il proprio eidolon per curarlo tramite l’energia positiva di 1d6 danni ogni due livelli. Si può usare questa capacità per un numero di volte al giorno pari a 1 + metà livello.
+Carica focalizzata
+Al 3° livello, quando effettua una carica in arcione al proprio eidolon, un cavalca eidolon e l’eidolon stesso ottengono +4 ai tiri per colpire, anziché +2, e non subiscono la consueta penalità alla CA.
+Talenti di squadra bonus
+Al 4°, all’8°, al 12° e al 16° livello, un cavalca eidolon ottiene un talento scelto tra quelli di Combattimento o di Squadra (deve soddisfarne i requisiti). I talenti di Squadra così ottenuti vengono appresi anche dall’eidolon del cavalca eidolon (non deve soddisfarne i requisiti).
+Privilegio di classe sostituito: Scudo alleato al 4° livello, Trasposizione all’8° livello, Scudo alleato superiore al 12° e Fusione al 16° livello.
+Carica ispirata
+Al 6° livello, quando effettuano una carica, tutti gli alleati entro 15 m dall’eidolon di un cavalca eidolon (eidolon e cavalca eidolon compresi) ottengono +4 ai tiri per colpire, anziché +2, e non subiscono la consueta penalità di -2 alla CA.
+Privilegio di classe sostituito: Richiamo al 6° livello.
+Carica possente
+Al 12° livello, quando effettua una carica in arcione al proprio eidolon, un cavalca eidolon raddoppia la minaccia di critico delle armi da mischia impugnate. Questo effetto non si cumula con altri che migliorano la minaccia di critico. Inoltre, sempre quando effettua una carica in arcione al proprio eidolon, quando colpisce con il primo attacco, come azione gratuita che non provoca attacchi di opportunità, può effettuare contro la vittima una manovra di Spingere o Sbilanciare.
+Carica suprema
+Al 20° livello, quando effettua una carica in arcione al proprio eidolon, un cavalca eidolon infligge danni doppi (o tripli se usa una lancia da cavaliere). Se il cavalca eidolon possiede il talento Carica devastante, infligge invece danni tripli (o quadrupli se usa una lancia da cavaliere). Inoltre, sempre quando effettua una carica in arcione al proprio eidolon, se il cavalca eidolon conferma un colpo critico, la vittima deve superare un Tiro Salvezza su Volontà con CD 10 + il bonus di attacco del cavalca eidolon + bonus di Carisma o è stordita per 1d4 round. Se supera il tiro, la vittima è barcollante per 1 round.
+Privilegio di classe sostituito: Potere assoluto al 20° livello.
+Signore delle Schiere
+I signori delle schiere rinunciano al legame esclusivo con un eidolon per comandare intere legioni di esterni, che rispondono alla loro chiamata in numero sempre maggiore.
+Esterno prediletto (Mag)
+Al 1° livello, un signore delle schiere non ottiene un eidolon. In compenso, all’alba di ogni giorno sceglie come prediletto un esterno di livello pari al massimo evocabile tramite evoca esterno. L’esterno prediletto non permane per 1 minuto, ma segue le regole dell’eidolon: si evoca a volontà con un rituale di 5 minuti; scompare se il convocatore cade privo di sensi, si addormenta, muore o lo congeda con un’azione gratuita; viene esiliato se ucciso, se viene bandito da un effetto o se si allontana a più di 1 km dal convocatore, e in tal caso non può essere evocato fino all’alba del giorno seguente. Se l’esterno prediletto era scomparso, torna con i medesimi Punti Ferita di quando è scomparso; se era stato esiliato, torna con la metà dei suoi Punti Ferita massimali. Non è possibile usare evoca esterno se il proprio esterno prediletto è attualmente evocato, né evocare l’esterno prediletto se si è attualmente evocato un esterno tramite evoca esterno. Un signore delle schiere non può selezionare doti da convocatore che richiedono un eidolon.
+Privilegio di classe sostituito: Eidolon al 1° livello.
+Riserva di evocazioni
+Al 1° livello, un signore delle schiere può usare evoca esterno un numero di volte al giorno pari a 5 + bonus di Carisma, anziché 3 + bonus di Carisma.
+Privilegio di classe sostituito: Legame vitale al 1° livello.
+Talento bonus
+Al 2° livello, un signore delle schiere ottiene Aumentare Evocazione come talento bonus, anche se non ne soddisfa i requisiti.
+Privilegio di classe sostituito: Sensi dell’eidolon al 2° livello.
+Doti da convocatore
+Un signore delle schiere aggiunge alla lista delle doti da convocatore selezionabili Evocazione Superiore (funziona come il talento omonimo) e Mostri Evocati Evoluti (funziona come il talento omonimo, applicato a evoca esterno; può essere selezionata più volte), anche se non ne soddisfa i requisiti.
+Privilegio di classe modificato: Dote da convocatore a ciascun livello.
+Evocazione multipla
+Al 4° livello, quando usa evoca esterno un signore delle schiere può scegliere di evocare 1d3 esterni identici di 1 livello inferiore rispetto al massimo evocabile, anziché un singolo esterno.
+Privilegio di classe sostituito: Scudo alleato al 4° livello e Scudo alleato superiore al 12° livello.
+Evocazione multipla superiore
+All’8° livello, quando usa evoca esterno un signore delle schiere può scegliere di evocare 1d4+1 esterni identici di 2 livelli inferiori rispetto al massimo evocabile.
+Privilegio di classe sostituito: Richiamo al 6° livello e Trasposizione all’8° livello.
+Vincolo prediletto (Sop)
+Al 10° livello, l’esterno prediletto ottiene 2 punti evoluzione da spendere in evoluzioni disponibili a un eidolon (di cui deve soddisfare i requisiti), scelte dal convocatore. Al 18° livello questi punti evoluzione aumentano a 4.
+Privilegio di classe sostituito: Trasferimento evoluzionistico al 10° livello e Trasferimento evoluzionistico superiore al 18° livello.
+Sacrificio delle schiere (Sop)
+Al 14° livello, ogni volta che un signore delle schiere verrebbe mandato a 0 Punti Ferita o meno, può invece assegnare al proprio esterno prediletto tutto il danno. Questo danno viene trasferito 1 punto alla volta, il che significa che non appena l’esterno prediletto è ridotto a 0 Punti Ferita, tutti i danni rimanenti dovranno essere assegnati al convocatore.
+Privilegio di classe sostituito: Sacrificio al 14° livello.
+Schiere congiunte
+Al 16° livello, un signore delle schiere può usare evoca esterno anche mentre il proprio esterno prediletto è evocato, e viceversa; l’esterno prediletto non scompare quando vengono evocati nuovi esterni tramite evoca esterno.
+Privilegio di classe sostituito: Fusione al 16° livello.
+Apoteosi delle schiere (Sop)
+Al 20° livello, ogni volta che usa evocazione multipla o evocazione multipla superiore, un signore delle schiere evoca sempre il numero massimo di esterni possibile. Inoltre, tutti gli esterni che evoca tramite evoca esterno ottengono 2 Punti Ferita extra per Dado Vita posseduto e Riduzione del Danno 5/—.
+Privilegio di classe sostituito: Potere assoluto al 20° livello.
