@@ -10,7 +10,7 @@ t=t.replace('__CONV__',mini('convocatore.json')).replace('__ESTERNI__',mini('est
 if len(sys.argv)>1: open(sys.argv[1],'w',encoding='utf8').write(t)
 fonts=re.compile(r'<link rel="preconnect"[^>]*>\n<link rel="preconnect"[^>]*>\n<link rel="stylesheet" href="https://fonts.googleapis.com[^>]*>')
 assert fonts.search(t)
-body=fonts.sub('<link rel="stylesheet" href="vendor/fonts.css">',t)
+body=fonts.sub('<link rel="stylesheet" href="vendor/fonts.css">\n<link rel="icon" href="icona.png">',t)
 head='''<!doctype html>
 <html lang="it">
 <head>

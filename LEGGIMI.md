@@ -1,9 +1,13 @@
 # Patto del Convocatore
 
-App per il Convocatore della Collana (Vol. 2 - Classi): costruttore di eidolon, evocazioni con contatori e metaevocazioni, tutti i 9 archetipi.
+App per il Convocatore della Collana (Vol. 2 - Classi): costruttore di eidolon con evoluzioni e abilità, evocazioni (Libro delle Evocazioni e Libro degli Elementali) con contatori e metaevocazioni, tutti i 9 archetipi.
 
-## Versione attuale
-Solo pagina HTML (`www/index.html`), da provare prima di creare le versioni Android e Windows.
+## Scaricare l'app
+Nella pagina **Releases** del repository:
+- **Android**: il file `Convocatore-N.apk` (release `v1.0.N`). Scaricalo dal telefono e aprilo per installarlo.
+- **Windows**: release `win-1.0.N`, versione *portatile* (doppio clic, niente installazione) o *installazione*.
+
+Le app si ricompilano da sole a ogni aggiornamento del ramo `main`.
 
 ## Come si aggiorna quando cambiano i manuali
 1. Metti i .docx aggiornati in `sorgenti/docx/` (Convocatore, Libro delle Evocazioni, Libro degli Elementali).
@@ -14,4 +18,4 @@ Solo pagina HTML (`www/index.html`), da provare prima di creare le versioni Andr
 Le meccaniche delle evoluzioni (attacchi, costi speciali, requisiti) sono nella tabella `MECC` di `parse_convocatore.py`; i testi vengono sempre dal manuale.
 
 ## Decisioni di design
-Vedi `Convocatore_app_design_v1.md` (decisioni A–H, archetipi, correzioni ai sorgenti).
+Vedi `Convocatore_app_design_v1.md` (decisioni A–L, archetipi, correzioni ai sorgenti).

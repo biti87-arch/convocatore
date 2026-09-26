@@ -1,0 +1,21 @@
+{
+  "name": "convocatore",
+  "productName": "Patto del Convocatore",
+  "version": "1.0.0",
+  "description": "Eidolon ed evocazioni del Convocatore (Collana)",
+  "author": "Collana",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^31.7.7",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "it.collana.convocatore",
+    "productName": "Patto del Convocatore",
+    "files": ["main.js", "icon.png", "www/**/*"],
+    "win": { "target": ["portable", "nsis"], "icon": "icon.png" },
+    "portable": { "artifactName": "Convocatore-${version}-portatile.exe" },
+    "nsis": { "artifactName": "Convocatore-${version}-installazione.exe", "oneClick": false, "allowToChangeInstallationDirectory": true },
+    "publish": null
+  }
+}
