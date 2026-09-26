@@ -55,6 +55,10 @@ I JSON si rigenerano con uno script di estrazione ogni volta che i manuali cambi
 | F | Punti Fatica (Cavalca eidolon) | PF calcolati normalmente e divisi a metà: Fatica per eccesso, Ferita per difetto |
 | G | Aumentare Evocazione | Applicato come effetti derivati: +2 per colpire e danni, +2 PF/DV, +2 Tempra, +2 BMC/DMC |
 | H | Evoluzioni su esterni (Vincolo prediletto, Mostri Evocati Evoluti) | Applicati i numeri delle evoluzioni che li hanno; le altre aggiunte come testo |
+| I | Punti abilità dell'eidolon | (4 + Int) × DV; 5 abilità di classe fisse + 4 a scelta (niente Professione); gradi max = DV; +3 di classe |
+| J | Velocità di Scalare, Nuotare, Volare | +8 automatico alla prova corrispondente (Anfibio = Nuotare pari alla velocità su terreno) |
+| K | Immunità a un'energia (4 PE) | Sostituita da **Assorbimento energetico (Sop)**: 9° livello, richiede Immunità (Sop) alla stessa energia, recupera PF pari a metà dei danni fino ai massimali |
+| L | Aumento di caratteristica (evoluzione) | 1 fino al 5°, 2 fino al 10°, 3 fino al 15°, 4 fino al 20°; distinto dal privilegio dell'eidolon (+1 al 5°, 10°, 15°, 20°) |
 
 ## ARCHETIPI
 
@@ -83,6 +87,12 @@ I JSON si rigenerano con uno script di estrazione ogni volta che i manuali cambi
 - Demonologo: "evoca esterni" → "evoca esterno"; virgola dopo "+3 m alla velocità"; aggiunta la dicitura "Privilegio di classe modificato: Evoca esterno a ciascun livello" a Offerta di sangue
 - Armonizzatore: aggiunta la dicitura "Privilegio di classe modificato: Eidolon al 1° livello" ad Affinità al suono
 - Elementalista: Evoca elementale e Natura elementale (inserite in precedenza)
+
+- Immunità (Sop) e Magia condivisa (Mag) separate da Fortificazione; tolto il pezzo di "Speciale" finito in Artigli e Schianto; Veleno: "diventa è rallentata" → "diventa rallentata"
+- Immunità a un'energia sostituita da Assorbimento energetico (Sop)
+
+**Morfico e Stregone (manuali singoli + Vol. 2)**
+- Guarire → Professione (cerusico) dove indica l'abilità
 
 **Libro delle Evocazioni v2.5**
 - 88 usi convertiti da "/giorno" e "al giorno" a "per evocazione"

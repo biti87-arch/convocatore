@@ -1336,6 +1336,18 @@
    "speciale": ""
   },
   {
+   "id": "assorbimento_energetico_sop",
+   "nome": "Assorbimento energetico (Sop)",
+   "costo": 4,
+   "requisiti": "Convocatore di 9° livello; evoluzione Immunità (Sop) associata alla stessa energia.",
+   "testo": "Quando l’eidolon subisce danni del tipo di energia a cui è immune, invece di ignorarli recupera un numero di Punti Ferita pari alla metà dei danni che avrebbe subito, senza superare i propri Punti Ferita massimali.",
+   "speciale": "Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un’energia diversa a cui l’eidolon è immune.",
+   "lv": 9,
+   "multi": true,
+   "scelta": "energia",
+   "reqImm": true
+  },
+  {
    "id": "evanescenza_sop",
    "nome": "Evanescenza (Sop)",
    "costo": 4,
@@ -1352,17 +1364,6 @@
    "testo": "Dopo essersi focalizzato per 1 minuto, l'eidolon ottiene Guarigione rapida 1. Si può curare in questo modo un massimo di danni al giorno pari ai Punti Ferita dell’eidolon.",
    "speciale": "",
    "lv": 11
-  },
-  {
-   "id": "immunita_a_unenergia",
-   "nome": "Immunità a un’energia",
-   "costo": 4,
-   "requisiti": "Convocatore di 9° livello.",
-   "testo": "L’eidolon sceglie un tipo di energia tra acido, elettricità, freddo o fuoco e diventa immune ai danni di quel tipo.",
-   "speciale": "selezionabile più volte, ogni volta per un tipo di energia diverso.",
-   "lv": 9,
-   "multi": true,
-   "scelta": "energia"
   },
   {
    "id": "porta_dimensionale_mag",

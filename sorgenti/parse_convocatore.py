@@ -125,7 +125,7 @@ MECC={
  'amorfo':{},
  'evanescenza_sop':{'lv':15},
  'guarigione':{'lv':11},
- 'immunita_a_unenergia':{'lv':9,'multi':True,'scelta':'energia'},
+ 'assorbimento_energetico_sop':{'lv':9,'multi':True,'scelta':'energia','reqImm':True},
  'porta_dimensionale_mag':{'lv':17},
  'resistenza_agli_incantesimi':{'lv':9},
  'soffio':{'lv':9,'cd':'cos','scelta':'energia','extra':{'nome':'soffio aggiuntivo (max 3/giorno)','costo':1,'max':2}},

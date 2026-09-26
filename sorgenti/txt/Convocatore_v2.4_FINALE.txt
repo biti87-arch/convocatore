@@ -1394,16 +1394,16 @@ L’eidolon ottiene una velocità di Scavare pari a metà della propria velocit�
 Evoluzioni da 4 punti
 Amorfo
 L'eidolon sviluppa una fisionomia priva di punti deboli distinguibili, ottenendo così immunità ai colpi critici e ai danni da precisione.
+Assorbimento energetico (Sop)
+Requisiti: Convocatore di 9° livello; evoluzione Immunità (Sop) associata alla stessa energia.
+Quando l’eidolon subisce danni del tipo di energia a cui è immune, invece di ignorarli recupera un numero di Punti Ferita pari alla metà dei danni che avrebbe subito, senza superare i propri Punti Ferita massimali.
+Speciale: Questa evoluzione può essere selezionata più volte, ma ognuna deve essere associata a un’energia diversa a cui l’eidolon è immune.
 Evanescenza (Sop)
 Requisiti: Convocatore di 15° livello.
 Una volta al giorno, come azione veloce l’eidolon può ottenere per 5 round una probabilità di essere mancato del 45%.
 Guarigione
 Requisiti: Convocatore di 11° livello.
 Dopo essersi focalizzato per 1 minuto, l'eidolon ottiene Guarigione rapida 1. Si può curare in questo modo un massimo di danni al giorno pari ai Punti Ferita dell’eidolon.
-Immunità a un’energia
-Requisiti: Convocatore di 9° livello.
-L’eidolon sceglie un tipo di energia tra acido, elettricità, freddo o fuoco e diventa immune ai danni di quel tipo.
-Speciale: selezionabile più volte, ogni volta per un tipo di energia diverso.
 Porta dimensionale (Mag)
 Requisiti: Convocatore di 17° livello.
 Una volta al giorno, l’eidolon può teletrasportarsi entro 50 m.

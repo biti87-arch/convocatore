@@ -257,6 +257,7 @@ function calcEid(){
     for(const r of d.req||[])if(!ev.some(x=>x.id===r))probs.push('richiede '+EVO[r].nome);
     if(d.reqUno&&!d.reqUno.some(r=>ev.some(x=>x.id===r)))probs.push('richiede '+d.reqUno.map(r=>EVO[r].nome).join(' o '));
     if(d.reqAtt&&!attacchiEvo(ev).length)probs.push('richiede un attacco naturale');
+    if(d.reqImm&&!ev.some(x=>x.id==='immunita_sop'&&x.scelta&&x.scelta===e.scelta))probs.push('richiede Immunità (Sop) '+(e.scelta?'al '+e.scelta:'alla stessa energia'));
     const c=costoEvo(e,taglia);spesi+=c;
     return {e,d,c,probs};
   });
@@ -320,7 +321,8 @@ function calcEid(){
   const gambeExtra=Math.max(0,(cont.arti_gambe||0)-base.filter(b=>b.id==='arti_gambe').length);
   const vel=f.vel+3*gambeExtra;
   const mov=['Velocità '+vel+' m'];
-  if(cont.apparato_natatorio)mov.push('Nuotare '+6*cont.apparato_natatorio+' m');
+  const nuoto=(cont.anfibio?vel:0)+6*(cont.apparato_natatorio||0);
+  if(nuoto)mov.push('Nuotare '+nuoto+' m');
   if(cont.scalare)mov.push('Scalare '+Math.floor(vel/2*10)/10+' m');
   if(cont.scavare)mov.push('Scavare '+Math.floor(vel/2*10)/10+' m');
   if(cont.levitazione)mov.push('Volare 9 m (buona)'+(L<17?', altezza massima 1 m':''));
@@ -332,8 +334,9 @@ function calcEid(){
   const re=5+5*[6,9,12,15,18].filter(x=>x<=L).length;
   ev.filter(e=>e.id==='resistenza').forEach(e=>dif.push('RE '+re+' ('+(e.scelta||'?')+')'));
   if(has('armonizzatore'))dif.push('RE '+re+' (suono)');
-  const imm=[...ev.filter(e=>e.id==='immunita_sop'||e.id==='immunita_a_unenergia').map(e=>e.scelta||'?')];
+  const imm=[...ev.filter(e=>e.id==='immunita_sop').map(e=>e.scelta||'?')];
   if(imm.length)dif.push('Immunità: '+[...new Set(imm)].join(', '));
+  ev.filter(e=>e.id==='assorbimento_energetico_sop').forEach(e=>dif.push('Assorbimento energetico ('+(e.scelta||'?')+'): recupera PF pari a metà dei danni, fino ai massimali'));
   if(has('elementalista')){dif.push('Vulnerabilità: '+VU_EL[S.affinita]);if(L>=2)dif.push('Immune agli effetti di [SANGUINAMENTO], [PARALISI], [SONNO], [STORDIMENTO] e [VELENO]');}
   if(cont.amorfo)dif.push('Immune a colpi critici e danni da precisione');
   else if(cont.fortificazione)dif.push('Fortificazione '+(cont.fortificazione>1?50:25)+'%');
@@ -352,7 +355,7 @@ function calcEid(){
   if(cont.travolgere)capac.push('Travolgere: 1d6'+sg(Math.floor(M.For*1.5))+' danni');
   // punti fatica (Cavalca eidolon)
   const fat=has('cavalca_eidolon')?{fatica:Math.ceil(pf/2),ferita:Math.floor(pf/2)}:null;
-  return {L,row,f,taglia,T,ev,base,stato,cont,err,pe,spesi,trasf,car,M,nat,defl,ca,contatto,impreparato,dv,pf,fat,ts,ba,bmc,dmc,righe,nTot,mov,sensi,dif,capac,cd};
+  return {L,row,f,taglia,T,ev,base,stato,cont,err,pe,spesi,trasf,car,M,nat,defl,ca,contatto,impreparato,dv,pf,fat,ts,ba,bmc,dmc,righe,nTot,mov,sensi,dif,capac,cd,nuoto};
 }
 
 /* ---------- evocazioni ---------- */
@@ -582,6 +585,9 @@ function abilitaEid(E){
   const code=E.cont.coda||0;if(code)add('Acrobazia',4+2*(code-1),'Coda (equilibrio)');
   if(E.cont.viscido)add('Artista della fuga',4,'Viscido');
   if(E.T.furt)add('Furtività',E.T.furt,'taglia');
+  if(E.cont.scalare)add('Scalare',8,'velocità di Scalare');
+  if(E.nuoto)add('Nuotare',8,'velocità di Nuotare');
+  if(E.cont.levitazione)add('Volare',8,'velocità di Volare');
   const righe=ABILITA.map(([n,c])=>{
     const g=+A.gradi[n]||0;const cl=AB_FISSE.includes(n)||A.scelte.includes(n);
     const b=(bonus[n]||[]);const bt=b.reduce((x,y)=>x+y[0],0);
