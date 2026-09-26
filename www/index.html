@@ -156,6 +156,11 @@ const ENERGIE=['acido','elettricità','freddo','fuoco'];
 const CAR=['For','Des','Cos','Int','Sag','Car'];
 const CAR_N={For:'Forza',Des:'Destrezza',Cos:'Costituzione',Int:'Intelligenza',Sag:'Saggezza',Car:'Carisma'};
 const EVO=Object.fromEntries(C.evoluzioni.map(e=>[e.id,e]));
+const ABILITA=[['Acrobazia','Des'],['Artista della fuga','Des'],['Camuffare','Car'],['Cavalcare','Des'],
+ ['Conoscenze (arcane)','Int'],['Conoscenze (dungeon)','Int'],['Conoscenze (generali)','Int'],['Conoscenze (ingegneria)','Int'],['Conoscenze (natura)','Int'],['Conoscenze (nobiltà)','Int'],['Conoscenze (proibite)','Int'],['Conoscenze (religioni)','Int'],['Conoscenze (scientifiche)','Int'],['Conoscenze (storia e leggende)','Int'],
+ ['Diplomazia','Car'],['Disattivare congegni','Des'],['Furtività','Des'],['Intimidire','Car'],['Intrattenere','Car'],['Intuizione','Sag'],['Nuotare','For'],['Percezione','Sag'],
+ ['Pilotare imbarcazioni','Des'],['Pilotare mezzi terrestri','Des'],['Raggirare','Car'],['Rapidità di mano','Des'],['Sapienza magica','Int'],['Scalare','For'],['Sopravvivenza','Sag'],['Utilizzare congegni magici','Car'],['Valutare','Int'],['Volare','Des']];
+const AB_FISSE=['Conoscenze (proibite)','Furtività','Intuizione','Percezione','Raggirare'];
 const DOTI=Object.fromEntries(C.doti.map(d=>[d.id,d]));
 const ARCH=Object.fromEntries(C.archetipi.map(a=>[a.id,a]));
 const DADI=['1d2','1d3','1d4','1d6','1d8','1d10','2d6','2d8','3d6','3d8'];
@@ -167,8 +172,8 @@ const DEFAULT={esempio:true,nome:'Esempio — Ilvar',livello:8,car:18,archetipi:
   scelta:'artigli',evo:[{id:'morso'},{id:'armatura_naturale_migliorata'},{id:'resistenza',scelta:'fuoco'},{id:'arti_gambe'},{id:'danno_naturale_migliorato',scelta:'Artiglio'},{id:'fiuto'},{id:'aumento_di_caratteristica',scelta:'For'},{id:'scalare'}],
   trasf:0,rituale:'eidolon',affinita:'fuoco',pfManuali:'',offerta:false,
   usiEvoca:0,ultimo:null,eidolonInCampo:false,evocati:[],meta:'evocazioni_solari',filtroGrado:0,prediletto:null,vincolo:[],tab:'profilo',
-  eidPF:null,usiArch:0};
-function nuovoPg(n){return JSON.parse(JSON.stringify(Object.assign({},DEFAULT,{esempio:false,nome:n||'Nuovo convocatore',livello:1,doti:{},evo:[],evocati:[],aumenti:['For','For','For','For']})));}
+  eidPF:null,usiArch:0,eidAb:{gradi:{'Percezione':6,'Furtività':6,'Intuizione':4,'Scalare':4,'Acrobazia':4},scelte:['Acrobazia','Scalare','Nuotare','Intimidire']}};
+function nuovoPg(n){return JSON.parse(JSON.stringify(Object.assign({},DEFAULT,{esempio:false,nome:n||'Nuovo convocatore',livello:1,doti:{},evo:[],evocati:[],aumenti:['For','For','For','For'],eidAb:{gradi:{},scelte:[]}})));}
 let G=loadG(), S=G.dati[G.attivo];
 function loadG(){
   try{const r=localStorage.getItem('patto-convocatore-v1');if(r){const g=JSON.parse(r);if(g&&g.dati&&g.dati[g.attivo])return g;}}catch(e){}
@@ -550,6 +555,7 @@ function rEidolon(){
   h+='</div>';
   // scheda
   h+=schedaEid(E);
+  h+=cardAbilita(E);
   // evoluzioni
   h+='<div class="card"><h2>Evoluzioni</h2><div class="list" id="evoList">';
   for(const b of E.base){const d=EVO[b.id];h+='<div class="evoRow base"><div><b>'+esc(d.nome)+(b.scelta?' ('+esc(b.scelta)+')':'')+'</b> <span class="tag">'+(b.arch?'archetipo':'forma base')+'</span></div><span class="tag">0</span></div>';}
@@ -568,8 +574,40 @@ function rEidolon(){
   main.querySelectorAll('[data-sc]').forEach(s=>s.addEventListener('change',e=>{S.evo[+e.target.dataset.sc].scelta=e.target.value;render();}));
   main.querySelectorAll('[data-ex]').forEach(s=>s.addEventListener('change',e=>{const v=e.target.type==='checkbox'?e.target.checked:+e.target.value;S.evo[+e.target.dataset.ex].extra=v;render();}));
   document.getElementById('addEvo').addEventListener('click',()=>scegliEvo(E));
+  main.querySelectorAll('[data-abg]').forEach(x=>x.addEventListener('click',()=>{const n=x.dataset.abg;const A=S.eidAb;A.gradi[n]=Math.max(0,Math.min(E.dv,(+A.gradi[n]||0)+ +x.dataset.d));if(!A.gradi[n])delete A.gradi[n];render();}));
+  main.querySelectorAll('[data-abc]').forEach(x=>x.addEventListener('click',()=>{const n=x.dataset.abc;const A=S.eidAb;if(A.scelte.includes(n))A.scelte=A.scelte.filter(y=>y!==n);else if(A.scelte.length<4)A.scelte.push(n);render();}));
   const pm=document.getElementById('f-pfm');pm&&pm.addEventListener('change',e=>{S.pfManuali=e.target.value;render();});
   const ep=document.getElementById('f-epf');ep&&ep.addEventListener('change',e=>{S.eidPF=e.target.value===''?null:+e.target.value;render();});
+}
+function abilitaEid(E){
+  const A=S.eidAb||(S.eidAb={gradi:{},scelte:[]});
+  const tot=Math.max(E.dv,(4+E.M.Int)*E.dv);
+  const spesi=Object.values(A.gradi).reduce((x,y)=>x+(+y||0),0);
+  const bonus={};const add=(k,v,why)=>{(bonus[k]=bonus[k]||[]).push([v,why]);};
+  E.ev.filter(e=>e.id==='addestrato'&&e.scelta).forEach(e=>add(e.scelta,5,'Addestrato'));
+  const code=E.cont.coda||0;if(code)add('Acrobazia',4+2*(code-1),'Coda (equilibrio)');
+  if(E.cont.viscido)add('Artista della fuga',4,'Viscido');
+  if(E.T.furt)add('Furtività',E.T.furt,'taglia');
+  const righe=ABILITA.map(([n,c])=>{
+    const g=+A.gradi[n]||0;const cl=AB_FISSE.includes(n)||A.scelte.includes(n);
+    const b=(bonus[n]||[]);const bt=b.reduce((x,y)=>x+y[0],0);
+    return {n,c,g,cl,tot:E.M[c]+g+(cl&&g>0?3:0)+bt,b};
+  });
+  return {A,tot,spesi,righe};
+}
+function cardAbilita(E){
+  const {A,tot,spesi,righe}=abilitaEid(E);const rest=tot-spesi;
+  let h='<div class="card"><h2>Abilità dell\'eidolon</h2>';
+  h+='<div class="pebar'+(rest<0?' over':'')+'"><span>Punti abilità</span><b>'+spesi+' / '+tot+'</b><span>'+(rest<0?'sforati di '+(-rest):'restano '+rest)+'</span></div>';
+  h+='<p class="note">Abilità di classe fisse: '+AB_FISSE.join(', ')+'. Altre 4 a scelta (niente Professione): segnale con ★. Gradi massimi per abilità: '+E.dv+' (DV). +3 se è di classe e ha almeno 1 grado.</p>';
+  h+='<p class="note">Scelte: '+A.scelte.length+' / 4</p><div class="list">';
+  for(const r of righe){
+    const fissa=AB_FISSE.includes(r.n);const scelta=A.scelte.includes(r.n);
+    h+='<div class="evoRow"><div><button class="chip" data-abc="'+esc(r.n)+'" aria-pressed="'+r.cl+'"'+(fissa||(!scelta&&A.scelte.length>=4)?' disabled':'')+' title="Abilità di classe">'+(r.cl?'★':'☆')+'</button> <b>'+esc(r.n)+'</b> <span class="note">'+r.c+'</span>'+
+      (r.b.length?'<div class="note">'+r.b.map(x=>sg(x[0])+' '+esc(x[1])).join(', ')+'</div>':'')+'</div>'+
+      '<div class="row"><button class="btn sm" data-abg="'+esc(r.n)+'" data-d="-1"'+(r.g?'':' disabled')+' aria-label="Togli un grado">−</button><span class="tag">'+r.g+'</span><button class="btn sm" data-abg="'+esc(r.n)+'" data-d="1"'+(r.g>=E.dv?' disabled':'')+' aria-label="Aggiungi un grado">+</button><b style="font-family:var(--f-mono);min-width:3ch;text-align:right">'+sg(r.tot)+'</b></div></div>';
+  }
+  return h+'</div></div>';
 }
 function opzioniScelta(d,E){
   if(d.scelta==='energia')return ENERGIE;
