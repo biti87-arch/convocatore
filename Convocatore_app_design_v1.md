@@ -59,6 +59,7 @@ I JSON si rigenerano con uno script di estrazione ogni volta che i manuali cambi
 | J | Velocità di Scalare, Nuotare, Volare | +8 automatico alla prova corrispondente (Anfibio = Nuotare pari alla velocità su terreno) |
 | K | Immunità a un'energia (4 PE) | Sostituita da **Assorbimento energetico (Sop)**: 9° livello, richiede Immunità (Sop) alla stessa energia, recupera PF pari a metà dei danni fino ai massimali |
 | L | Aumento di caratteristica (evoluzione) | 1 fino al 5°, 2 fino al 10°, 3 fino al 15°, 4 fino al 20°; distinto dal privilegio dell'eidolon (+1 al 5°, 10°, 15°, 20°) |
+| M | PF delle creature evocate e del prediletto | Divisi a metà: Punti Fatica per eccesso, Punti Ferita per difetto. I danni colpiscono prima la Fatica; le cure (+1) ripristinano solo i Punti Ferita; a Ferita 0 l'evocazione termina. L'eidolon resta a soli Punti Ferita (Guarigione limitata), salvo il Cavalca eidolon |
 
 ## ARCHETIPI
 

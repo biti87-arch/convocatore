@@ -165,6 +165,7 @@ const AB_FISSE=['Conoscenze (proibite)','Furtività','Intuizione','Percezione','
 const DOTI=Object.fromEntries(C.doti.map(d=>[d.id,d]));
 const ARCH=Object.fromEntries(C.archetipi.map(a=>[a.id,a]));
 const DADI=['1d2','1d3','1d4','1d6','1d8','1d10','2d6','2d8','3d6','3d8'];
+const dividiPF=pf=>({fat:Math.ceil(pf/2),fer:Math.floor(pf/2)});
 const stepDado=(d,n)=>{let i=DADI.indexOf(d);if(i<0)return d;return DADI[Math.max(0,Math.min(DADI.length-1,i+n))];};
 
 /* ---------- stato ---------- */
@@ -408,7 +409,8 @@ function schedaCreatura(cr,grado,conMod){
   const durata=durataEvoc();
   let h='<div class="sheet"><div class="sheetHead"><div><h2>'+esc(cr.nome)+'</h2><div class="note">'+esc(cr.tipo)+' · grado '+ROM[cr.grado]+(cr.gruppo?' · '+esc(cr.gruppo):'')+'</div></div><span class="tag cb">'+esc(cr.taglia)+'</span></div>';
   h+='<div class="txt"><em>'+esc(cr.descr)+'</em></div>';
-  h+='<div class="kv"><div><small>PF</small><b>'+pf+'</b><small>'+cr.dv+' DV'+(m.pfDv?' · base '+cr.pf:'')+'</small></div><div><small>CA</small><b>'+(cr.ca+m.ca)+'</b></div>'+
+  const sp=dividiPF(pf);
+  h+='<div class="kv"><div><small>PF</small><b>'+pf+'</b><small>Fatica '+sp.fat+' · Ferita '+sp.fer+'<br>'+cr.dv+' DV'+(m.pfDv?' · base '+cr.pf:'')+'</small></div><div><small>CA</small><b>'+(cr.ca+m.ca)+'</b></div>'+
      '<div><small>Tempra</small><b>'+sg(cr.ts.Tempra+m.tempra)+'</b></div><div><small>Riflessi</small><b>'+sg(cr.ts.Riflessi)+'</b></div><div><small>Volontà</small><b>'+sg(cr.ts['Volontà'])+'</b></div>'+
      '<div><small>Durata</small><b>'+durata+'</b></div></div>';
   h+='<div class="atk"><div class="l"><span>Attacchi</span><span>'+ritocca(c.Attacchi||'',m)+'</span></div>';
@@ -730,10 +732,13 @@ function rEvoca(){
   // attive
   h+='<div class="card"><h2>In campo</h2>';
   if(!S.evocati.length)h+='<p class="note">Nessuna creatura evocata.</p>';
-  S.evocati.forEach((a,i)=>{const cr=[...ESTERNI,...ELEMENTALI].find(x=>x.id===a.id&&x.libro===a.libro);if(!cr)return;const m=modificatori(cr,a.grado);const max=cr.pf+m.pfDv*cr.dv;
+  S.evocati.forEach((a,i)=>{const cr=[...ESTERNI,...ELEMENTALI].find(x=>x.id===a.id&&x.libro===a.libro);if(!cr)return;const m=modificatori(cr,a.grado);const max=cr.pf+m.pfDv*cr.dv;const mx=dividiPF(max);
+    if(a.fat==null){const sp=dividiPF(a.pf??max);a.fat=sp.fat;a.fer=sp.fer;delete a.pf;}
+    const tot=a.fat+a.fer;
     h+='<div class="active"><div class="row" style="justify-content:space-between"><button class="btn sm" data-apri="'+i+'"><b>'+esc(cr.nome)+'</b></button><span class="tag">'+a.round+' round</span></div>'+
-      '<div class="row"><div class="hp"><button class="btn sm" data-pf="'+i+'" data-d="-5">−5</button><button class="btn sm" data-pf="'+i+'" data-d="-1">−1</button><input type="number" aria-label="PF di '+esc(cr.nome)+'" data-pfi="'+i+'" value="'+a.pf+'"><span class="note">/ '+max+'</span><button class="btn sm" data-pf="'+i+'" data-d="1">+1</button></div></div>'+
-      '<div class="bar"><i class="'+(a.pf<max/2?'low':'')+'" style="width:'+Math.max(0,Math.min(100,a.pf/max*100))+'%"></i></div>'+
+      '<div class="row"><span class="label">Danni</span><button class="btn sm" data-pf="'+i+'" data-d="-5">−5</button><button class="btn sm" data-pf="'+i+'" data-d="-1">−1</button><span class="label">Cura</span><button class="btn sm" data-pf="'+i+'" data-d="1">+1</button></div>'+
+      '<div class="row"><div class="hp"><label class="label" for="fat'+i+'">Fatica</label><input id="fat'+i+'" type="number" data-pfi="'+i+'" data-k="fat" value="'+a.fat+'"><span class="note">/ '+mx.fat+'</span></div><div class="hp"><label class="label" for="fer'+i+'">Ferita</label><input id="fer'+i+'" type="number" data-pfi="'+i+'" data-k="fer" value="'+a.fer+'"><span class="note">/ '+mx.fer+'</span></div></div>'+
+      '<div class="bar"><i class="'+(a.fat<=0?'low':'')+'" style="width:'+Math.max(0,Math.min(100,tot/max*100))+'%"></i></div>'+(a.fer<=0?'<div class="note warnT">Punti Ferita a zero: la creatura è abbattuta e l\'evocazione termina.</div>':a.fat<=0?'<div class="note warnT">Punti Fatica esauriti: i danni ora colpiscono i Punti Ferita.</div>':'')+
       '<div class="row"><button class="btn sm" data-rd="'+i+'">Fine round</button><button class="btn sm danger" data-cong="'+i+'">Congeda</button></div></div>';});
   if(S.evocati.length)h+='<div class="row" style="margin-top:8px"><button class="btn sm" id="roundAll">Fine round per tutti</button></div>';
   h+='</div>';
@@ -766,8 +771,12 @@ function rEvoca(){
   on('roundAll',()=>{S.evocati.forEach(a=>a.round--);S.evocati=S.evocati.filter(a=>a.round>0);render();});
   main.querySelectorAll('[data-meta]').forEach(b=>b.addEventListener('click',()=>{S.meta=b.dataset.meta||null;render();}));
   main.querySelectorAll('[data-gr]').forEach(b=>b.addEventListener('click',()=>{S.filtroGrado=+b.dataset.gr;render();}));
-  main.querySelectorAll('[data-pf]').forEach(b=>b.addEventListener('click',()=>{S.evocati[+b.dataset.pf].pf+= +b.dataset.d;render();}));
-  main.querySelectorAll('[data-pfi]').forEach(b=>b.addEventListener('change',()=>{S.evocati[+b.dataset.pfi].pf=+b.value;render();}));
+  main.querySelectorAll('[data-pf]').forEach(b=>b.addEventListener('click',()=>{const a=S.evocati[+b.dataset.pf];const d=+b.dataset.d;
+    const cr=[...ESTERNI,...ELEMENTALI].find(x=>x.id===a.id&&x.libro===a.libro);const m=modificatori(cr,a.grado);const mx=dividiPF(cr.pf+m.pfDv*cr.dv);
+    if(d<0){let dan=-d;const f=Math.min(Math.max(0,a.fat),dan);a.fat-=f;dan-=f;a.fer-=dan;}
+    else a.fer=Math.min(mx.fer,a.fer+d);
+    render();}));
+  main.querySelectorAll('[data-pfi]').forEach(b=>b.addEventListener('change',()=>{S.evocati[+b.dataset.pfi][b.dataset.k]=+b.value;render();}));
   main.querySelectorAll('[data-rd]').forEach(b=>b.addEventListener('click',()=>{const a=S.evocati[+b.dataset.rd];a.round--;if(a.round<=0)S.evocati.splice(+b.dataset.rd,1);render();}));
   main.querySelectorAll('[data-cong]').forEach(b=>b.addEventListener('click',()=>{S.evocati.splice(+b.dataset.cong,1);render();}));
   main.querySelectorAll('[data-apri]').forEach(b=>b.addEventListener('click',()=>{const a=S.evocati[+b.dataset.apri];const cr=[...ESTERNI,...ELEMENTALI].find(x=>x.id===a.id&&x.libro===a.libro);modal('<div class="card"><div class="sheetHead"><span></span><button class="btn sm" data-close>Chiudi</button></div>'+schedaCreatura(cr,a.grado,true)+'</div>');}));
@@ -785,7 +794,7 @@ function apriCreatura(id,lb){
   modal(h);
   const go=n=>{const m=modificatori(cr,cr.grado);const pf=cr.pf+m.pfDv*cr.dv;S.usiEvoca=(S.usiEvoca||0)+1;
     S.evocati=[];
-    for(let i=0;i<n;i++)S.evocati.push({id:cr.id,libro:cr.libro,grado:cr.grado,pf,round:roundsEvoc()});
+    for(let i=0;i<n;i++){const sp=dividiPF(pf);S.evocati.push({id:cr.id,libro:cr.libro,grado:cr.grado,fat:sp.fat,fer:sp.fer,round:roundsEvoc()});}
     S.ultimo={id:cr.id,libro:cr.libro};closeModal();render();};
   document.getElementById('evoca').addEventListener('click',()=>go(1));
   const eg=document.getElementById('evocaG');
