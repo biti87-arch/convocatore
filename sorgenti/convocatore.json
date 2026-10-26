@@ -1272,7 +1272,7 @@
    "nome": "Mente aliena",
    "costo": 3,
    "requisiti": "Convocatore di 9° livello.",
-   "testo": "La mente dell'eidolon diventa pericolosamente incomprensibile per i mortali. Le creature non aberrazioni che leggono la mente dell'eidolon o entrano in contatto telepatico con esso subiscono 1d4 danni a Saggezza. Inoltre, come azione veloce l’eidolon può iniziare un contatto mentale con una creatura entro 18 per infliggerle 1d4 danni a Saggezza. La vittima può superare un Tiro Salvezza su Volontà con CD 10 + metà Dadi Vita dell’eidolon + bonus di Carisma dell’eidolon per dimezzare i danni. Se il tiro riesce, la vittima diventa immune per 24 ore a ulteriori usi di questa capacità da parte del medesimo eidolon. Un convocatore è immune alla mente aliena del proprio eidolon. Questo è un effetto di [influenza mentale].",
+   "testo": "La mente dell'eidolon diventa pericolosamente incomprensibile per i mortali. Le creature non aberrazioni che leggono la mente dell'eidolon o entrano in contatto telepatico con esso subiscono 1d4 danni a Saggezza. Inoltre, come azione veloce l’eidolon può iniziare un contatto mentale con una creatura entro 18 per infliggerle 1d4 danni a Saggezza. La vittima può superare un Tiro Salvezza su Volontà con CD 10 + metà Dadi Vita dell’eidolon + bonus di Carisma dell’eidolon per dimezzare i danni. Se il tiro riesce, la vittima diventa immune per 24 ore a ulteriori usi di questa capacità da parte del medesimo eidolon. Un convocatore è immune alla mente aliena del proprio eidolon. Questo è un effetto di [INFLUENZA MENTALE].",
    "speciale": "",
    "lv": 9,
    "cd": "car"
@@ -1535,7 +1535,7 @@
    "nome": "Evocazioni nauseabonde",
    "meta": true,
    "requisiti": "Convocatore di 5° livello.",
-   "testo": "La creatura evocata tramite evoca esterno secerne un odore intenso, come un orribile fetore, un insostenibile aroma di incenso o un profumo oltremodo dolce. Le creature viventi che iniziano il proprio turno adiacenti alla creatura devono superare un Tiro Salvezza su Tempra con CD 10 + metà Dadi Vita dell’esterno + bonus di Costituzione dell’esterno o diventare inferme per 1 minuto. Questo è un effetto di [veleno]. Se il tiro riesce, la vittima diventa immune per 24 ore all’effetto di questa dote da convocatore, indipendentemente dalla creatura che emana l’odore. Nota: Tramite questa dote si può evocare solo creature di ameno 1 livello inferiore a quello massimo evocabile."
+   "testo": "La creatura evocata tramite evoca esterno secerne un odore intenso, come un orribile fetore, un insostenibile aroma di incenso o un profumo oltremodo dolce. Le creature viventi che iniziano il proprio turno adiacenti alla creatura devono superare un Tiro Salvezza su Tempra con CD 10 + metà Dadi Vita dell’esterno + bonus di Costituzione dell’esterno o diventare inferme per 1 minuto. Questo è un effetto di [VELENO]. Se il tiro riesce, la vittima diventa immune per 24 ore all’effetto di questa dote da convocatore, indipendentemente dalla creatura che emana l’odore. Nota: Tramite questa dote si può evocare solo creature di ameno 1 livello inferiore a quello massimo evocabile."
   },
   {
    "id": "evocazioni_potenziate",
@@ -1563,7 +1563,7 @@
    "nome": "Evocazioni stellari",
    "meta": true,
    "requisiti": "",
-   "testo": "La creatura evocata tramite evoca esterno ottiene bonus +3 ai Tiri Salvezza contro gli effetti di [ammaliamento: charme e compulsione] e [sonno]. Inoltre, i suoi attacchi con le armi e con gli attacchi naturali sono considerati in argento e ferro freddo. Infine, le creature ferite da un’arma o un attacco naturale della creatura, subiscono per 1 round -20 Furtività e non possono beneficiare di alcuna probabilità di essere mancate."
+   "testo": "La creatura evocata tramite evoca esterno ottiene bonus +3 ai Tiri Salvezza contro gli effetti di [AMMALIAMENTO: CHARME E COMPULSIONE] e [SONNO]. Inoltre, i suoi attacchi con le armi e con gli attacchi naturali sono considerati in argento e ferro freddo. Infine, le creature ferite da un’arma o un attacco naturale della creatura, subiscono per 1 round -20 Furtività e non possono beneficiare di alcuna probabilità di essere mancate."
   },
   {
    "id": "punti_evoluzione_extra",
@@ -1659,7 +1659,7 @@
     },
     {
      "nome": "Leader supremo (Sop)",
-     "testo": "Al 20° livello, un leader empireo viene infuso con il potere dei piani, ottenendo RE 10 (elettricità e fuoco) e immunità all'acido, al freddo, agli effetti di [veleno] e [pietrificazione]. Inoltre, ottiene una velocità di Volare di 9 m (buona) ma restando a un’altezza massima di 1 m da terra. Infine, tutte le creature evocate da un leader empireo tramite evoca esterno infliggono 2d6 danni extra con i propri attacchi naturali e con le armi.",
+     "testo": "Al 20° livello, un leader empireo viene infuso con il potere dei piani, ottenendo RE 10 (elettricità e fuoco) e immunità all'acido, al freddo, agli effetti di [VELENO] e [PIETRIFICAZIONE]. Inoltre, ottiene una velocità di Volare di 9 m (buona) ma restando a un’altezza massima di 1 m da terra. Infine, tutte le creature evocate da un leader empireo tramite evoca esterno infliggono 2d6 danni extra con i propri attacchi naturali e con le armi.",
      "diciture": [
       "Privilegio di classe sostituito: Potere assoluto al 20° livello."
      ]
@@ -1879,7 +1879,7 @@
     },
     {
      "nome": "Aura di controevocazione (Sop)",
-     "testo": "Al 1° livello, un controevocatore e il suo eidolon emanano entrambi una potente aura di abiurazione di 15 m. Questa aura interferisce con gli incantesimi e le capacità nemiche atte ad evocare creature od oggetti (come gli incantesimi Armatura magica, Arma spirituale, Evoca mostri, le capacità degli esterni di evocare altre creature, etc.). Quando vengono usati all'interno dell'aura, questi incantesimi e capacità, hanno una probabilità di fallimento del 50%, che aumenta di un ulteriore 5% per ogni livello di controevocatore oltre il 10° (fino a un massimo del 90%). L’aura viene soppressa se chi la emana cade privo di sensi.",
+     "testo": "Al 1° livello, un controevocatore e il suo eidolon emanano entrambi una potente aura di abiurazione di 15 m. Questa aura interferisce con gli incantesimi e le capacità nemiche atte ad evocare creature od oggetti (come gli incantesimi Armatura magica, Arma spirituale, Evoca esterno, Evoca elementale, le capacità degli esterni di evocare altre creature, etc.). Quando vengono usati all'interno dell'aura, questi incantesimi e capacità, hanno una probabilità di fallimento del 50%, che aumenta di un ulteriore 5% per ogni livello di controevocatore oltre il 10° (fino a un massimo del 90%). L’aura viene soppressa se chi la emana cade privo di sensi.",
      "diciture": [
       "Privilegio di classe sostituito: Evoca esterno a ciascun livello."
      ]

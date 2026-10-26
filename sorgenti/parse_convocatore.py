@@ -1,9 +1,9 @@
-"""Legge txt/Convocatore_v2.4_FINALE.txt e scrive convocatore.json
+"""Legge txt/Convocatore_v2.4.3_FINALE.txt e scrive convocatore.json
 (tabella dell'eidolon, privilegi, forme, evoluzioni con meccaniche, doti, archetipi).
 Le MECCANICHE delle evoluzioni sono codificate qui sotto (MECC): il testo viene sempre dal manuale."""
 import re,json,os
 R=os.path.dirname(os.path.abspath(__file__))
-L=[l.strip() for l in open(os.path.join(R,'txt','Convocatore_v2.4_FINALE.txt'),encoding='utf8').read().split('\n')]
+L=[l.strip() for l in open(os.path.join(R,'txt','Convocatore_v2.4.3_FINALE.txt'),encoding='utf8').read().split('\n')]
 L=[l for l in L if l]
 def slug(s):
     s=s.lower()
